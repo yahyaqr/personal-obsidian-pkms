@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logika.md",
-                "mode": "preview",
+                "file": "CODE/JS/Introduction.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logika.md",
+                "file": "CODE/JS/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logika.md",
+                "file": "CODE/JS/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,26 +125,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logika.md"
+                "file": "CODE/JS/Introduction.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5d59b1c2d7845be8",
+  "active": "332118c9d89e8db2",
   "lastOpenFiles": [
-    "Kebenaran.md",
-    "CODE/JS.md",
-    "Untitled.md",
     "Penalaran.md",
     "Logika.md",
+    "Kebenaran.md",
+    "CODE/JS/Introduction.md",
+    "Untitled.md",
     "2022-10-21.md",
     "Pengertian - Term.md",
     "Pengertian - Kata.md"
