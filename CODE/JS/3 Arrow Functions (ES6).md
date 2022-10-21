@@ -23,9 +23,18 @@ const sum = (firstParam, secondParam) => {
 console.log(sum(2,5)); // Prints: 7 
 ```
 
-### Concise Arrow Function
+### Concise arrow function
 Arrow functions with a single expression can use the concise function body which returns the result of the expression without the return keyword.
 ```js
 const multiply = (a, b) => a * b; 
 console.log(multiply(2, 30)); // Prints: 60 
+```
+
+### Concise arrow function with single argument assigned to variables
+No return, no () around the parameter, assigned to variables.
+```js
+const plusFive = number => number + 5;
+const f = plusFive;
+console.log(plusFive(3));
+console.log(f(9));
 ```

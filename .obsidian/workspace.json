@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODE/JS/1 Introduction.md",
+                "file": "CODE/JS/3 Arrow Functions (ES6).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "109c2da2dfbd8069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODE/JS/4 Function as Objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODE/JS/1 Introduction.md",
+                "file": "CODE/JS/4 Function as Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODE/JS/1 Introduction.md",
+                "file": "CODE/JS/4 Function as Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODE/JS/1 Introduction.md"
+                "file": "CODE/JS/4 Function as Objects.md"
               }
             }
           }
@@ -165,16 +177,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fda0c553c490c26e",
+  "active": "109c2da2dfbd8069",
   "lastOpenFiles": [
-    "CODE/JS/2 Functions.md",
     "CODE/JS/3 Arrow Functions (ES6).md",
+    "CODE/JS/4 Function as Objects.md",
+    "CODE/JS/2 Functions.md",
+    "CODE/JS/1 Introduction.md",
     "Kebenaran.md",
     "Logika.md",
     "Penalaran.md",
     "Pengertian - Term.md",
     "Pengertian - Kata.md",
-    "CODE/JS/1 Introduction.md",
     "2022-10-21.md"
   ]
 }
