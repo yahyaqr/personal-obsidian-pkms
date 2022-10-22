@@ -2,3 +2,5 @@
 
 -   Thinking: Bahan dasar dari Talking. Sesuatu yang masih dipikirkan biasanya sulit untuk disampaikan. Sulit disini bermakna masih 
 -   Talking: Produk dari Thinking. Konsep yang telah berulang kali diasah, diperbaiki, hingga akhirnya terbentuk dan menjadi matang.
+
+---

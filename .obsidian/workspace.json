@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/Distinction between 'thinking' and 'talking'.md",
+                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3936b75749cfdc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insights/Distinction between 'thinking' and 'talking'.md",
+                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insights/Distinction between 'thinking' and 'talking'.md",
+                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insights/Distinction between 'thinking' and 'talking'.md"
+                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md"
               }
             }
           }
@@ -165,8 +177,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4090db610d00a6ca",
+  "active": "b3936b75749cfdc2",
   "lastOpenFiles": [
+    "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
+    "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
     "BOK/Kebenaran/6 Pengertian - Suposisi Term.md",
     "BOK/Kebenaran/5 Pengertian - Term.md",
     "BOK/Kebenaran/4 Pengertian - Kata.md",
@@ -174,8 +188,6 @@
     "BOK/Kebenaran/3 Penalaran.md",
     "BOK/Kebenaran/1 Kebenaran.md",
     "CODE/JS/1 Introduction.md",
-    "CODE/JS/3 Arrow Functions (ES6).md",
-    "CODE/JS/4 Function as Objects.md",
-    "CODE/JS/5 Object Properties.md"
+    "CODE/JS/3 Arrow Functions (ES6).md"
   ]
 }
