@@ -26,4 +26,4 @@
             -   Manusia dapat diuraikan menjadi ‘makhluk’ dan ‘berbudi’.
 
 ---
-**Konteks:** Pengertian adalah unsur penting dalam [[Kebenaran]].
+**Konteks:** Memahami  adalah unsur penting dalam [[1 Kebenaran]].

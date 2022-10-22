@@ -6,4 +6,4 @@
 	-   Semua mamalia menyusui, manusia adalah mamalia, maka manusia menyusui.
 
 ---
-**Konteks:** Penalaran adalah proses menemukan [[Kebenaran]].
+**Konteks:** Penalaran adalah proses menemukan [[1 Kebenaran]].

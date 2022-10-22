@@ -13,4 +13,4 @@
     -   Hukum Cukup Alasan: Jika terjadi perubahan, perubahan haruslah berdasarkan alasan yang cukup dan dapat dipertanggungjawabkan.
 
 ---
-**Konteks:** Logika membutuhkan proses [[Penalaran]] untuk mendapatkan [[Kebenaran]].
+**Konteks:** Logika membutuhkan proses [[3 Penalaran]] untuk mendapatkan [[1 Kebenaran]].
