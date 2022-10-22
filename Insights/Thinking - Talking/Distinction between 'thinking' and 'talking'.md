@@ -4,3 +4,4 @@
 -   Talking: Produk dari Thinking. Konsep yang telah berulang kali diasah, diperbaiki, hingga akhirnya terbentuk dan menjadi matang.
 
 ---
+![[Digital Garden.png]]

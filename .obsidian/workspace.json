@@ -47,11 +47,9 @@
             "id": "b3936b75749cfdc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG/Digital Garden.png"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
+                "file": "IMG/Digital Garden.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
+                "file": "IMG/Digital Garden.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md"
+                "file": "IMG/Digital Garden.png"
               }
             }
           }
@@ -177,17 +175,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b3936b75749cfdc2",
+  "active": "4ce2ac3fd843de27",
   "lastOpenFiles": [
-    "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
     "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
+    "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
+    "IMG/Digital Garden.png",
     "BOK/Kebenaran/6 Pengertian - Suposisi Term.md",
     "BOK/Kebenaran/5 Pengertian - Term.md",
     "BOK/Kebenaran/4 Pengertian - Kata.md",
     "BOK/Kebenaran/2 Logika.md",
     "BOK/Kebenaran/3 Penalaran.md",
     "BOK/Kebenaran/1 Kebenaran.md",
-    "CODE/JS/1 Introduction.md",
-    "CODE/JS/3 Arrow Functions (ES6).md"
+    "CODE/JS/1 Introduction.md"
   ]
 }
