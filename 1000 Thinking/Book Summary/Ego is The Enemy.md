@@ -1,0 +1,50 @@
+| Meta   | Data                                                                     |
+| ------ | ------------------------------------------------------------------------ |
+| Author | Ryan Holiday                                                             | 
+| Source | [Alex and Books](https://alexandbooks.com/archive/2017/3/11/lessons-from-ego-is-the-enemy) |
+***
+> [!One Sentence summary]
+> Ego Is The Enemy reveals how a tendency that’s hardwired into our brains – the belief the world revolves around us and us alone – holds us back from living the life it makes us desire so much, what we can do to overcome it at every turn and how to achieve true greatness.
+
+---
+Plus, Minus, and Equal
+---
+> Each fighter, to become great... needs to have ==someone better== they can learn from, ==someone lesser== they can teach, and ==someone equal== they can challenge themselves against.
+
+\- Frank Shamrock, page 39.
+
+---
+Forever a Student
+---
+>It is impossible for a man to learn that, which he thinks he already knows.” 
+
+\- Epictetus
+
+> As our island of knowledge grows, so does the shore of our ignorance.
+
+\- John Wheler
+
+> A student is self-critical and self-motivated, always trying to improve his understanding so that he can move onto the next topic, the next challenge.
+
+\- Ryan Holiday, page 41.
+
+---
+Stay on Course (Euthymia)
+---
+> It’s about being what you are, and being as good as possible at it, without succumbing to all the things that draw you away from it.
+
+\- Ryan Holiday, page 117
+
+---
+Do your Best, Forget the Rest
+---
+> We have only minimal control over the rewards for our work and effort–other people’s validation, recognition, rewards. So what are we going to do? Not be kind, not work hard, not produce, because there is a chance it wouldn’t be reciprocated? C’mon.
+
+\- Ryan Holiday, page 178
+
+---
+Always Love
+---
+> Hate at any point is a cancer that gnaws away at the very vital center of your life and your existence. It is like eroding acid that eats away the best and the objective center of your life,
+
+\- Ryan Holiday, page 204

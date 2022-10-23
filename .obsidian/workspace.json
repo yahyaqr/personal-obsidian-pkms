@@ -8,51 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a3709004fb7fc64",
+            "id": "b151decf27eb0491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOK/Kebenaran/5 Pengertian - Term.md",
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "179a99e23c16d0d1",
+            "id": "43245551c6fdf97f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOK/Kebenaran/6 Pengertian - Suposisi Term.md",
+                "file": "0000 Utilities/Template/Personal/Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4090db610d00a6ca",
+            "id": "2cedb6a9d20cba56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b3936b75749cfdc2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            },
+            "group": "1d301970d35d2053"
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "0292ac31c148674a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bbca0d6fbffc760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "1d301970d35d2053"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,31 +169,41 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md"
+              }
+            }
+          },
+          {
+            "id": "583e02efbd88675c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b3936b75749cfdc2",
+  "active": "2cedb6a9d20cba56",
   "lastOpenFiles": [
-    "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
-    "Insights/Digital Garden/Notes.md",
-    "000 Home.md",
-    "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
-    "CODE/JS/5 Object Properties.md",
-    "CODE/JS/4 Function as Objects.md",
-    "CODE/JS/3 Arrow Functions (ES6).md",
-    "IMG/Digital Garden.png",
-    "BOK/Kebenaran/6 Pengertian - Suposisi Term.md",
-    "BOK/Kebenaran/5 Pengertian - Term.md"
+    "0000 Utilities/Template/Personal/BookSummary.md",
+    "0000 Utilities/Template/Source/GenericNote.md",
+    "0000 Utilities/Template/Personal/CalloutBlock.md",
+    "1000 Thinking/Book Summary/Ego is The Enemy.md",
+    "0000 Utilities/Template/Personal/TaskList.md",
+    "0000 Utilities/Template/Personal/Table.md",
+    "HOME.md",
+    "0000 Utilities/Template/Source/BookNotes.md",
+    "0000 Utilities/Template/Source/BlogPost.md",
+    "0000 Utilities/Template/Source/WeeklyNote.md"
   ]
 }

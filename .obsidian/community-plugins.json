@@ -1,7 +1,6 @@
 [
-  "customjs",
-  "obsidian-react-components",
-  "templater-obsidian",
   "execute-code",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-footnotes"
 ]
