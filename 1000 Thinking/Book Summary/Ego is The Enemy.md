@@ -1,7 +1,12 @@
-| Meta   | Data                                                                     |
-| ------ | ------------------------------------------------------------------------ |
-| Author | Ryan Holiday                                                             | 
-| Source | [Alex and Books](https://alexandbooks.com/archive/2017/3/11/lessons-from-ego-is-the-enemy) |
+---
+author: Ryan Holiday
+source:
+- alexandbooks.com/archive/2017/3/11/lessons-from-ego-is-the-enemy 
+- dailystoic.com/ego-is-the-enemy-summary
+created: {{date}}
+tags: BookSummary
+aliases: [Ego is The Enemy by Ryan Holiday, Ryan Holiday]
+---
 ***
 > [!One Sentence summary]
 > Ego Is The Enemy reveals how a tendency that’s hardwired into our brains – the belief the world revolves around us and us alone – holds us back from living the life it makes us desire so much, what we can do to overcome it at every turn and how to achieve true greatness.
