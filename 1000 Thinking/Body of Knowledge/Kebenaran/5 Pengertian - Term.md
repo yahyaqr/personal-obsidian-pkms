@@ -24,6 +24,3 @@ tags: BOK-Kebenaran
 	    - Keadilan, kebenaran.
     -   Term nihil: Objek yang tidak memiliki objek referent sama sekali, sebab objek-objek term ini bersifat imajinatif, fiktif, dan sebagainya.
 	    - Malaikat, surga, neraka, peri, dan sebagainya.
-
----
-**Konteks:** Pengertian adalah unsur penting dalam [[1 Kebenaran]].

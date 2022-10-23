@@ -21,6 +21,3 @@ tags: BOK-Kebenaran
 	-   Manusia mempunyai mulut. Anjing mempunyai kaki.
 -   Suposisi Metaforis: Penggunaan term dalam konotasi analogis.
 	-   Ombak di pantai bergulung dan berkejaran.
-
----
-**Konteks:** 

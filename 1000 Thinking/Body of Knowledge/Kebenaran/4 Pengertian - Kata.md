@@ -33,6 +33,3 @@ tags: BOK-Kebenaran
             -   Kata ‘ada’ tidak dapat diuraikan lagi.
         -   Kompleks: Terdiri dari beberapa ciri.
             -   Manusia dapat diuraikan menjadi ‘makhluk’ dan ‘berbudi’.
-
----
-**Konteks:** Memahami  adalah unsur penting dalam [[1 Kebenaran]].

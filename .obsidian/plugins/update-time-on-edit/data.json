@@ -6,6 +6,8 @@
   "headerUpdated": "updated",
   "headerCreated": "created",
   "minMinutesBetweenSaves": 1,
-  "ignoreGlobalFolder": [],
+  "ignoreGlobalFolder": [
+    "0000 Utilities"
+  ],
   "ignoreCreatedFolder": []
 }

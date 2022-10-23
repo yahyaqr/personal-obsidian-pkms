@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
+                "file": "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
-                "mode": "source",
+                "file": "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
+                "file": "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
+                "file": "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md"
+                "file": "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md"
               }
             }
           },
@@ -171,14 +171,14 @@
   "active": "aac4c7a067e35c2c",
   "lastOpenFiles": [
     "1000 Thinking/Body of Knowledge/Kebenaran/2 Logika.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/4 Pengertian - Kata.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/5 Pengertian - Term.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/6 Pengertian - Suposisi Term.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md",
-    "0000 Utilities/IMG/Digital Garden.png",
-    "HOME.md",
     "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
+    "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md",
+    "1000 Thinking/Web Surfing Insights/Thinking - Talking.md",
     "1000 Thinking/Book Summary/Ego is The Enemy.md",
-    "0000 Utilities/Template/Personal/CalloutBlock.md"
+    "1000 Thinking/Body of Knowledge/Kebenaran/4 Pengertian - Kata.md",
+    "0000 Utilities/Template/Personal/CalloutBlock.md",
+    "0000 Utilities/Template/Personal/BookSummary.md",
+    "0000 Utilities/Template/Personal/SummaryBlock.md",
+    "0000 Utilities/Template/Personal/Table.md"
   ]
 }
