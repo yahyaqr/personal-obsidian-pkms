@@ -47,12 +47,8 @@
             "id": "b3936b75749cfdc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -179,9 +171,9 @@
   },
   "active": "b3936b75749cfdc2",
   "lastOpenFiles": [
+    "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
     "Insights/Digital Garden/Notes.md",
     "000 Home.md",
-    "Insights/Thinking - Talking/Should we publish 'thinking' or 'talking'.md",
     "Insights/Thinking - Talking/Distinction between 'thinking' and 'talking'.md",
     "CODE/JS/5 Object Properties.md",
     "CODE/JS/4 Function as Objects.md",
