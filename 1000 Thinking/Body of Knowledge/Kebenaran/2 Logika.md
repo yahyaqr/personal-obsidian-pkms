@@ -1,3 +1,12 @@
+---
+source:
+- C:/Users/asus/Downloads/PengantarLogikaDasar.pdf
+- Pengantar Logika Dasar, Muhammad Rakhmat, LoGox 
+created: Sunday, October 23rd 2022 - 11.10
+updated: Sunday, October 23rd 2022 - 11.16
+tags: BOK-Kebenaran
+---
+
 ##### Logika secara umum dapat dimaknai cara berpikir yang benar dan mempunyai nilai kebenaran.
 
 -   Logika mempelajari kemampuan manusia untuk berpikir secara lurus, tepat, dan teratur.    

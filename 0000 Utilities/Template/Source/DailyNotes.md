@@ -1,13 +1,8 @@
 ---
-created: <% tp.file.creation_date() %>
+created: Sunday, October 23rd 2022 - 11.22
+updated: Sunday, October 23rd 2022 - 11.22
 ---
-tags:: [[+Daily Notes]]
 
-# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
-
-<< [[<% tp.date.now("YYYY-MM-DD-dddd", -1, tp.file.title, "YYYY-MM-DD-dddd") %>]] | [[<% tp.date.now("YYYY-MM-DD-dddd", 1, tp.file.title, "YYYY-MM-DD-dddd") %>]]>>
-
----
 ### 📅 Daily Questions
 ##### 🌜 Last night, after work, I...
 - 

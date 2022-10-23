@@ -1,3 +1,12 @@
+---
+source:
+- C:/Users/asus/Downloads/PengantarLogikaDasar.pdf
+- Pengantar Logika Dasar, Muhammad Rakhmat, LoGox 
+created: Sunday, October 23rd 2022 - 11.10
+updated: Sunday, October 23rd 2022 - 11.16
+tags: BOK-Kebenaran
+---
+
 ##### Suposisi term dapat dimaknai ketepatan makna yang dimiliki sebuah term dalam sebuah proposisi atau pernyataan.
 
 -   Suposisi Material: Penggunaan term dengan makna sebagaimana term itu diucapkan atau ditulis. Semata-mata hanya menerangkan term, terlepas dari makna yang terkandung di dalamnya.

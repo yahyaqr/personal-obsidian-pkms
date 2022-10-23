@@ -1,3 +1,12 @@
+---
+source:
+- C:/Users/asus/Downloads/PengantarLogikaDasar.pdf
+- Pengantar Logika Dasar, Muhammad Rakhmat, LoGox 
+created: Sunday, October 23rd 2022 - 11.10
+updated: Sunday, October 23rd 2022 - 11.16
+tags: BOK-Kebenaran
+---
+
 ##### Penalaran adalah metode dalam memvalidasi sebuah argumen.
 
 -   Induktif: Memberikan validasi suatu kasus umum melalui kasus-kasus khusus.

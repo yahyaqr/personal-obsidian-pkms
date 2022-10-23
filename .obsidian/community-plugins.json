@@ -2,5 +2,9 @@
   "execute-code",
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-auto-split",
+  "obsidian-state-switcher",
+  "update-time-on-edit",
+  "obsidian-dynamic-toc"
 ]
