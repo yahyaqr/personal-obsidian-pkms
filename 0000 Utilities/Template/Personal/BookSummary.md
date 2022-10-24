@@ -1,39 +1,34 @@
-| Meta   | Data                                                                     |
-| ------ | ------------------------------------------------------------------------ |
-| Author | SomeAuthor                                                             | 
-| Source | [SomeSource](https://alexandbooks.com/archive/2017/3/11/lessons-from-ego-is-the-enemy) |
+---
+author: 
+source:
+- alexandbooks.com/archive/2017/3/11/lessons-from-ego-is-the-enemy 
+- dailystoic.com/ego-is-the-enemy-summary
+created: 
+updated: 
+tags: BookSummary
+aliases: [BookSummary, Author]
+---
 ***
-
-SomeInsights
+> [!One Sentence summary]
+> LoremIpsumDolorSitAmetConsecteturAdipsicingElit.
+```toc
+```
+---
+HeaderTwo
 ---
 > LoremIpsumDolorSitAmetConsecteturAdipsicingElit
+> \--- **SomeAuthor**.
 
-\- SomeAuthor, BookTitle page 39.
-
----
-SomeInsights
----
-> LoremIpsumDolorSitAmetConsecteturAdipsicingElit
-
-\- SomeAuthor, BookTitle page 41.
+> LoremIpsumDolorSitAmetConsecteturAdipsicingElit.
+> \--- page 41.
 
 ---
-SomeInsights
+HeaderTwo
 ---
-> LoremIpsumDolorSitAmetConsecteturAdipsicingElit
+> LoremIpsumDolorSitAmetConsecteturAdipsicingElit.
+> \--- **SomeAuthor**.
 
-\- SomeAuthor, BookTitle page 41.
-
----
-SomeInsights
----
-> LoremIpsumDolorSitAmetConsecteturAdipsicingElit
-
-\- SomeAuthor, BookTitle page 41.
+> LoremIpsumDolorSitAmetConsecteturAdipsicingElit.
+> \--- page 41.
 
 ---
-SomeInsights
----
-> LoremIpsumDolorSitAmetConsecteturAdipsicingElit
-
-\- SomeAuthor, BookTitle page 41.

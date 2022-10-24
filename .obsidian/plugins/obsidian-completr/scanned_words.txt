@@ -52,6 +52,8 @@ some
 success
 spend
 succumbing
+supported
+syntax
 Users
 Univokal
 asus
@@ -101,6 +103,9 @@ all
 away
 any
 acid
+also
+an
+attachments
 Downloads
 Dasar
 Decision
@@ -109,6 +114,9 @@ Detail
 Draft
 Daily
 Do
+Data
+Description
+Darren
 PengantarLogikaDasar
 Pengantar
 Pengertian
@@ -127,6 +135,7 @@ Plus
 Purpose
 Passion
 Prioritize
+Paragraph
 pdf
 pengetahuan
 penting
@@ -180,6 +189,8 @@ Last
 Live
 Leave
 Love
+LoremIpsumDolorSitAmetConsecteturAdipsicingElit
+LoremIpsumolorSitAmet
 Muhammad
 Memberikan
 Mahasiswa
@@ -191,6 +202,7 @@ Material
 Metaforis
 Minus
 Make
+Meta
 Rakhmat
 Reasoning
 Riil
@@ -228,6 +240,11 @@ control
 chance
 cancer
 center
+callout
+character
+clicked
+checked
+convertkitcdnm
 Sunday
 Sikap
 Sesuatu
@@ -244,6 +261,10 @@ Steps
 Shamrock
 Student
 So
+SomeAuthor
+Source
+SomeInsights
+Syntax
 October
 Oleh
 Objek
@@ -268,6 +289,7 @@ require
 rewards
 recognition
 reciprocated
+required
 updated
 umum
 untuk
@@ -278,6 +300,7 @@ understanding
 used
 using
 usefully
+unordered
 tags
 tinjauan
 tepat
@@ -333,6 +356,7 @@ team
 timeline
 time
 there
+tasks
 BOK
 Berpikir
 Bisa
@@ -341,6 +365,7 @@ Brainstorm
 BookSummary
 Bill
 Best
+BookTitle
 Kebenaran
 Kesamaan
 Komponen
@@ -440,6 +465,8 @@ outcomes
 only
 other
 objective
+ordered
+off
 itu
 inti
 individu
@@ -458,6 +485,8 @@ island
 ignorance
 improve
 improving
+item
+incomplete
 yang
 you
 your
@@ -524,6 +553,7 @@ learn
 lesser
 learned
 lead
+list
 berpikir
 benar
 berdasarkan
@@ -558,6 +588,8 @@ but
 being
 because
 best
+block
+bdd
 nilai
 nihil
 neraka
@@ -576,11 +608,16 @@ Conclusion
 Call
 Checklist
 Coach
+Compound
 Hukum
 Hidup
 Holiday
 He
 Hate
+Here
+Header
+HeaderTwo
+Hardy
 Identitas
 Induktif
 Individual
@@ -597,6 +634,9 @@ Terdiri
 Term
 Transition
 The
+This
+Title
+Text
 Jalan
 Jika
 Joni
@@ -610,6 +650,7 @@ Asas
 As
 Alive
 Always
+Author
 haruslah
 hitam
 hanya
@@ -644,6 +685,7 @@ Equal
 Each
 Epictetus
 Euthymia
+Effect
 jiwa
 just
 Narto
@@ -684,6 +726,7 @@ working
 when
 win
 wouldn
+works
 ekstrem
 enjoy
 each
@@ -698,6 +741,7 @@ effort
 existence
 eroding
 eats
+ea
 fiktif
 for
 file
@@ -707,6 +751,7 @@ feel
 follow
 focus
 focusing
+formatting
 Formal
 Frank
 Forever
