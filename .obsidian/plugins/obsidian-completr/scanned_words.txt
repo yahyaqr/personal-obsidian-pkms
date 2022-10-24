@@ -62,6 +62,7 @@ Pasangan
 Panas
 Penggunaan
 Pulpen
+Perlawanan
 pdf
 pengetahuan
 penting
@@ -87,6 +88,7 @@ peri
 proposisi
 pikiran
 pantai
+pola
 Logika
 LoGox
 Logis
@@ -103,6 +105,8 @@ Metaforis
 Rakhmat
 Reasoning
 Riil
+Relatif
+Referent
 created
 cara
 cukup
@@ -118,6 +122,7 @@ Suposisi
 Semata
 Semestinya
 Selayaknya
+Sukiman
 October
 Oleh
 Objek
@@ -161,6 +166,7 @@ tempat
 BOK
 Berpikir
 Bisa
+Berdasarkan
 Kebenaran
 Kesamaan
 Komponen
@@ -172,6 +178,9 @@ Kolektif
 Kompleks
 Kacamata
 Keadilan
+Kontradiktoris
+Kontraris
+Kodrat
 dapat
 dimaknai
 dengan
@@ -221,6 +230,7 @@ kita
 kepada
 kaki
 konotasi
+keuangan
 objek
 obat
 orang
@@ -290,12 +300,15 @@ budi
 berarti
 bergulung
 berkejaran
+bermakna
+berbagai
 nilai
 nihil
 neraka
 Concept
 Cukup
 Cinta
+Contoh
 Hukum
 Hidup
 Identitas
@@ -316,12 +329,14 @@ Alasan
 Analogis
 Abstrak
 Anjing
+Asas
 haruslah
 hitam
 hanya
 huruf
 haknya
 hal
+hidup
 validasi
 Ekuivokal
 jiwa
@@ -333,3 +348,4 @@ warna
 ekstrem
 fiktif
 Formal
+Gagasan

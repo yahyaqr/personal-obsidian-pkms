@@ -15,9 +15,9 @@ tags: BOK-Kebenaran
 Penalaran Induktif
 ---
 Memberikan validasi suatu kasus umum melalui kasus-kasus khusus.
-- Joni dan Jani mati, Joni dan Jani adalah manusia, maka semua manusia mati.
+- Contoh: Joni dan Jani mati, Joni dan Jani adalah manusia, maka semua manusia mati.
 ---
 Penalaran Deduktif
 ---
 Memberikan validasi suatu kasus khusus melalui suatu kasus umum.
-- Semua mamalia menyusui, manusia adalah mamalia, maka manusia menyusui.
+- Contoh: Semua mamalia menyusui, manusia adalah mamalia, maka manusia menyusui.

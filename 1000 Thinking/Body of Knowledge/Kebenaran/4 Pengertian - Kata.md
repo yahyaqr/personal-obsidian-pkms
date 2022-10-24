@@ -16,34 +16,46 @@ tags: BOK-Kebenaran
 Kata menurut arti:
 ---
 ### Univokal
-- Sama suara, sama artinya.
-	- Mahasiswa = pelajar tingkat perguruan tinggi.
+Sama suara, sama artinya.
+- Contoh: Mahasiswa bermakna pelajar tingkat perguruan tinggi.
 
 ### Ekuivokal
-- Sama suara, tetapi tidak sama artinya.
-	- Bisa = mampu, bisa = racun.
+Sama suara, tetapi tidak sama artinya.
+- Contoh: Bisa bermakna mampu, bisa bermakna racun.
 
 ### Analogis
-- Sama suara, memliki kesamaan dan perbedaan arti.
-	- Sehat = {Sehat jiwa, sehat raga, sehat dalam obat, sehat dalam kesehatan}.
+Sama suara, memliki kesamaan dan perbedaan arti.
+- Contoh: Sehat memiliki berbagai makna tetapi satu konsep yang sama. Sehat jiwa, sehat raga, sehat dalam keuangan, sehat dalam pola hidup.
 
 ---
 Kata menurut isi:
 ---
 ### Abstrak - Konkret
--   Abstrak: Menunjukkan suatu bentuk atau sifat tanpa bendanya.
-	-   Kemanusiaan, keindahan.
--   Konkret: Menunjukkan suatu benda dengan bentuk atau sifatnya.
-	-   Manusia.
+
+#### Abstrak
+Menunjukkan suatu bentuk atau sifat tanpa bendanya.
+- Contoh: Kemanusiaan, keindahan.
+
+#### Konkret
+Menunjukkan suatu benda dengan bentuk atau sifatnya.
+- Contoh: Manusia.
 
 ### Kolektif - Individual
--   Kolektif: Menunjukkan sesuatu kelompok.
-	-   Tentara.
--   Individual: Menunjukkan suatu individu saja.
-	-   “Narto” yang berprofesi sebagai tentara.
+
+#### Kolektif
+Menunjukkan sesuatu kelompok.
+- Contoh: Tentara.
+
+#### Individual
+Menunjukkan suatu individu saja.
+- Contoh: “Sukiman” yang berprofesi sebagai tentara.
 
 ### Sederhana - Kompleks
--   Sederhana: Terdiri dari satu ciri.
-	-   Kata ‘ada’ tidak dapat diuraikan lagi.
--   Kompleks: Terdiri dari beberapa ciri.
-	-   Manusia dapat diuraikan menjadi ‘makhluk’ dan ‘berbudi’.
+
+#### Sederhana
+Terdiri dari satu ciri.
+- Contoh: Kata ‘ada’ tidak dapat diuraikan lagi.
+
+#### Kompleks
+Terdiri dari beberapa ciri.
+- Contoh: Manusia dapat diuraikan menjadi ‘makhluk’ dan ‘berbudi’.

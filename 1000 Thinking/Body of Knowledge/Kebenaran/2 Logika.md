@@ -16,6 +16,7 @@ Pengertian
 ---
 Logika mempelajari kemampuan manusia untuk berpikir secara lurus, tepat, dan teratur.    
 
+---
 Komponen Berpikir Logis
 ---
 
@@ -28,20 +29,21 @@ Sikap individu terhadap objek tinjauan.
 ### Reasoning
 Proses penalaran berdasarkan pengetahuan dan pemahaman.
 
+---
 Hukum Dasar Logika (postulat-postulat universal)
 ---
 
-**1. Hukum Identitas**
+### Hukum Identitas
 Sesuatu itu adalah sama dengan dirinya sendiri.
 *P $=$ P*
 
-**2. Hukum Kontradiksi**
+### Hukum Kontradiksi
 Sesuatu tidak dapat sekaligus memiliki dan tidak memiliki sifat tertentu.
 *Tidak mungkin P $=$ Q dan P $\ne$ Q*
 
-**3. Hukum Tiada Jalan Tengah**
+### Hukum Tiada Jalan Tengah
 Sesuatu pasti memiliki sifat tertentu atau tidak memiliki sifat tertentu dan tidak ada kemungkinan lain.
 *P $=$ Q atau P $\ne$ Q*
 
-**4. Hukum Cukup Alasan**
+### Hukum Cukup Alasan
 Jika terjadi perubahan, perubahan haruslah berdasarkan alasan yang cukup dan dapat dipertanggungjawabkan.

@@ -8,6 +8,6 @@
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "showLineNumber": true
 }
