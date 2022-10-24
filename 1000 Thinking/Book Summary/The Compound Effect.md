@@ -61,3 +61,29 @@ Create Routine, Build Up Momentum
 
 >Keep showing up until your habit clicks into a routine.
 
+---
+Action Item
+---
+
+### The Compound Effect
+1. Write down 6 seemingly inconsequential positive steps you can start doing daily.
+	1. Start consistently writing on Personal Knowledge Management System (Obsidian). Building my own knowledge base. I know it's very rewarding in the long term.
+	2. Start doing Home Workout Routine once a day.
+	3. 
+2. Identify 6 seemingly inconsequential negative actions you can put a stop to.
+	1. Stop M.
+	2. Stop praying on my Bedroom unless there is certain limitating condition.
+	3. 
+3. Identify any areas of life where you’ve enjoyed success in the past but may have become complacent and are no longer improving.
+	1. a
+
+### Choices
+
+1. Identify the one area of life you’re struggling most with and start journalling all the things you’re grateful for about it.
+	1. Social Interaction?
+	2. Social Credibility?
+	3. Financial Stability?
+2. Identify and assess an area of life you want to change and that you’re not taking 100% responsibility for.
+	1. 
+3. Start tracking at least one behaviour in one area of your life you’d like to change and improve.
+4. 

@@ -26,14 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
+                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e6a97991df2c45e",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
+                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
+                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md"
+                "file": "1000 Thinking/Book Summary/The Compound Effect.md"
               }
             }
           },
@@ -181,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3dac914862d90e3b",
+  "active": "dfcd3951005d81b3",
   "lastOpenFiles": [
-    "1000 Thinking/Book Summary/The Compound Effect.md",
     "1000 Thinking/Book Summary/Ego is The Enemy.md",
-    "2000 Talking/Singkat/Cheating == Long Term Debt.md",
+    "1000 Thinking/Book Summary/The Compound Effect.md",
     "0000 Utilities/Template/Personal/BookSummary.md",
+    "1000 Thinking/Web Surfing Insights/Thinking - Talking.md",
+    "Internal link.md",
+    "2000 Talking/Singkat/Cheating == Long Term Debt.md",
     "0000 Utilities/Template/Block/TaskList.md",
     "0000 Utilities/Template/Block/Table.md",
     "0000 Utilities/Template/Block/SummaryBlock.md",
-    "0000 Utilities/Template/Block/CalloutBlock.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/2 Logika.md"
+    "0000 Utilities/Template/Block/CalloutBlock.md"
   ]
 }

@@ -60,18 +60,3 @@ Always Love
 ---
 > Hate at any point is a cancer that gnaws away at the very vital center of your life and your existence. It is like eroding acid that eats away the best and the objective center of your life,
 > \--- page 204
- 
----
-Action Item
----
-
-1. Write down 6 seemingly inconsequential positive steps you can start doing daily.
-	1. Start consistently writing on Personal Knowledge Management System (Obsidian). Building my own knowledge base. I know it's very rewarding in the long term.
-	2. Start doing Home Workout Routine once a day.
-	3. 
-2. Identify 6 seemingly inconsequential negative actions you can put a stop to.
-	1. Stop M.
-	2. Stop praying on my Bedroom unless there is certain limitating condition.
-	3. 
-3. Identify any areas of life where you’ve enjoyed success in the past but may have become complacent and are no longer improving.
-	1. Doing 
