@@ -17,9 +17,11 @@ updated: Monday, October 24th 2022 - 10.55
 ---
 Choice Awareness
 ---
-> Our choices can be our best friend or our worst enemy. They can deliver us to our goals or send us orbiting into a galaxy far, far away. In essence, you make your choices, and then your choices make you. Every decision, no matter how slight, alters the trajectory of your life.
+>In essence, you make your choices, and then your choices make you. Every decision, no matter how slight, alters the trajectory of your life.
 
 > The first step toward change is awareness. If you want to get from where you are to where you want to be, you have to start by becoming aware of the choices that lead you away from your desired destination.
+
+>The choices that lead to life-altering change are, on the surface, disarmingly small. The good ones are easy to overlook and the bad ones are easy to forgive. What’s more, cause and effect are so distant that they’re hard to connect.
 
 >At the end of the day, look at the list and ask yourself: Are these choices consistent with my core values? Are they in alignment with who I want to become?
 
