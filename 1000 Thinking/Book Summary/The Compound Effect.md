@@ -78,12 +78,18 @@ Action Item
 	1. a
 
 ### Choices
-
 1. Identify the one area of life you’re struggling most with and start journalling all the things you’re grateful for about it.
 	1. Social Interaction?
 	2. Social Credibility?
 	3. Financial Stability?
 2. Identify and assess an area of life you want to change and that you’re not taking 100% responsibility for.
-	1. 
+	1. a
 3. Start tracking at least one behaviour in one area of your life you’d like to change and improve.
-4. 
+	1. a
+
+### Habits
+1.  Acknowledge the power of habits in light of the compound effect;
+2.  Determine a powerfully motivating “Why?” for changing your behaviour;
+3.  Set effective goals and clearly visualise what success looks like;
+4.  Identify and remove the bad habits holding you back from your goals;
+5.  Identify and create the good habits you’ll need to reach your goals.
