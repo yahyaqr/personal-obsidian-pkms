@@ -11,8 +11,12 @@
             "id": "aac4c7a067e35c2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "118819d7a461233b"
           }
@@ -28,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/Kebenaran/5 Pengertian - Term.md",
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000 Thinking/Book Summary/Ego is The Enemy.md"
+              }
             }
           },
           {
@@ -162,15 +170,15 @@
   },
   "active": "aac4c7a067e35c2c",
   "lastOpenFiles": [
+    "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
+    "1000 Thinking/Body of Knowledge/Kebenaran/2 Logika.md",
     "1000 Thinking/Body of Knowledge/Kebenaran/5 Pengertian - Term.md",
     "1000 Thinking/Body of Knowledge/Kebenaran/4 Pengertian - Kata.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/2 Logika.md",
     "1000 Thinking/Body of Knowledge/Kebenaran/3 Penalaran.md",
-    "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
     "1000 Thinking/Body of Knowledge/Kebenaran/6 Pengertian - Suposisi Term.md",
+    "0000 Utilities/Template/Source/DailyNotes.md",
+    "0000 Utilities/Template/Source/BlogPost.md",
     "1000 Thinking/Web Surfing Insights/Thinking - Talking.md",
-    "1000 Thinking/Book Summary/Ego is The Enemy.md",
-    "0000 Utilities/Template/Personal/CalloutBlock.md",
-    "0000 Utilities/Template/Personal/BookSummary.md"
+    "1000 Thinking/Book Summary/Ego is The Enemy.md"
   ]
 }

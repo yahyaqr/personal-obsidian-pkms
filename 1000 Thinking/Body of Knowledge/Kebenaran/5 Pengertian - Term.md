@@ -15,6 +15,7 @@ tags: BOK-Kebenaran
 ---
 Berdasarkan Asas Perlawanan Gagasan Dasar
 ---
+
 ### Term Kontradiktoris
 Term yang satu mempertegas makna term yang lain melalui pengingkarannya.
 - Contoh: Hidup-mati, benar-salah.
@@ -30,6 +31,7 @@ Pasangan term yang satu tidak mungkin dimengerti tanpa ada yang lain sebagai law
 ---
 Berdasarkan Kodrat Referent
 ---
+
 ### Term konkrit
 Term yang memiliki objek yang mudah diamati.
 - Contoh: Kacamata, pulpen.
