@@ -19,13 +19,13 @@ Logika mempelajari kemampuan manusia untuk berpikir secara lurus, tepat, dan ter
 Komponen Berpikir Logis
 ---
 
-**1. Concept**
+### Concept
 Pemahaman inti dari suatu objek tinjauan.
 
-**2. Decision**
+### Decision
 Sikap individu terhadap objek tinjauan.
 
-**3. Reasoning**
+### Reasoning
 Proses penalaran berdasarkan pengetahuan dan pemahaman.
 
 Hukum Dasar Logika (postulat-postulat universal)
