@@ -150,6 +150,8 @@ akhirnya
 audience
 approach
 advanced
+area
+assess
 Downloads
 Dasar
 Decision
@@ -164,6 +166,7 @@ Darren
 Doing
 Distinction
 Depends
+Determine
 PengantarLogikaDasar
 Pengantar
 Pengertian
@@ -261,6 +264,8 @@ perceive
 progress
 publishes
 perhaps
+power
+powerfully
 Logika
 LoGox
 Logis
@@ -269,7 +274,6 @@ Last
 Live
 Leave
 Love
-LoremIpsumDolorSitAmetConsecteturAdipsicingElit
 LoremIpsumolorSitAmet
 Life
 Muhammad
@@ -362,6 +366,8 @@ condition
 complacent
 chances
 consumption
+changing
+clearly
 Sunday
 Sikap
 Sesuatu
@@ -390,6 +396,9 @@ Sulit
 Should
 Selling
 Summary
+Social
+Stability
+Set
 October
 Oleh
 Objek
@@ -430,6 +439,8 @@ runs
 ready
 researching
 refined
+remove
+reach
 updated
 umum
 untuk
@@ -522,12 +533,13 @@ thinking
 telah
 terbentuk
 traditionally
+taking
+tracking
 BOK
 Berpikir
 Bisa
 Berdasarkan
 Brainstorm
-BookSummary
 Bill
 Best
 BookTitle
@@ -775,6 +787,7 @@ management
 might
 masih
 matang
+motivating
 limitasi
 lurus
 lain
@@ -802,6 +815,9 @@ lunch
 limitating
 longer
 looking
+least
+light
+looks
 berpikir
 benar
 berdasarkan
@@ -852,6 +868,7 @@ base
 biasanya
 berulang
 brand
+behaviour
 nilai
 nihil
 neraka
@@ -881,6 +898,8 @@ Choice
 Cross
 Create
 Chances
+Choices
+Credibility
 Hukum
 Hidup
 Holiday
@@ -894,6 +913,7 @@ How
 Habit
 Home
 Head
+Habits
 Identitas
 Induktif
 Individual
@@ -906,6 +926,7 @@ In
 If
 Item
 Identify
+Interaction
 Tidak
 Tiada
 Tengah
@@ -935,7 +956,6 @@ Asas
 As
 Alive
 Always
-Author
 Awareness
 At
 Are
@@ -943,6 +963,7 @@ And
 Action
 Andy
 Academy
+Acknowledge
 haruslah
 hitam
 hanya
@@ -972,6 +993,7 @@ healthy
 habits
 hardest
 hingga
+holding
 validasi
 videos
 ve
@@ -982,6 +1004,7 @@ vital
 values
 vision
 versus
+visualise
 Ekuivokal
 Examples
 Expand
@@ -997,6 +1020,7 @@ Even
 Expert
 jiwa
 just
+journalling
 Narto
 Notes
 Not
@@ -1084,6 +1108,7 @@ eat
 enjoyed
 entertaining
 expertise
+effective
 fiktif
 for
 file
@@ -1113,6 +1138,7 @@ Forget
 For
 Former
 Fiction
+Financial
 Gagasan
 Go
 Greeks

@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d1eb58afae42c903",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dfcd3951005d81b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "9267f01824a0a7b0"
-          },
-          {
-            "id": "3dac914862d90e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0e6a97991df2c45e",
         "type": "tabs",
         "children": [
@@ -44,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
+                "file": "SequenceDiagram.md",
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "9267f01824a0a7b0"
+            }
           }
         ]
       }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
+                "file": "SequenceDiagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Thinking/Book Summary/The Compound Effect.md",
+                "file": "SequenceDiagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Thinking/Book Summary/The Compound Effect.md"
+                "file": "SequenceDiagram.md"
               }
             }
           },
@@ -180,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dfcd3951005d81b3",
+  "active": "87bfab3f1be02e05",
   "lastOpenFiles": [
-    "1000 Thinking/Book Summary/Ego is The Enemy.md",
+    "Internal link.md",
+    "SequenceDiagram.md",
     "1000 Thinking/Book Summary/The Compound Effect.md",
+    "1000 Thinking/Book Summary/Ego is The Enemy.md",
     "0000 Utilities/Template/Personal/BookSummary.md",
     "1000 Thinking/Web Surfing Insights/Thinking - Talking.md",
-    "Internal link.md",
     "2000 Talking/Singkat/Cheating == Long Term Debt.md",
     "0000 Utilities/Template/Block/TaskList.md",
     "0000 Utilities/Template/Block/Table.md",
-    "0000 Utilities/Template/Block/SummaryBlock.md",
-    "0000 Utilities/Template/Block/CalloutBlock.md"
+    "0000 Utilities/Template/Block/SummaryBlock.md"
   ]
 }
