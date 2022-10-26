@@ -14,10 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "SequenceDiagram.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "7b9a59eae4bab2f5"
+          }
+        ]
+      },
+      {
+        "id": "577930d79591ee51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b167e4fa1dfdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SequenceDiagram.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "7b9a59eae4bab2f5"
           }
         ]
       }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.0085258483887
+    "width": 355.0085258483887,
+    "collapsed": true
   },
   "right": {
     "id": "9de40f6f4f2bf07a",
