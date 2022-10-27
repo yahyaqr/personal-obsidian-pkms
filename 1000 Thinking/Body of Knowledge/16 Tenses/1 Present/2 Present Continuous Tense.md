@@ -7,7 +7,9 @@ tags: BOK-16-Tenses
 ---
 
 >[!One Sentence summary]
-> Berfungsi untuk menunjukkan sebuah aksi atau kejadian yang sedang terjadi pada saat pembicaraan sedang berlangsung DAN untuk membuat suatu rencana di masa depan.
+> Berfungsi untuk menjabarkan
+> 1. Suatu kejadian yang ==sedang terjadi==
+> 2. Suatu kejadian yang ==direncanakan== pada ==masa depan==.
 
 >[!Tip]
 >Formula = **S + Am/Is/Are + Verb -ing (Continuous Form)**

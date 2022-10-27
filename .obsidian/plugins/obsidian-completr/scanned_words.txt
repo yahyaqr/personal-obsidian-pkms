@@ -85,6 +85,13 @@ sekarang
 situasi
 selesai
 sampai
+since
+sent
+sebelum
+sleeping
+same
+sen
+she
 Users
 Univokal
 Up
@@ -166,6 +173,8 @@ ac
 aksi
 aktivitas
 ataupun
+arrive
+attending
 Downloads
 Dasar
 Decision
@@ -210,6 +219,7 @@ Podcast
 Pipeline
 Past
 Participle
+Present
 pdf
 pengetahuan
 penting
@@ -292,6 +302,8 @@ productivity
 pusba
 pada
 pembicaraan
+playing
+promised
 Logika
 LoGox
 Logis
@@ -405,6 +417,10 @@ consumption
 changing
 clearly
 contohnya
+company
+charge
+cake
+conference
 Sunday
 Sikap
 Sesuatu
@@ -439,6 +455,7 @@ Set
 Self
 Starting
 She
+Suatu
 October
 Oleh
 Objek
@@ -486,6 +503,8 @@ remove
 reach
 rest
 rencana
+reading
+room
 updated
 umum
 untuk
@@ -584,6 +603,9 @@ tracking
 tuntas
 tenses
 teacher
+terus
+toy
+tiramisu
 BOK
 Berpikir
 Bisa
@@ -603,6 +625,8 @@ Bahan
 Bench
 Business
 Berfungsi
+Been
+Be
 Kebenaran
 Kesamaan
 Komponen
@@ -685,6 +709,8 @@ diperbaiki
 depan
 driving
 dimulai
+done
+direncanakan
 ketersesuaian
 karena
 kesamaan
@@ -746,6 +772,7 @@ once
 obsidian
 others
 opinions
+office
 itu
 inti
 individu
@@ -784,6 +811,7 @@ you
 your
 yourself
 years
+yesterday
 mendiskusikan
 melalui
 mempunyai
@@ -854,6 +882,8 @@ membuat
 masa
 motorcycle
 menjabarkan
+met
+morning
 limitasi
 lurus
 lain
@@ -886,6 +916,9 @@ light
 looks
 lalu
 lived
+lampau
+letter
+left
 berpikir
 benar
 berdasarkan
@@ -941,6 +974,11 @@ bahasa
 beautiful
 berlangsung
 berlanjut
+been
+boyfriend
+bahwa
+basketball
+box
 nilai
 nihil
 neraka
@@ -994,6 +1032,7 @@ Head
 Habits
 Has
 Have
+Had
 Identitas
 Induktif
 Individual
@@ -1052,6 +1091,7 @@ Academy
 Acknowledge
 Areas
 Am
+Ariel
 haruslah
 hitam
 hanya
@@ -1084,6 +1124,11 @@ hingga
 holding
 hours
 handsome
+hour
+her
+had
+home
+homework
 validasi
 videos
 ve
@@ -1120,6 +1165,7 @@ Notes
 Not
 Nighttime
 New
+Noah
 gagasan
 guru
 guide
@@ -1138,6 +1184,9 @@ grateful
 got
 gratification
 genetic
+given
+game
+give
 wujud
 warna
 with
@@ -1173,6 +1222,8 @@ writer
 writing
 words
 way
+waktu
+waiting
 ekstrem
 enjoy
 each
@@ -1203,6 +1254,8 @@ enjoyed
 entertaining
 expertise
 effective
+entered
+earlier
 fiktif
 for
 file
@@ -1228,6 +1281,7 @@ far
 friends
 figure
 fakta
+finished
 Formal
 Frank
 Forever
@@ -1267,5 +1321,9 @@ Wednesday
 Writing
 Work
 Wash
+Was
+Were
+Will
+Would
 question
 Verb

@@ -7,7 +7,9 @@ tags: BOK-16-Tenses
 ---
 
 >[!One Sentence summary]
-> Berfungsi untuk menjabarkan suatu aktivitas ataupun situasi yang telah dimulai di masa lalu, telah selesai di masa lalu, atau masih berlanjut sampai sekarang.
+> Berfungsi untuk menjabarkan
+> 1. Suatu kejadian yang ==telah dimulai== pada ==masa lalu==.
+> 2. Suatu kejadian yang ==telah selesai== pada ==masa lalu==.
 
 >[!Tip]
 >Formula = **S + Has/Have + Verb 3 (Past Participle)**
