@@ -11,12 +11,8 @@
             "id": "1046ccb4b7ba218d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/4 Present Perfect Continuous Tense.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "bd80e6a590fec8e7"
           }
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/4 Present Perfect Continuous Tense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/4 Present Perfect Continuous Tense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/4 Present Perfect Continuous Tense.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,8 @@
   },
   "active": "1046ccb4b7ba218d",
   "lastOpenFiles": [
-    "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/3 Present Perfect Tense.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/4 Present Perfect Continuous Tense.md",
+    "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/3 Present Perfect Tense.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/2 Present Continuous Tense.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/1 Simple Present Tense.md",
     "1000 Thinking/Body of Knowledge/English/Insight/Isn't Weren't.md",
