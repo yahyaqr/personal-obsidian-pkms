@@ -4,7 +4,7 @@ source:
 - Pengantar Logika Dasar, Muhammad Rakhmat, LoGox 
 created: Sunday, October 23rd 2022 - 11.10
 updated: Sunday, October 23rd 2022 - 11.16
-tags: BOK, BOK-Kebenaran
+tags: BOK-Kebenaran
 ---
 
 >[!One Sentence summary]
