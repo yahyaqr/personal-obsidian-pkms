@@ -95,12 +95,25 @@ she
 sincere
 study
 studies
+smile
+soft
+seems
+sound
+sign
+suddenly
+silent
+situations
+superego
+situation
+short
+sometimes
 Users
 Univokal
 Up
 Utility
 Usually
 Untuk
+Use
 asus
 antara
 adalah
@@ -182,6 +195,9 @@ arrive
 attending
 agree
 above
+admire
+act
+agreement
 Downloads
 Dasar
 Decision
@@ -201,6 +217,7 @@ DAN
 Does
 Driving
 Don
+Did
 PengantarLogikaDasar
 Pengantar
 Pengertian
@@ -232,6 +249,9 @@ Participle
 Present
 Positif
 Playing
+Possible
+Punctuation
+Please
 pdf
 pengetahuan
 penting
@@ -322,6 +342,10 @@ poetry
 play
 plays
 present
+properly
+problem
+plenty
+pronoun
 Logika
 LoGox
 Logis
@@ -364,6 +388,7 @@ Moment
 Menekankan
 Mempunyai
 Modal
+Misplaced
 Rakhmat
 Reasoning
 Riil
@@ -453,6 +478,16 @@ catches
 carry
 carries
 celcius
+close
+conclusion
+communicate
+chose
+comma
+connects
+clauses
+connected
+context
+check
 Sunday
 Sikap
 Sesuatu
@@ -498,6 +533,7 @@ Sentence
 SH
 Sedangkan
 Saturday
+Sometime
 October
 Oleh
 Objek
@@ -511,6 +547,8 @@ Operation
 Outliers
 Often
 Of
+Original
+On
 rd
 racun
 raga
@@ -552,6 +590,13 @@ room
 rumus
 relevan
 rather
+reciting
+recites
+repeatedly
+rushed
+resolve
+resting
+refreshed
 updated
 umum
 untuk
@@ -574,6 +619,7 @@ uncertain
 useful
 uma
 userName
+uppercase
 tags
 tinjauan
 tepat
@@ -661,6 +707,8 @@ type
 tambahkan
 tense
 temperature
+tired
+too
 BOK
 Berpikir
 Bisa
@@ -774,6 +822,8 @@ durasi
 dumb
 degrees
 dog
+different
+danger
 ketersesuaian
 karena
 kesamaan
@@ -843,6 +893,8 @@ others
 opinions
 office
 old
+order
+often
 itu
 inti
 individu
@@ -877,6 +929,8 @@ id
 inggris
 ing
 illustrated
+ideas
+independent
 yang
 you
 your
@@ -960,6 +1014,10 @@ marry
 marries
 myAge
 myAgeInDogYears
+missing
+mean
+mind
+mental
 limitasi
 lurus
 lain
@@ -1060,6 +1118,7 @@ bus
 berakhiran
 boxes
 belajar
+before
 nilai
 nihil
 neraka
@@ -1079,6 +1138,7 @@ non
 novel
 newton
 name
+natural
 Concept
 Cukup
 Cinta
@@ -1102,6 +1162,8 @@ Continuous
 Complement
 CH
 Celcius
+Corrected
+Communicating
 Hukum
 Hidup
 Holiday
@@ -1120,6 +1182,8 @@ Has
 Have
 Had
 Hello
+Her
+Highlighted
 Identitas
 Induktif
 Individual
@@ -1191,6 +1255,8 @@ Ariel
 Already
 Aksi
 Apabila
+ALWAYS
+Agreement
 haruslah
 hitam
 hanya
@@ -1231,6 +1297,7 @@ homework
 hasilnya
 hilangkan
 human
+heart
 validasi
 videos
 ve
@@ -1244,6 +1311,7 @@ versus
 visualise
 verb
 vokal
+voice
 Ekuivokal
 Examples
 Expand
@@ -1262,11 +1330,13 @@ Experience
 Example
 Ever
 ES
+Error
 jiwa
 just
 journalling
 juga
 jangan
+jumping
 Narto
 Notes
 Not
@@ -1302,6 +1372,7 @@ give
 go
 goes
 grammar
+googled
 wujud
 warna
 with
@@ -1346,6 +1417,7 @@ wash
 washes
 worry
 worries
+went
 ekstrem
 enjoy
 each
@@ -1383,6 +1455,8 @@ english
 etc
 exclamatory
 enjoys
+error
+energy
 fiktif
 for
 file
@@ -1411,6 +1485,7 @@ fakta
 finished
 fix
 fixes
+fits
 Formal
 Frank
 Forever
@@ -1434,6 +1509,7 @@ Greeks
 Goal
 Gladwell
 Goals
+Grammar
 Questions
 You
 Your
