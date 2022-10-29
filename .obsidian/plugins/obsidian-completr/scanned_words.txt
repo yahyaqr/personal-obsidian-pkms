@@ -497,6 +497,7 @@ Subject
 Sentence
 SH
 Sedangkan
+Saturday
 October
 Oleh
 Objek
@@ -771,6 +772,7 @@ direncanakan
 durasi
 dumb
 degrees
+dog
 ketersesuaian
 karena
 kesamaan
@@ -839,6 +841,7 @@ obsidian
 others
 opinions
 office
+old
 itu
 inti
 individu
@@ -954,6 +957,8 @@ morning
 menggunakan
 marry
 marries
+myAge
+myAgeInDogYears
 limitasi
 lurus
 lain
@@ -1072,6 +1077,7 @@ notes
 non
 novel
 newton
+name
 Concept
 Cukup
 Cinta
@@ -1222,6 +1228,7 @@ home
 homework
 hasilnya
 hilangkan
+human
 validasi
 videos
 ve

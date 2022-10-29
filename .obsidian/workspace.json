@@ -13,33 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Kelvin Weather.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "eea01094aee8ae56"
-          }
-        ]
-      },
-      {
-        "id": "e6f2deedb701994d",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "0c0bdb1e8f325acc",
+            "id": "b2038413507fe39c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
-                "mode": "preview",
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Magic Eight Ball.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "eea01094aee8ae56"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Magic Eight Ball.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Magic Eight Ball.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md"
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Magic Eight Ball.md"
               }
             }
           },
@@ -165,17 +158,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "0c0bdb1e8f325acc",
+  "active": "b2038413507fe39c",
   "lastOpenFiles": [
     "3000 Coding/Codecademy/Learn Javascript/Objective Kelvin Weather.md",
     "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
+    "3000 Coding/Codecademy/Learn Javascript/JS Versions.md",
     "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/4 Present Perfect Continuous Tense.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/3 Present Perfect Tense.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/2 Present Continuous Tense.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/1 Simple Present Tense.md",
     "1000 Thinking/Body of Knowledge/English/Insight/Isn't Weren't.md",
-    "1000 Thinking/Body of Knowledge/English/Insight/Verb 1 + (S or Es).md",
-    "HOME.md"
+    "1000 Thinking/Body of Knowledge/English/Insight/Verb 1 + (S or Es).md"
   ]
 }
