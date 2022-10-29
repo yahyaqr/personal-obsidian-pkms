@@ -452,6 +452,7 @@ catch
 catches
 carry
 carries
+celcius
 Sunday
 Sikap
 Sesuatu
@@ -657,6 +658,7 @@ than
 type
 tambahkan
 tense
+temperature
 BOK
 Berpikir
 Bisa
@@ -768,6 +770,7 @@ done
 direncanakan
 durasi
 dumb
+degrees
 ketersesuaian
 karena
 kesamaan
@@ -1068,6 +1071,7 @@ negative
 notes
 non
 novel
+newton
 Concept
 Cukup
 Cinta
@@ -1090,6 +1094,7 @@ Conte
 Continuous
 Complement
 CH
+Celcius
 Hukum
 Hidup
 Holiday
@@ -1263,6 +1268,7 @@ Never
 Normally
 Negatif
 Now
+Newton
 gagasan
 guru
 guide

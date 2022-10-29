@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1046ccb4b7ba218d",
+            "id": "9d70eb7c8077fcf3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "eea01094aee8ae56"
+          }
+        ]
+      },
+      {
+        "id": "e6f2deedb701994d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0bdb1e8f325acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "eea01094aee8ae56"
           }
         ]
       }
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md"
+              }
             }
           },
           {
@@ -137,8 +165,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "1046ccb4b7ba218d",
+  "active": "0c0bdb1e8f325acc",
   "lastOpenFiles": [
+    "3000 Coding/Codecademy/Learn Javascript/Objective Kelvin Weather.md",
+    "3000 Coding/Codecademy/Learn Javascript/Objective Dog Years.md",
     "1000 Thinking/Body of Knowledge/Kebenaran/1 Kebenaran.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/4 Present Perfect Continuous Tense.md",
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/3 Present Perfect Tense.md",
@@ -146,8 +176,6 @@
     "1000 Thinking/Body of Knowledge/English/16 Tenses/1 Present/1 Simple Present Tense.md",
     "1000 Thinking/Body of Knowledge/English/Insight/Isn't Weren't.md",
     "1000 Thinking/Body of Knowledge/English/Insight/Verb 1 + (S or Es).md",
-    "HOME.md",
-    "SequenceDiagram.md",
-    "1000 Thinking/Body of Knowledge/English/16 Tenses/2 Past/5 Simple Past Tense.md"
+    "HOME.md"
   ]
 }
