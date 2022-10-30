@@ -117,6 +117,7 @@ stands
 successful
 shown
 setTimeout
+slash
 Users
 Univokal
 Up
@@ -222,6 +223,9 @@ alert
 asynchronous
 async
 await
+attribute
+allow
+array
 Downloads
 Dasar
 Decision
@@ -401,6 +405,7 @@ Look
 Log
 Libraries
 Literals
+Listeners
 Muhammad
 Memberikan
 Mahasiswa
@@ -431,6 +436,7 @@ Mempunyai
 Modal
 Misplaced
 Methods
+Multiline
 Rakhmat
 Reasoning
 Riil
@@ -548,6 +554,9 @@ completion
 code
 callback
 compile
+closed
+closing
+className
 Sunday
 Sikap
 Sesuatu
@@ -672,6 +681,9 @@ resolved
 rejection
 returned
 response
+renamed
+rendered
+returning
 updated
 umum
 untuk
@@ -696,6 +708,7 @@ uma
 userName
 uppercase
 utility
+uniquely
 tags
 tinjauan
 tepat
@@ -791,6 +804,7 @@ three
 transitions
 throw
 tag
+track
 BOK
 Berpikir
 Bisa
@@ -837,6 +851,8 @@ Kalimat
 Kebiasaan
 Kindergarten
 Keywor
+Key
+Keys
 dapat
 dimaknai
 dengan
@@ -911,6 +927,7 @@ different
 danger
 defines
 delay
+declared
 ketersesuaian
 karena
 kesamaan
@@ -1027,6 +1044,8 @@ individual
 instances
 itself
 instance
+identify
+items
 yang
 you
 your
@@ -1319,6 +1338,7 @@ Isn
 IES
 Invalid
 Import
+Inline
 Tidak
 Tiada
 Tengah
@@ -1388,6 +1408,7 @@ Add
 Accessing
 Afterwards
 Avoiding
+Attribute
 haruslah
 hitam
 hanya
@@ -1430,6 +1451,7 @@ hilangkan
 human
 heart
 handling
+help
 validasi
 videos
 ve
@@ -1468,6 +1490,9 @@ Error
 Expressions
 Extends
 Elements
+Empty
+Embedding
+Event
 jiwa
 just
 journalling
@@ -1563,6 +1588,7 @@ worries
 went
 weight
 wordQuery
+whether
 ekstrem
 enjoy
 each
@@ -1608,6 +1634,9 @@ executes
 evaluates
 exactly
 element
+empty
+elements
+explicitly
 fiktif
 for
 file
