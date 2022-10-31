@@ -7,19 +7,21 @@ updated: Monday, October 31st 2022 - 17.20
 - [Gaji Junior Developer di Indonesia](https://www.levels.fyi/t/software-engineer/locations/indonesia?limit=50&yoeChoice=junior&sortBy=total_compensation&sortOrder=ASC)
 - [AppTortoise: Insiprasi untuk Web Vismaya](https://apptortoise.com/)
 - [SnapTortoise: Inspirasi untuk Web Vismaya 2](https://snaptortoise.com/)
-
+---
 # Free
 - [Free For Developers](https://free-for.dev/#/)
 ## Free Certificates
 - [8 Front End Developer Challenges](https://devchallenges.io/paths/front-end-developer)
 ## Free Templates
-- [30 Seconds of Code: HTML, CSS, JS Snippets](https://www.30secondsofcode.org/)
+- [Wrap Pixel: Free Template for Bootstrap. Angular, React, Next Js, Vuejs, UI Kits, Vuetify, Material UI, Nuxt Js](https://www.wrappixel.com/)
+- [Theme Selection: Free Dashboard Template](https://themeselection.com/item/category/free-admin-templates/)
 - [UISUAL: Free Landing Page Templates for Startups](https://uisual.com)
-- [HTML 5 UP: Spiffy HTML5 Site Templates](https://html5up.net)
+- [HTML 5 UP: Free Spiffy HTML5 Site Templates](https://html5up.net)
 - [Mashup Template: Free Beautiful HTML5 Template based on pre-built Blocks](https://mashup-template.com)
 - [One Page Love: Web Design References](https://onepagelove.com)
-## Free CSS
-- http://ianlunn.github.io/Hover/
+## Free Code
+- [30 Seconds of Code: Free HTML, CSS, JS Snippets](https://www.30secondsofcode.org/)
+- [Hover.js: Free Hover Animation with CSS](http://ianlunn.github.io/Hover/)_
 
 # Projects
 - [JS, HTML, CSS - Snake Game](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e)
