@@ -2,6 +2,8 @@
 created: Thursday, October 27th 2022 - 11.20
 updated: Thursday, October 27th 2022 - 11.20
 ---
+Digunakan pada:
+[[1 Simple Present Tense]]
 
 | Subject       | Verb     | The Rest of the Sentence |
 | ------------- | -------- | ------------------------ |

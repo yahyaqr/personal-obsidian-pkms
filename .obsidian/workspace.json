@@ -13,14 +13,75 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Coding/Cheatsheet/React/1 JSX.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/1 JSX.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "fa36573b45cd9c64"
+          },
+          {
+            "id": "09cee3697192c31f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/Short-term and Finite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dcd167305a1fbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Social Media/Thinking - Talking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2197940e444fdc1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Actionable in the Future.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab805de5c8248d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/English/Insight/SheHeIt + Verb 1 + -s -es.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31535e9f87a87b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "81113be10986bb4f",
@@ -32,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Coding/Cheatsheet/React/1 JSX.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/1 JSX.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5085258483887
   },
   "right": {
     "id": "9de40f6f4f2bf07a",
@@ -105,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Coding/Cheatsheet/React/1 JSX.md",
+                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Coding/Cheatsheet/React/1 JSX.md",
+                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Coding/Cheatsheet/React/1 JSX.md"
+                "file": "3000 Resources/Job Seeking/Junior Jobs.md"
               }
             }
           },
@@ -158,24 +219,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
-  "active": "43aa4180fa367bc1",
+  "active": "31535e9f87a87b40",
   "lastOpenFiles": [
-    "3000 Coding/Codecademy/Redux/Counter Vanilla.md",
-    "3000 Coding/Codecademy/Redux/Counter React.md",
-    "3000 Coding/Codecademy/Redux/Toggle.md",
-    "3000 Coding/Cheatsheet/React/1 JSX.md",
-    "3000 Coding/Cheatsheet/Intermediate JS/4 Requests.md",
-    "3000 Coding/Cheatsheet/Intermediate JS/5 Errors and Error Handling.md",
-    "3000 Coding/Cheatsheet/Intermediate JS/3 Async-Await.md",
-    "3000 Coding/Cheatsheet/Intermediate JS/2 Promises.md",
-    "3000 Coding/Cheatsheet/Intermediate JS/1 Classes.md",
-    "3000 Coding/Cheatsheet/JS/1 Introduction.md"
+    "2000 Areas of Improvement/English/Insight/SheHeIt + Verb 1 + -s -es.md",
+    "2000 Areas of Improvement/English/Insight/Isn't she beautiful.md",
+    "2000 Areas of Improvement/English/16 Tenses/1 Present/1 Simple Present Tense.md",
+    "4000 Archive/Unused in the Future.md",
+    "3000 Resources/Actionable in the Future.md",
+    "3000 Resources/Social Media/Thinking - Talking.md",
+    "HOME.md",
+    "SequenceDiagram.md",
+    "Pasted image 20221029190424.png",
+    "2000 Areas of Improvement/Prinsip Hidup/Cheating == Long Term Debt.md"
   ]
 }
