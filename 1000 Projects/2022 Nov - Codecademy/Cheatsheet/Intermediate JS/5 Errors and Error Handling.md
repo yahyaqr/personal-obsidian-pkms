@@ -2,13 +2,7 @@
 created: Sunday, October 30th 2022 - 01.45
 updated: Sunday, October 30th 2022 - 01.45
 ---
-### ReferenceError
-
-### SyntaxError
-
-### TypeError
-
-### The throw Keywor in JS
+### The throw Keyword in JS
 ```js
 // The program will raise and output this Error object with message 'Something went wrong'
 throw Error('Something went wrong');

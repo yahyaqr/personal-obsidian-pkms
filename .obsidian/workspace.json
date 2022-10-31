@@ -30,9 +30,65 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef44da7d6ddf979a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc362636d9c8ba87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Code Resources/Hover.css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9916ee35df631563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/1 JSX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8e6f133a04f1897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/2 React Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "182c3e94fc7291f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/3 Thinking in React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "81113be10986bb4f",
@@ -116,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/3 Thinking in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/3 Thinking in React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md"
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/3 Thinking in React.md"
               }
             }
           },
@@ -176,17 +232,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "92df64a9f4f7ea5f",
+  "active": "182c3e94fc7291f5",
   "lastOpenFiles": [
-    "1000 Projects/Untitled.md",
-    "3000 Resources/Job Seeking/Remote Job.md",
-    "3000 Resources/Self Projects/IDEA.md",
-    "3000 Resources/Job Seeking/Job Negotiation.md",
-    "3000 Resources/Job Seeking/CV.md",
-    "3000 Resources/Job Seeking/How to Interview.md",
-    "3000 Resources/Job Seeking/SE Real Earnings.md",
-    "3000 Resources/Job Seeking/Junior Job Salary.md",
-    "3000 Resources/To Read/Every Programmers Should Know.md",
-    "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md"
+    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/2 React Patterns.md",
+    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/1 JSX.md",
+    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/Intermediate JS/3 Async-Await.md",
+    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/Intermediate JS/4 Requests.md",
+    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/Intermediate JS/5 Errors and Error Handling.md",
+    "3000 Resources/React/React Design Patterns.md",
+    "3000 Resources/Code Resources/Hover.css.md",
+    "1000 Projects/2022 Dec - Open Classrooms/Vue.js.md",
+    "1000 Projects/2022 Dec - Open Classrooms/React.js.md",
+    "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md"
   ]
 }

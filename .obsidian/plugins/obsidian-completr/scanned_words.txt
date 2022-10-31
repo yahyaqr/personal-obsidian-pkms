@@ -290,6 +290,7 @@ atJC
 acs
 awesome
 abroad
+application
 Downloads
 Dasar
 Decision
@@ -766,6 +767,7 @@ ccx
 ce
 ceuu
 cb
+courses
 Sunday
 Sikap
 Sesuatu
@@ -935,6 +937,7 @@ remoteindo
 remote
 relocate
 relocation
+react
 updated
 umum
 untuk
@@ -1368,6 +1371,7 @@ oX
 oc
 oW
 om
+openclassrooms
 itu
 inti
 individu
@@ -2011,6 +2015,8 @@ AO
 ADDDDDD
 ADDDDD
 Awesome
+Async
+Await
 haruslah
 hitam
 hanya
@@ -2183,6 +2189,7 @@ jb
 jut
 jW
 job
+js
 Narto
 Notes
 Not
@@ -2328,6 +2335,7 @@ wb
 wO
 wv
 wf
+web
 ekstrem
 enjoy
 each
