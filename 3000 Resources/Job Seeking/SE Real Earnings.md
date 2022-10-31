@@ -1,1 +1,0 @@
-https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k
