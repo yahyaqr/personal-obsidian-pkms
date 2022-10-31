@@ -21,3 +21,21 @@ https://github.com/lukasz-madon/awesome-remote-job
 
 Tips
 https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514
+
+[@flexjobs](https://twitter.com/flexjobs)
+
+[@remote_co](https://twitter.com/remote_co)
+
+[@EuRemote](https://twitter.com/EuRemote)
+
+[@RemoteOK](https://twitter.com/RemoteOK)
+
+[@Jobspresso](https://twitter.com/Jobspresso)
+
+[@justremoteco](https://twitter.com/justremoteco)
+
+[@6nomads_com](https://twitter.com/6nomads_com)
+
+[@remotehub_com](https://twitter.com/remotehub_com)
+
+[@weworkremotely](https://twitter.com/weworkremotely)

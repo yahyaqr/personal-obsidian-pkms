@@ -8,140 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43aa4180fa367bc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/1 JSX.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "fa36573b45cd9c64"
-          },
-          {
-            "id": "09cee3697192c31f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000 Projects/Short-term and Finite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dcd167305a1fbfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Social Media/Thinking - Talking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2197940e444fdc1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Actionable in the Future.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab805de5c8248d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/English/Insight/SheHeIt + Verb 1 + -s -es.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31535e9f87a87b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c9aca65793f80e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "223c395ab0c79bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6375b191c0809890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ddbc3b2484ea5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/To Read/Every Programmers Should Know.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c77e04b901ea37b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Job Seeking/Junior Job Salary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47cff0057e18bfbe",
+            "id": "8377439a51c93eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -153,43 +20,19 @@
             }
           },
           {
-            "id": "b9ecf6071f5b0626",
+            "id": "92df64a9f4f7ea5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Job Seeking/How to Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efa70eee63b75eaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Job Seeking/CV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9707eefe7705304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Job Seeking/Job Negotiation.md",
+                "file": "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 1
       },
       {
         "id": "81113be10986bb4f",
@@ -205,8 +48,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "fa36573b45cd9c64"
+            }
           }
         ]
       }
@@ -274,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Job Seeking/Job Negotiation.md",
+                "file": "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Job Seeking/Job Negotiation.md",
+                "file": "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Job Seeking/Job Negotiation.md"
+                "file": "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md"
               }
             }
           },
@@ -334,17 +176,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e9707eefe7705304",
+  "active": "92df64a9f4f7ea5f",
   "lastOpenFiles": [
+    "1000 Projects/Untitled.md",
+    "3000 Resources/Job Seeking/Remote Job.md",
+    "3000 Resources/Self Projects/IDEA.md",
+    "3000 Resources/Job Seeking/Job Negotiation.md",
     "3000 Resources/Job Seeking/CV.md",
     "3000 Resources/Job Seeking/How to Interview.md",
-    "3000 Resources/Job Seeking/Remote Job.md",
     "3000 Resources/Job Seeking/SE Real Earnings.md",
     "3000 Resources/Job Seeking/Junior Job Salary.md",
     "3000 Resources/To Read/Every Programmers Should Know.md",
-    "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
-    "3000 Resources/Self Projects/JS, HTML5, CSS, Phaser - Snake Game.md",
-    "3000 Resources/Job Seeking/Junior Jobs.md",
-    "2000 Areas of Improvement/English/Insight/SheHeIt + Verb 1 + -s -es.md"
+    "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md"
   ]
 }

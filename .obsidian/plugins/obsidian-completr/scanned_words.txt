@@ -139,6 +139,8 @@ ss
 ssb
 sß
 su
+spreadsheets
+sle
 Users
 Univokal
 Up
@@ -164,6 +166,7 @@ Uz
 UD
 UWk
 Ua
+Ultimate
 asus
 antara
 adalah
@@ -285,6 +288,8 @@ aT
 aw
 atJC
 acs
+awesome
+abroad
 Downloads
 Dasar
 Decision
@@ -343,6 +348,7 @@ Dj
 DF
 DDDDDDDDt
 Digunakan
+Developers
 PengantarLogikaDasar
 Pengantar
 Pengertian
@@ -394,6 +400,7 @@ PSZ
 PM
 PCk
 Pj
+PYwbCTY
 pdf
 pengetahuan
 penting
@@ -640,6 +647,8 @@ RSc
 Rk
 Rt
 RPU
+Remotive
+Remote
 created
 cara
 cukup
@@ -923,6 +932,9 @@ rf
 ro
 rU
 remoteindo
+remote
+relocate
+relocation
 updated
 umum
 untuk
@@ -1076,6 +1088,7 @@ tl
 tu
 tww
 tI
+tech
 BOK
 Berpikir
 Bisa
@@ -1244,6 +1257,7 @@ dG
 ds
 da
 dzn
+docs
 ketersesuaian
 karena
 kesamaan
@@ -1424,6 +1438,7 @@ itSU
 iz
 iq
 iY
+io
 yang
 you
 your
@@ -1560,6 +1575,7 @@ mz
 mh
 mm
 mccsS
+madon
 limitasi
 lurus
 lain
@@ -1614,6 +1630,8 @@ lEQ
 lk
 lZ
 lVl
+lukasz
+landing
 berpikir
 benar
 berdasarkan
@@ -1740,6 +1758,7 @@ nk
 nac
 nA
 nb
+nomadlist
 Concept
 Cukup
 Cinta
@@ -1788,6 +1807,7 @@ CP
 CN
 Cd
 CW
+CNHeer
 Hukum
 Hidup
 Holiday
@@ -1914,6 +1934,9 @@ TBwww
 TJ
 TVU
 TjW
+TLJSlNxCbwRNxy
+Toe
+Tips
 Jalan
 Jika
 Joni
@@ -1939,6 +1962,7 @@ JYU
 JO
 JzC
 Jt
+Job
 Alasan
 Analogis
 Abstrak
@@ -1986,6 +2010,7 @@ Aji
 AO
 ADDDDDD
 ADDDDD
+Awesome
 haruslah
 hitam
 hanya
@@ -2045,6 +2070,7 @@ hDDDDt
 hs
 hKUU
 hR
+htmlview
 validasi
 videos
 ve
@@ -2156,6 +2182,7 @@ jo
 jb
 jut
 jW
+job
 Narto
 Notes
 Not
@@ -2188,6 +2215,7 @@ NMO
 Nchx
 NOOq
 Nn
+Nomadlist
 gagasan
 guru
 guide
@@ -2234,6 +2262,10 @@ gZ
 gC
 gfh
 gj
+google
+gid
+github
+georgemandis
 wujud
 warna
 with
@@ -2494,6 +2526,7 @@ Gss
 GC
 GF
 Gtii
+Guide
 Questions
 Qh
 QS
@@ -2626,6 +2659,7 @@ VUU
 VI
 VVVp
 VY
+VRzE
 ZH
 ZX
 ZZ
@@ -2692,4 +2726,5 @@ zP
 zS
 zzz
 zg
+zapier
 ßU
