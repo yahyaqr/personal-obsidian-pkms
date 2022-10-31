@@ -79,9 +79,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c9aca65793f80e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "223c395ab0c79bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6375b191c0809890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Self Projects/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "81113be10986bb4f",
@@ -166,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
+                "file": "3000 Resources/Self Projects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Job Seeking/Junior Jobs.md",
+                "file": "3000 Resources/Self Projects/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Job Seeking/Junior Jobs.md"
+                "file": "3000 Resources/Self Projects/Untitled.md"
               }
             }
           },
@@ -226,17 +262,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "31535e9f87a87b40",
+  "active": "6375b191c0809890",
   "lastOpenFiles": [
+    "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
+    "3000 Resources/Job Seeking/Junior Jobs.md",
+    "3000 Resources/Job Seeking/Remote Job.md",
     "2000 Areas of Improvement/English/Insight/SheHeIt + Verb 1 + -s -es.md",
     "2000 Areas of Improvement/English/Insight/Isn't she beautiful.md",
     "2000 Areas of Improvement/English/16 Tenses/1 Present/1 Simple Present Tense.md",
     "4000 Archive/Unused in the Future.md",
     "3000 Resources/Actionable in the Future.md",
     "3000 Resources/Social Media/Thinking - Talking.md",
-    "HOME.md",
-    "SequenceDiagram.md",
-    "Pasted image 20221029190424.png",
-    "2000 Areas of Improvement/Prinsip Hidup/Cheating == Long Term Debt.md"
+    "HOME.md"
   ]
 }
