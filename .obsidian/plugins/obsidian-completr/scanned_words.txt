@@ -141,6 +141,7 @@ sß
 su
 spreadsheets
 sle
+secondsofcode
 Users
 Univokal
 Up
@@ -291,6 +292,7 @@ acs
 awesome
 abroad
 application
+additional
 Downloads
 Dasar
 Decision
@@ -512,6 +514,7 @@ pEQj
 pge
 pcbB
 pq
+practical
 Logika
 LoGox
 Logis
@@ -938,6 +941,7 @@ remote
 relocate
 relocation
 react
+resources
 updated
 umum
 untuk
@@ -981,6 +985,7 @@ uJL
 uk
 uH
 ueV
+uisual
 tags
 tinjauan
 tepat
@@ -1092,6 +1097,10 @@ tu
 tww
 tI
 tech
+tutorials
+template
+templatemo
+tooplate
 BOK
 Berpikir
 Bisa
@@ -1372,6 +1381,8 @@ oc
 oW
 om
 openclassrooms
+org
+onepagelove
 itu
 inti
 individu
@@ -1580,6 +1591,7 @@ mh
 mm
 mccsS
 madon
+mashup
 limitasi
 lurus
 lain
@@ -1636,6 +1648,8 @@ lZ
 lVl
 lukasz
 landing
+layouts
+learning
 berpikir
 benar
 berdasarkan
@@ -1719,6 +1733,7 @@ bTAV
 bqa
 bgG
 bg
+based
 nilai
 nihil
 neraka
@@ -1763,6 +1778,7 @@ nac
 nA
 nb
 nomadlist
+net
 Concept
 Cukup
 Cinta
@@ -2077,6 +2093,7 @@ hs
 hKUU
 hR
 htmlview
+html
 validasi
 videos
 ve
