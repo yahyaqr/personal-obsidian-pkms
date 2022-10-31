@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c50ba2fd2c776bfc",
+            "id": "8d62b46f28262ae5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Code Resources/Templates.md",
+                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Code Resources/Templates.md",
+                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Code Resources/Templates.md",
+                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Code Resources/Templates.md"
+                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c50ba2fd2c776bfc",
+  "active": "8d62b46f28262ae5",
   "lastOpenFiles": [
+    "3000 Resources/Self Projects/JS, HTML5, CSS, Phaser - Snake Game.md",
+    "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
     "3000 Resources/Self Projects/IDEA.md",
-    "3000 Resources/Code Resources/Templates.md",
-    "().md",
-    "w3layouts.com.md",
-    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/3 Thinking in React.md",
-    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/2 React Patterns.md",
-    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/React/1 JSX.md",
-    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/Intermediate JS/3 Async-Await.md",
-    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/Intermediate JS/4 Requests.md",
-    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/Intermediate JS/5 Errors and Error Handling.md"
+    "3000 Resources/React/React Design Patterns.md",
+    "3000 Resources/Job Seeking/SE Real Earnings.md",
+    "3000 Resources/Job Seeking/Remote Job.md",
+    "3000 Resources/Job Seeking/Junior Jobs.md",
+    "3000 Resources/Job Seeking/Junior Job Salary.md",
+    "3000 Resources/Job Seeking/Job Negotiation.md",
+    "3000 Resources/Job Seeking/How to Interview.md"
   ]
 }
