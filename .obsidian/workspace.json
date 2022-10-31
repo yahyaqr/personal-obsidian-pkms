@@ -110,14 +110,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Self Projects/Untitled.md",
+                "file": "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1ddbc3b2484ea5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/To Read/Every Programmers Should Know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c77e04b901ea37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Job Seeking/Junior Job Salary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47cff0057e18bfbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Job Seeking/Remote Job.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9ecf6071f5b0626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Job Seeking/How to Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efa70eee63b75eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Job Seeking/CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9707eefe7705304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Job Seeking/Job Negotiation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       },
       {
         "id": "81113be10986bb4f",
@@ -202,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Self Projects/Untitled.md",
+                "file": "3000 Resources/Job Seeking/Job Negotiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Self Projects/Untitled.md",
+                "file": "3000 Resources/Job Seeking/Job Negotiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Self Projects/Untitled.md"
+                "file": "3000 Resources/Job Seeking/Job Negotiation.md"
               }
             }
           },
@@ -262,17 +334,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "6375b191c0809890",
+  "active": "e9707eefe7705304",
   "lastOpenFiles": [
-    "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
-    "3000 Resources/Job Seeking/Junior Jobs.md",
+    "3000 Resources/Job Seeking/CV.md",
+    "3000 Resources/Job Seeking/How to Interview.md",
     "3000 Resources/Job Seeking/Remote Job.md",
-    "2000 Areas of Improvement/English/Insight/SheHeIt + Verb 1 + -s -es.md",
-    "2000 Areas of Improvement/English/Insight/Isn't she beautiful.md",
-    "2000 Areas of Improvement/English/16 Tenses/1 Present/1 Simple Present Tense.md",
-    "4000 Archive/Unused in the Future.md",
-    "3000 Resources/Actionable in the Future.md",
-    "3000 Resources/Social Media/Thinking - Talking.md",
-    "HOME.md"
+    "3000 Resources/Job Seeking/SE Real Earnings.md",
+    "3000 Resources/Job Seeking/Junior Job Salary.md",
+    "3000 Resources/To Read/Every Programmers Should Know.md",
+    "3000 Resources/Self Projects/JS, HTML, CSS - Snake Game.md",
+    "3000 Resources/Self Projects/JS, HTML5, CSS, Phaser - Snake Game.md",
+    "3000 Resources/Job Seeking/Junior Jobs.md",
+    "2000 Areas of Improvement/English/Insight/SheHeIt + Verb 1 + -s -es.md"
   ]
 }
