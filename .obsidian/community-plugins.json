@@ -1,13 +1,7 @@
 [
   "execute-code",
   "obsidian-git",
-  "templater-obsidian",
-  "obsidian-footnotes",
-  "obsidian-auto-split",
-  "obsidian-state-switcher",
   "update-time-on-edit",
   "obsidian-dynamic-toc",
-  "obsidian-completr",
-  "table-editor-obsidian",
-  "obsidian-react-components"
+  "heatmap-calendar"
 ]
