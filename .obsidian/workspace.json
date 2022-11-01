@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "781ca801d31bf55f",
+        "id": "ce2f97552a2c6aca",
         "type": "tabs",
         "children": [
           {
-            "id": "d65011b45ecd659e",
+            "id": "04905e45f64ff782",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5000 Work Focus Log/Work Focus Log.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "4fa0404e7c67b2c7"
-          },
-          {
-            "id": "a1ef6564427e1fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5000 Work Focus Log/2022 - 11/22-11-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "a03553589782f67b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2bf70576c234a10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5000 Work Focus Log/Work Focus Log.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "4fa0404e7c67b2c7"
           }
         ]
       }
@@ -118,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/Work Focus Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/Work Focus Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5000 Work Focus Log/Work Focus Log.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "d65011b45ecd659e",
+  "active": "04905e45f64ff782",
   "lastOpenFiles": [
-    "5000 Work Focus Log/2022 - 11/22-11-01.md",
+    "Paradigm Shift.md",
     "5000 Work Focus Log/Work Focus Log.md",
+    "5000 Work Focus Log/2022 - 11/22-11-01.md",
     "2000 Areas of Improvement/Filosofi/Kebenaran/5 Pengertian - Term.md",
     "3000 Resources/Resources LINK/LINK.md",
     "1000 Projects/2022 Dec - LinkedIn Learning/React Design Patterns.md",
     "0000 Utilities/IMG/Pasted image 20221022173134.png",
     "3000 Resources/Actionable in the Future.md",
     "4000 Archive/Unused in the Future.md",
-    "1000 Projects/Short-term and Finite.md",
-    "w3layouts.com.md"
+    "1000 Projects/Short-term and Finite.md"
   ]
 }
