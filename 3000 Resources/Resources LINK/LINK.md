@@ -7,11 +7,11 @@ updated: Monday, October 31st 2022 - 17.20
 - [Gaji Junior Developer di Indonesia](https://www.levels.fyi/t/software-engineer/locations/indonesia?limit=50&yoeChoice=junior&sortBy=total_compensation&sortOrder=ASC)
 - [AppTortoise: Insiprasi untuk Web Vismaya](https://apptortoise.com/)
 - [SnapTortoise: Inspirasi untuk Web Vismaya 2](https://snaptortoise.com/)
+- [Ryan Mulligan: Inspirasi untuk Web Pribadi](https://ryanmulligan.dev/)
 ---
 # Free
 - [Free For Developers](https://free-for.dev/#/)
-## Free Certificates
-- [8 Front End Developer Challenges](https://devchallenges.io/paths/front-end-developer)
+- [Free Azure for Students](https://azure.microsoft.com/en-us/free/students/)
 ## Free Templates
 - [Wrap Pixel: Free Template for Bootstrap. Angular, React, Next Js, Vuejs, UI Kits, Vuetify, Material UI, Nuxt Js](https://www.wrappixel.com/)
 - [Theme Selection: Free Dashboard Template](https://themeselection.com/item/category/free-admin-templates/)
@@ -23,14 +23,12 @@ updated: Monday, October 31st 2022 - 17.20
 - [30 Seconds of Code: Free HTML, CSS, JS Snippets](https://www.30secondsofcode.org/)
 - [Hover.js: Free Hover Animation with CSS](http://ianlunn.github.io/Hover/)_
 
-# Projects
-- [JS, HTML, CSS - Snake Game](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e)
-- [JS, HTML5, CSS, Phaser - Similar to Snake Game](https://www.lessmilk.com/phaser-game-tutorial/)
-
 # To Read
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [React Design Patterns](https://vasanthk.gitbooks.io/react-bits/content/)
 ## How to get a First Job
+- [Kursus Menembus Remote Work](https://remoteworker.id/)
+- [Technical Interviews Resources](https://ocs.yale.edu/channels/the-technical-interview/)
 - [How to Interview a Developers](https://www.freecodecamp.org/news/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - [How to negotiating a Job Offer](https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - [Finding your next Junior Job](https://www.juniorjobs.dev/)

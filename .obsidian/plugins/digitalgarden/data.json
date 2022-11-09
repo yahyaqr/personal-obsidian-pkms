@@ -1,0 +1,19 @@
+{
+  "githubRepo": "digitalgarden",
+  "githubToken": "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",
+  "githubUserName": "yahyaqr",
+  "gardenBaseUrl": "https://calm-hamster-ac6af5.netlify.app/",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": false
+  }
+}
