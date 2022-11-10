@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "02d3cc58e2626891",
+    "type": "split",
+    "children": [
+      {
+        "id": "173b26410578088a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37083d7d59e2c70a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a661fb952b3ab8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1301d44f2dab8d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1984b2e36e6c0882",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e1a67eb1936fe1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba8a5a88792ea93d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3203f8f8abbc168",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bbf71bfe0dcd70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c2631f302d8620",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57cfdf747752774f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "().md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d2b61ab5e8db0f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ed0adb4de9ca67d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "().md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "37083d7d59e2c70a",
+  "lastOpenFiles": [
+    "5000 Work Focus Log/Work Focus Log.md",
+    "5000 Work Focus Log/2022 - 11/2022-11-10.md"
+  ]
+}
