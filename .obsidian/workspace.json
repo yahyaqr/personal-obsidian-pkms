@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "().md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-11-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6759b40f70a2e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/2022-11-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "().md",
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/2022-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "().md",
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/2022-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "().md"
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/2022-11-11.md"
               }
             }
           }
@@ -136,8 +149,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37083d7d59e2c70a",
+  "active": "f6759b40f70a2e2c",
   "lastOpenFiles": [
+    "5000 Work Focus Log/2022 - 11/2022-11-11.md",
+    "2000 Areas of Improvement/Long-term and open-ended.md",
+    "3000 Resources/Actionable in the Future.md",
+    "3000 Resources/Resources PROJECT/Immediate Project.md",
+    "3000 Resources/Resources LINK/LINK.md",
+    "3000 Resources/Ideas/Thinking - Talking.md",
+    "3000 Resources/Resources PROJECT/PROJECT.md",
+    "().md",
     "5000 Work Focus Log/Work Focus Log.md",
     "5000 Work Focus Log/2022 - 11/2022-11-10.md"
   ]

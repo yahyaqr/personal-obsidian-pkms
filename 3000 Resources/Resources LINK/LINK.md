@@ -22,6 +22,7 @@ updated: Monday, October 31st 2022 - 17.20
 ## Free Code
 - [30 Seconds of Code: Free HTML, CSS, JS Snippets](https://www.30secondsofcode.org/)
 - [Hover.js: Free Hover Animation with CSS](http://ianlunn.github.io/Hover/)_
+- [Animate Style: Free CSS Animation](https://animate.style/)
 
 # To Read
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
