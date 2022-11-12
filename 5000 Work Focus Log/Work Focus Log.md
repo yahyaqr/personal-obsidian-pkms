@@ -48,7 +48,7 @@ Today's Log
 ---
 - [ ] 
 - [ ] 
-
+End of Day 2: I've finished the Free LinkedIn Learning Course. Turns out, even though I've finished the course, the certificate can only be shared and downloaded by a premium subscriber. Here's the project results:
 ---
 Total Points: {0}
 ---
