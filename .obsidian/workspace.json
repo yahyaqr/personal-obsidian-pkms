@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-12.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-11-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-12.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-12.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-12.md"
+                "file": "5000 Work Focus Log/2022 - 11/2022-11-13.md"
               }
             }
           }
@@ -211,6 +211,7 @@
   },
   "active": "97e5b8f05f84ac5b",
   "lastOpenFiles": [
+    "5000 Work Focus Log/2022 - 11/2022-11-12.md",
     "5000 Work Focus Log/2022 - 11/2022-11-11.md",
     "5000 Work Focus Log/2022 - 11/2022-11-10.md",
     "5000 Work Focus Log/2022 - 11/2022-11-09.md",
@@ -219,7 +220,6 @@
     "5000 Work Focus Log/100DaysOfCode.md",
     "5000 Work Focus Log/Work Focus Log.md",
     "5000 Work Focus Log/2022 - 11/2022-11-03.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/2022-11-12.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/2022-11-11.md"
+    "1000 Projects/2022 Nov - AWS Dicoding/2022-11-12.md"
   ]
 }
