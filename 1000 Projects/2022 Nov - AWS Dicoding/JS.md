@@ -23,7 +23,7 @@ Pada akhir modul ini, Anda diharapkan dapat:
 
 ```js
 let evenNumber = [];
-for (let i = 0; i < 100; i+2) {
+for (let i = 0; i < 100; i++) {
   evenNumber.push(i);
   console.log(i);
 }
