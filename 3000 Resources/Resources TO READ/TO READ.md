@@ -10,6 +10,8 @@ updated: Monday, October 31st 2022 - 17.20
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [React Design Patterns](https://vasanthk.gitbooks.io/react-bits/content/)
 ## How to get a First Job
+- [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/)
+- [Frontend Learning Kit (For Interview)](https://github.com/sadanandpai/frontend-learning-kit)
 - [Kursus Menembus Remote Work](https://remoteworker.id/)
 - [Technical Interviews Resources](https://ocs.yale.edu/channels/the-technical-interview/)
 - [How to Interview a Developers](https://www.freecodecamp.org/news/how-to-interview-as-a-developer-candidate-b666734f12dd)
