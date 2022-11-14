@@ -13,38 +13,106 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Projects/Requirement.md",
+                "file": "3000 Resources/Resources PROJECT/PROJECT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93eb25c24aefbabd",
+            "id": "36ca8e0a2f051f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Resources PROJECT/Certificate.md",
+                "file": "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "544fd38f47ff6b89",
+            "id": "8f33da8a9f5791df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-14.md",
+                "file": "3000 Resources/Resources PROJECT/PROJECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1411a808afe0836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Resources PROJECT/PROJECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88fa4430ab3698d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Resources LINK/TO READ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "464a0afdde8b14ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a6bafa054592281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Resources FOR DEVELOPER/TEMPLATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cb3c6ebf5aae15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Resources LINK/TO READ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5391a811ef976b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Resources LINK/TO READ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -110,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-14.md",
+                "file": "3000 Resources/Resources LINK/TO READ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-14.md",
+                "file": "3000 Resources/Resources LINK/TO READ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-14.md"
+                "file": "3000 Resources/Resources LINK/TO READ.md"
               }
             }
           }
@@ -161,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "544fd38f47ff6b89",
+  "active": "5391a811ef976b13",
   "lastOpenFiles": [
-    "5000 Work Focus Log/2022 - 11/2022-11-14.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/JS.md",
-    "3000 Resources/Resources PROJECT/Certificate.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/2022-11-12.md",
-    "1000 Projects/Bangkit D-Day.md",
-    "1000 Projects/Requirement.md",
-    "1000 Projects/Short-term and Finite.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-08.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-09.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-10.md"
+    "3000 Resources/Resources CERTIFICATE/TODO.md",
+    "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
+    "3000 Resources/Resources CERTIFICATE/MINE.md",
+    "3000 Resources/Resources BRANDING/LINKEDIN.md",
+    "3000 Resources/Resources PROJECT/PROJECT.md",
+    "3000 Resources/Resources PROJECT/TODO.md",
+    "3000 Resources/Resources TEMPLATE/TEMPLATE.md",
+    "3000 Resources/Resources FOR DEVELOPER/BUNDLE.md",
+    "3000 Resources/Resources LINK/TO READ.md",
+    "3000 Resources/Resources FOR DEVELOPER/TEMPLATE.md"
   ]
 }

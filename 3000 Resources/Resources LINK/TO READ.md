@@ -2,29 +2,11 @@
 created: Monday, October 31st 2022 - 17.20
 updated: Monday, October 31st 2022 - 17.20
 ---
-# Personalized
+# To Read
+## Personalized
 - [Hasil analisa Resume Yahya Aqrom](https://cvcompiler.com/file/61df194487881ed05a5bb85aba58f80d)
 - [Gaji Junior Developer di Indonesia](https://www.levels.fyi/t/software-engineer/locations/indonesia?limit=50&yoeChoice=junior&sortBy=total_compensation&sortOrder=ASC)
-- [AppTortoise: Insiprasi untuk Web Vismaya](https://apptortoise.com/)
-- [SnapTortoise: Inspirasi untuk Web Vismaya 2](https://snaptortoise.com/)
-- [Ryan Mulligan: Inspirasi untuk Web Pribadi](https://ryanmulligan.dev/)
----
-# Free
-- [Free For Developers](https://free-for.dev/#/)
-- [Free Azure for Students](https://azure.microsoft.com/en-us/free/students/)
-## Free Templates
-- [Wrap Pixel: Free Template for Bootstrap. Angular, React, Next Js, Vuejs, UI Kits, Vuetify, Material UI, Nuxt Js](https://www.wrappixel.com/)
-- [Theme Selection: Free Dashboard Template](https://themeselection.com/item/category/free-admin-templates/)
-- [UISUAL: Free Landing Page Templates for Startups](https://uisual.com)
-- [HTML 5 UP: Free Spiffy HTML5 Site Templates](https://html5up.net)
-- [Mashup Template: Free Beautiful HTML5 Template based on pre-built Blocks](https://mashup-template.com)
-- [One Page Love: Web Design References](https://onepagelove.com)
-## Free Code
-- [30 Seconds of Code: Free HTML, CSS, JS Snippets](https://www.30secondsofcode.org/)
-- [Hover.js: Free Hover Animation with CSS](http://ianlunn.github.io/Hover/)_
-- [Animate Style: Free CSS Animation](https://animate.style/)
-
-# To Read
+## General
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [React Design Patterns](https://vasanthk.gitbooks.io/react-bits/content/)
 ## How to get a First Job
