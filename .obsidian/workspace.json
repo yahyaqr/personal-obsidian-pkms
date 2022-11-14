@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Resources TO READ/TO READ.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/3 React/1 JSX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Resources TO READ/TO READ.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/3 React/1 JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Resources TO READ/TO READ.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/3 React/1 JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Resources TO READ/TO READ.md"
+                "file": "1000 Projects/2022 Nov - Codecademy/Cheatsheet/3 React/1 JSX.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "8fb06d18d9e8b980",
   "lastOpenFiles": [
+    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/3 React/3 Thinking in React.md",
+    "1000 Projects/2022 Nov - Codecademy/Cheatsheet/3 React/2 React Patterns.md",
+    "3000 Resources/Resources TO READ/TO READ.md",
+    "3000 Resources/Resources PROJECT/TODO.md",
+    "3000 Resources/Resources PROJECT/PROJECT.md",
     "3000 Resources/Resources FOR DEVELOPER/BUNDLE.md",
     "3000 Resources/Resources FOR DEVELOPER/TEMPLATE.md",
     "3000 Resources/Resources FOR DEVELOPER/SWAG.md",
     "3000 Resources/Resources FOR DEVELOPER/SNIPPETS.md",
-    "3000 Resources/Resources PROJECT/PROJECT.md",
-    "3000 Resources/Resources PROJECT/TODO.md",
-    "3000 Resources/Ideas/Practicing Styles.md",
-    "3000 Resources/Resources TO READ/TO READ.md",
-    "3000 Resources/Resources CERTIFICATE/TODO.md",
-    "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md"
+    "3000 Resources/Ideas/Practicing Styles.md"
   ]
 }

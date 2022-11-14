@@ -9,7 +9,15 @@ updated: Monday, October 31st 2022 - 17.20
 ## General
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [React Design Patterns](https://vasanthk.gitbooks.io/react-bits/content/)
+- [Course Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
 ## How to get a First Job
+- [Study Plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+- [Leetcode Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [Leetcode Blind 50](https://www.techinterviewhandbook.org/best-practice-questions/)
+- [Leetcode Blind 75](https://leetcode.com/list/xi4ci4ig/)
+- [Leetcode 75 Questions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+- [Frontend Job Interview Questions](https://github.com/mattupham/Front-end-Developer-Interview-Questions)
+- [Frontend Interview Questions](https://github.com/mattupham/front-end-Interview-Questions)
 - [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Frontend Learning Kit (For Interview)](https://github.com/sadanandpai/frontend-learning-kit)
 - [Kursus Menembus Remote Work](https://remoteworker.id/)
