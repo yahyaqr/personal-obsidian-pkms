@@ -9,3 +9,4 @@ updated: Monday, October 31st 2022 - 17.20
 - [Florin Pop: App Ideas](https://github.com/florinpop17/app-ideas)
 - [Florin Pop: 10 Projects 10 Hours](hhttps://github.com/florinpop17/10-projects-10-hours)
 - [Florin Pop: 10 Projects 1 Hours](https://github.com/florinpop17/10-projects-1-hour)
+- [Pro Tailwind: Free Tailwind Tutorials](https://www.protailwind.com/tutorials)

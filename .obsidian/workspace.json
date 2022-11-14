@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Resources LINK/TO READ.md",
+                "file": "3000 Resources/Resources TO READ/TO READ.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Resources LINK/TO READ.md",
+                "file": "3000 Resources/Resources TO READ/TO READ.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,14 +105,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Resources LINK/TO READ.md",
+                "file": "3000 Resources/Resources TO READ/TO READ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fb06d18d9e8b980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Resources PROJECT/PROJECT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Resources LINK/TO READ.md",
+                "file": "3000 Resources/Resources PROJECT/PROJECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Resources LINK/TO READ.md",
+                "file": "3000 Resources/Resources PROJECT/PROJECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Resources LINK/TO READ.md"
+                "file": "3000 Resources/Resources PROJECT/PROJECT.md"
               }
             }
           }
@@ -229,17 +241,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5391a811ef976b13",
+  "active": "8fb06d18d9e8b980",
   "lastOpenFiles": [
+    "3000 Resources/Resources PROJECT/TODO.md",
+    "3000 Resources/Ideas/Practicing Styles.md",
+    "3000 Resources/Resources TO READ/TO READ.md",
     "3000 Resources/Resources CERTIFICATE/TODO.md",
     "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
     "3000 Resources/Resources CERTIFICATE/MINE.md",
     "3000 Resources/Resources BRANDING/LINKEDIN.md",
     "3000 Resources/Resources PROJECT/PROJECT.md",
-    "3000 Resources/Resources PROJECT/TODO.md",
     "3000 Resources/Resources TEMPLATE/TEMPLATE.md",
-    "3000 Resources/Resources FOR DEVELOPER/BUNDLE.md",
-    "3000 Resources/Resources LINK/TO READ.md",
-    "3000 Resources/Resources FOR DEVELOPER/TEMPLATE.md"
+    "3000 Resources/Resources FOR DEVELOPER/BUNDLE.md"
   ]
 }
