@@ -21,11 +21,16 @@ Pada akhir modul ini, Anda diharapkan dapat:
 -   Memahami konsep perulangan pada pemrograman
 - https://www.youtube.com/watch?v=X8SbmPNxVL0
 
-```js
-let evenNumber = [];
-for (let i = 0; i < 100; i++) {
-  evenNumber.push(i);
-  console.log(i);
-}
-console.log(evenNumber);
-```
+## Struktur Data
+Pada modul ini kita akan membahas tentang tipe data JavaScript yang dapat menyimpan struktur data yang lebih kompleks. Beberapa jenis struktur data yang akan kita pelajari, antara lain:
+-   Object
+-   Array
+-   Map
+-   Set
+- https://www.youtube.com/watch?v=etDR8rc_vvs
+
+## Function
+Di sini kita akan mempelajari beberapa hal terkait function, seperti:
+-   Apa itu function?
+-   Tujuan dan alasan kenapa kita menggunakan function.
+-   Bagaimana membuat function pada JavaScript.
