@@ -34,3 +34,16 @@ Di sini kita akan mempelajari beberapa hal terkait function, seperti:
 -   Apa itu function?
 -   Tujuan dan alasan kenapa kita menggunakan function.
 -   Bagaimana membuat function pada JavaScript.
+- https://www.youtube.com/watch?v=AL9ipPNzSOE
+
+## Pengenalan OOP
+Pada modul ini kita akan membahas beberapa hal terkait OOP, seperti:
+-   Apa itu class?
+-   Empat pilar OOP.
+-   Penggunaan property & method.
+-   Object Composition.
+-   Contoh object/class bawaan dari JavaScript.
+
+```
+
+```
