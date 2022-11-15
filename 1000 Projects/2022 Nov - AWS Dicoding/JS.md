@@ -64,18 +64,8 @@ Di sini kita akan membahas 4 konsep besar yang ada di FP. Yakni Pure Function, I
 	- JavaScript memiliki kemampuan First Class Functions, karena itu fungsi pada JavaScript dapat diperlakukan layaknya sebuah data. Kita bisa menyimpan function dalam variabel, memberikan function sebagai parameter pada fungsi lainnya, hingga mengembalikan function di dalam function.
 	- Higher-Order Function merupakan fungsi yang dapat menerima fungsi lainnya pada argumen; mengembalikan sebuah fungsi; atau bahkan keduanya.
 
-```js
-const books = [
-  { title: 'The Da Vinci Code', author: 'Dan Brown', sales: 5094805 },
-  { title: 'The Ghost', author: 'Robert Harris', sales: 807311 },
-  { title: 'White Teeth', author: 'Zadie Smith', sales: 815586 },
-  { title: 'Fifty Shades of Grey', author: 'E. L. James', sales: 3758936 },
-  { title: 'Jamie\'s Italy', author: 'Jamie Oliver', sales: 906968 },
-  { title: 'I Can Make You Thin', author: 'Paul McKenna', sales: 905086 },
-  { title: 'Harry Potter and the Deathly Hallows', author: 'J.K Rowling', sales: 4475152 },
-];
-
-// TODO
-const greatAuthors = books.filter(e => e.sales > 1000000).map(e => `${e.author} adalah penulis buku ${e.title} yang sangat hebat!`);
-console.log(greatAuthors);
-```
+## NPM
+Pada modul ini kita akan belajar mengenai beberapa hal berikut:
+-   Menambahkan package ke dalam project JavaScript.
+-   Menggunakan package untuk membantu pengembangan aplikasi.
+-   Menghapus package yang sudah tidak digunakan.
