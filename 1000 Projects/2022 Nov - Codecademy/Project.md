@@ -9,7 +9,6 @@ Introduction to Javascript
 - Rock, Paper, or Scissors
 	- 45min
 	- More guidance
-	- https://www.codecademy.com/projects/practice/rock-paper-scissors-javascript
 	- https://www.codecademy.com/courses/introduction-to-javascript/projects/rock-paper-scissors-javascript
 - Sleep Debt Calculator
 	- 39min
