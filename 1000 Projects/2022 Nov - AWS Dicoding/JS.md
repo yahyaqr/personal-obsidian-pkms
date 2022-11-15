@@ -87,3 +87,10 @@ findMax(102, 404, 48);
 findMax(-1, 0, -1);
 findMax(2, 2, 2);
 ```
+
+```js
+const name = 'Dicoding';
+const language = 'JavaScript';
+
+console.log(`Hello $name. Welcome to $language!`);
+```
