@@ -4,36 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "474197b6a592b4a0",
+        "id": "cd47bb60734cc002",
         "type": "tabs",
         "children": [
           {
-            "id": "4b4691451d271532",
+            "id": "3364dc4d5418edf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Resources CERTIFICATE/MINE.md",
+                "file": "3000 Resources/Copywriting/Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2bb1ebe81b91f9e1",
+            "id": "98be7dc906966e3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Projects/2022 - 2024/Skripsi.md",
+                "file": "3000 Resources/Copywriting/5 Instagram Copywriting Hacks/1. Hook with the very first sentence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f92d50a92ca64f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/5 Instagram Copywriting Hacks/2. Add value.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7f6d3e1d1f1e1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/5 Instagram Copywriting Hacks/3. Use storytelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814ae4bbf8566c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 2024 - Skripsi/Skripsi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73656fd7ce59b9f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d6351d55b73e4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e99e918a51a45084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/5 Instagram Copywriting Hacks/1. Hook with the very first sentence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "911fdef0727856c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/1. TO GET MORE LIKES = Share A Relatable Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f6d306d065c1b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/2. TO GET MORE SAVES = Share Your Fave Tips & Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f2df293761ad366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/1. TO GET MORE LIKES = Share A Relatable Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cec506256aa85cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/4. TO GET MORE COMMENTS = Ask A Simple Question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6dd361b40eede52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/5. TO GET MORE LEADS = Provide Valuable Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6b50b1547b091a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/6. TO GET MORE ENGAGEMENT = Make It Playful & Have Fun!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -83,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 448.5085258483887
   },
   "right": {
     "id": "b3203f8f8abbc168",
@@ -99,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Projects/2022 - 2024/Skripsi.md",
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/6. TO GET MORE ENGAGEMENT = Make It Playful & Have Fun!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Projects/2022 - 2024/Skripsi.md",
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/6. TO GET MORE ENGAGEMENT = Make It Playful & Have Fun!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Projects/2022 - 2024/Skripsi.md"
+                "file": "3000 Resources/Copywriting/6 Instagram Engagement TIps/6. TO GET MORE ENGAGEMENT = Make It Playful & Have Fun!.md"
               }
             }
           }
@@ -150,17 +293,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bb1ebe81b91f9e1",
+  "active": "d6b50b1547b091a1",
   "lastOpenFiles": [
-    "3000 Resources/Resources CERTIFICATE/MINE.md",
-    "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
-    "1000 Projects/2022 Nov - Codecademy/Project.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/JS.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/Intro.md",
-    "1000 Projects/1 DESEMBER 2022 - DAFTAR BANGKIT.md",
-    "1000 Projects/2022 Nov - Codecademy/Battle Plan.md",
-    "1000 Projects/2022 Nov - Codecademy/Articles/React Native/Accessibility in React Native.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/2022-11-12.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/2022-11-11.md"
+    "3000 Resources/Copywriting/6 Instagram Engagement TIps/5. TO GET MORE LEADS = Provide Valuable Resources.md",
+    "3000 Resources/Copywriting/6 Instagram Engagement TIps/4. TO GET MORE COMMENTS = Ask A Simple Question.md",
+    "3000 Resources/Copywriting/6 Instagram Engagement TIps/1. TO GET MORE LIKES = Share A Relatable Story.md",
+    "3000 Resources/Copywriting/6 Instagram Engagement TIps/2. TO GET MORE SAVES = Share Your Fave Tips & Tools.md",
+    "3000 Resources/Copywriting/6 Instagram Engagement TIps/3. TO GET MORE SHARES = Post A Thought-Provoking Meme or Quote.md",
+    "3000 Resources/Copywriting/5 Instagram Copywriting Hacks/1. Hook with the very first sentence.md",
+    "3000 Resources/Copywriting/5 Instagram Copywriting Hacks/5. Use emotional narrative.md",
+    "3000 Resources/Copywriting/5 Instagram Copywriting Hacks/Conclusion.md",
+    "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+    "1000 Projects/2022 2024 - Skripsi/Skripsi.md"
   ]
 }

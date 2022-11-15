@@ -9,5 +9,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showFrontmatter": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "0000 Utilities/IMG"
 }
