@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Projects/2022 Nov - AWS Dicoding/JS.md",
-                "mode": "preview",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Projects/2022 Nov - AWS Dicoding/JS.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Projects/2022 Nov - AWS Dicoding/JS.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Projects/2022 Nov - AWS Dicoding/JS.md"
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "4b4691451d271532",
   "lastOpenFiles": [
+    "1000 Projects/2022 Nov - AWS Dicoding/JS.md",
     "1000 Projects/2022 Nov - AWS Dicoding/Intro.md",
     "1000 Projects/2022 Nov - Codecademy/Project.md",
     "1000 Projects/1 DESEMBER 2022 - DAFTAR BANGKIT.md",
@@ -146,7 +147,6 @@
     "1000 Projects/2022 Nov - Codecademy/Articles/React Native/Accessibility in React Native.md",
     "1000 Projects/2022 Nov - AWS Dicoding/2022-11-12.md",
     "1000 Projects/2022 Nov - AWS Dicoding/2022-11-11.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/JS.md",
     "5000 Work Focus Log/2022 - 11/2022-11-15.md",
     "1000 Projects/2022 Nov - Codecademy/Articles/React Native/Untitled.md"
   ]

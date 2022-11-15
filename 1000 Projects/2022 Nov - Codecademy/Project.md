@@ -141,3 +141,9 @@ https://www.codecademy.com/learn/api-development-with-swagger-and-openapi
 Learn CSS-in-JS (without lessons or projects)
 https://www.codecademy.com/learn/learn-css-in-js
 
+https://github.com/topics/codecademy-pro?l=scss
+https://github.com/brezich/Codecademy-Projects-HTML-CSS
+https://github.com/brezich/Codecademy-Projects-ReactJS
+https://github.com/umitkaraogul/codecademy-react
+https://github.com/jcastulik/codecademy-projects
+https://github.com/christianheinrichs/codecademy-projects
