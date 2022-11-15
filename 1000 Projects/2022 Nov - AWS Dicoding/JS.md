@@ -69,3 +69,21 @@ Pada modul ini kita akan belajar mengenai beberapa hal berikut:
 -   Menambahkan package ke dalam project JavaScript.
 -   Menggunakan package untuk membantu pengembangan aplikasi.
 -   Menghapus package yang sudah tidak digunakan.
+
+```js
+function findMax(a, b, c) {
+    if (a > b && b > c) {
+        return a;
+    } else if (b > a && a > c) {
+        return b;
+    } else {
+        return c;
+    }
+}
+
+findMax(1, 2, 3);
+findMax(5, 1, 2);
+findMax(102, 404, 48);
+findMax(-1, 0, -1);
+findMax(2, 2, 2);
+```
