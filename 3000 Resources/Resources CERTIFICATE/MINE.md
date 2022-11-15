@@ -6,6 +6,7 @@ updated: Monday, November 7th 2022 - 16.25
 # My Certificate
 ### Dicoding
 - [Dicoding: AWS Cloud Practitioner Essentials](https://www.dicoding.com/certificates/ERZR0G21MXYV)
+- [Dicoding: Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/4EXG9NGDEZRL)
 
 ### Hacker Rank
 - [Hackerrank: CSS](https://www.hackerrank.com/certificates/4420faf3c79d)
