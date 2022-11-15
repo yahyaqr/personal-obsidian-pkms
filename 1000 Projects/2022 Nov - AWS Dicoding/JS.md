@@ -89,8 +89,12 @@ findMax(2, 2, 2);
 ```
 
 ```js
-const name = 'Dicoding';
-const language = 'JavaScript';
+const capital = {
+    "Jakarta": "Indonesia",
+    "London": "England",
+    "Tokyo": "Japan"
+}
+capital["New Delhi"] = "Indonesia";
 
-console.log(`Hello $name. Welcome to $language!`);
+console.log(capital["Indonesia"]);
 ```
