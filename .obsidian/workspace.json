@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e07d0fe6da8c238",
+            "id": "bf33812b055128fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
+                "file": "Karakter Kutai Kuno.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5085258483887
+    "width": 448.5085258483887,
+    "collapsed": true
   },
   "right": {
     "id": "b3203f8f8abbc168",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
+                "file": "Karakter Kutai Kuno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
+                "file": "Karakter Kutai Kuno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md"
+                "file": "Karakter Kutai Kuno.md"
               }
             }
           }
@@ -136,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e07d0fe6da8c238",
+  "active": "bf33812b055128fc",
   "lastOpenFiles": [
+    "Kanban, Scrum, Agile, Lean.md",
+    "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
     "5000 Work Focus Log/2022 - 11/2022-11-16.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
-    "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
     "3000 Resources/Copywriting/4 Smart Ways to Create Catchy Headlines/2. Ask a Question Your Audience Wants to Know the Answer to.md",
     "3000 Resources/Copywriting/6 Copywriting Structure/1. Bad Alternative - Product Education - Results.md",
     "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/3. Exclusivity.md",
     "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/2. Goal.md",
     "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/1. Research.md",
-    "3000 Resources/Copywriting/10 Effective Hooks with Examples/3. Pose a Relevant Question.md",
-    "3000 Resources/Copywriting/10 Effective Hooks with Examples/4. Use Compelling Statistics.md"
+    "3000 Resources/Copywriting/10 Effective Hooks with Examples/3. Pose a Relevant Question.md"
   ]
 }
