@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e208233ad1b65c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Projects/2022 Nov - AWS Dicoding/Backend.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -161,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38e75bbd58f0bed7",
+  "active": "7e208233ad1b65c4",
   "lastOpenFiles": [
+    "Niche Marketing.md",
+    "5000 Work Focus Log/2022 - 11/2022-11-17.md",
+    "Gantt Chart.md",
+    "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
     "5000 Work Focus Log/2022 - 11/2022-11-16.md",
     "Untitled.md",
     "Kuota TRI.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
     "Kanban, Scrum, Agile, Lean.md",
-    "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
-    "3000 Resources/Copywriting/4 Smart Ways to Create Catchy Headlines/2. Ask a Question Your Audience Wants to Know the Answer to.md",
-    "3000 Resources/Copywriting/6 Copywriting Structure/1. Bad Alternative - Product Education - Results.md",
-    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/3. Exclusivity.md",
-    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/2. Goal.md"
+    "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md"
   ]
 }
