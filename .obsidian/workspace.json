@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11b77679a8872174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md"
               }
             }
           }
@@ -150,9 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11b77679a8872174",
+  "active": "1984b2e36e6c0882",
   "lastOpenFiles": [
     "5000 Work Focus Log/2022 - 11/2022-11-16.md",
+    "Untitled.md",
     "Kanban, Scrum, Agile, Lean.md",
     "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
@@ -160,7 +148,6 @@
     "3000 Resources/Copywriting/6 Copywriting Structure/1. Bad Alternative - Product Education - Results.md",
     "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/3. Exclusivity.md",
     "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/2. Goal.md",
-    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/1. Research.md",
-    "3000 Resources/Copywriting/10 Effective Hooks with Examples/3. Pose a Relevant Question.md"
+    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/1. Research.md"
   ]
 }

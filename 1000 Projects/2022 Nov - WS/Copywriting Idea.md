@@ -143,3 +143,31 @@ Headline: Istilah-istilah ketika Kuliah
 Caption:
 Hashtags:
 ```
+
+```
+HHH: Hub
+Pillars: Hygiene
+Target: LEADS
+Headline: 7 Kampus PTN Favorit di Jawa Tengah pada SBMPTN 2023
+1:
+2:
+3:
+4:
+5:
+Caption:
+Hashtags:
+```
+
+```
+HHH: Hub
+Pillars: Hygiene
+Target: LEADS
+Headline: 7 Kampus PTN Favorit di Jawa Barat pada SBMPTN 2023
+1:
+2:
+3:
+4:
+5:
+Caption:
+Hashtags:
+```
