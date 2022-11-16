@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38e75bbd58f0bed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-16.md",
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-16.md",
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-16.md"
+                "file": "1000 Projects/2022 Nov - AWS Dicoding/Backend.md"
               }
             }
           }
@@ -149,12 +161,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68e9cf58c6e70083",
+  "active": "38e75bbd58f0bed7",
   "lastOpenFiles": [
+    "5000 Work Focus Log/2022 - 11/2022-11-16.md",
     "Untitled.md",
     "Kuota TRI.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-16.md",
     "Kanban, Scrum, Agile, Lean.md",
     "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
     "3000 Resources/Copywriting/4 Smart Ways to Create Catchy Headlines/2. Ask a Question Your Audience Wants to Know the Answer to.md",
