@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68e9cf58c6e70083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Niche Marketing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5085258483887,
-    "collapsed": true
+    "width": 448.5085258483887
   },
   "right": {
     "id": "b3203f8f8abbc168",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+                "file": "Niche Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+                "file": "Niche Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Projects/2022 Nov - WS/Copywriting Idea.md"
+                "file": "Niche Marketing.md"
               }
             }
           }
@@ -137,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1984b2e36e6c0882",
+  "active": "68e9cf58c6e70083",
   "lastOpenFiles": [
-    "5000 Work Focus Log/2022 - 11/2022-11-16.md",
     "Untitled.md",
+    "Kuota TRI.md",
+    "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+    "5000 Work Focus Log/2022 - 11/2022-11-16.md",
     "Kanban, Scrum, Agile, Lean.md",
     "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
-    "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
     "3000 Resources/Copywriting/4 Smart Ways to Create Catchy Headlines/2. Ask a Question Your Audience Wants to Know the Answer to.md",
     "3000 Resources/Copywriting/6 Copywriting Structure/1. Bad Alternative - Product Education - Results.md",
     "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/3. Exclusivity.md",
-    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/2. Goal.md",
-    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/1. Research.md"
+    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/2. Goal.md"
   ]
 }
