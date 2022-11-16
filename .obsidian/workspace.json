@@ -4,251 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cd47bb60734cc002",
+        "id": "652266bc1bb580f9",
         "type": "tabs",
         "children": [
           {
-            "id": "fb009f2c2f88575e",
+            "id": "1e07d0fe6da8c238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/1. The ‘Who Else’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c13b213f4dc14a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/2. The ‘Secrets’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "110ace5a24da942d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/3. The ‘Here’s How’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3236847a8c3a9b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/4. The ‘Little-Known’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "125d42746ec40f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/5. The ‘Quick Solution’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41dfdc407941e947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/6. The ‘Have the Cake and Eat It, too’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b6c629b1bf2a0d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/7. The ‘How to Do Something Like’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ebf6480021e2c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/8. The ‘All You Need to Know About’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c92db9a8ccc11b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/9. The ‘List’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c26fa030eab10600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/10. The ‘It’s All About You’ Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "344f6f02cd69c07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/Conclusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80bfe3ec208de07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/LEAD/Support Headlines with Leads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1d08b6c4c8bec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/1. AIDA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcb7d1f9792ff5e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/2. FAB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32cb1f2b7571f8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/3. PAS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d05085fc83a3c089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/4. Storytelling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15acdb7ade119688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/5. The Open Loop Technique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb4c449ac477d13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/6. BAB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "068e794aa8bc30ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/7. Why - How - What.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65f8aee8323322ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/8. Why - Try - Buy.md",
+                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HHH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/8. Why - Try - Buy.md",
+                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/8. Why - Try - Buy.md",
+                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Copywriting/X Copywriting Formulas/8. Why - Try - Buy.md"
+                "file": "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md"
               }
             }
           }
@@ -365,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65f8aee8323322ab",
+  "active": "1e07d0fe6da8c238",
   "lastOpenFiles": [
-    "3000 Resources/Copywriting/X Copywriting Formulas/7. Why - How - What.md",
-    "3000 Resources/Copywriting/X Copywriting Formulas/6. BAB.md",
-    "3000 Resources/Copywriting/X Copywriting Formulas/5. The Open Loop Technique.md",
-    "3000 Resources/Copywriting/X Copywriting Formulas/4. Storytelling.md",
-    "3000 Resources/Copywriting/X Copywriting Formulas/3. PAS.md",
-    "3000 Resources/Copywriting/X Copywriting Formulas/2. FAB.md",
-    "3000 Resources/Copywriting/X Copywriting Formulas/1. AIDA.md",
-    "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/LEAD/Support Headlines with Leads.md",
-    "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/Conclusion.md",
-    "3000 Resources/Copywriting/10 Formulas to Create Catchy Headlines/10. The ‘It’s All About You’ Formula.md"
+    "5000 Work Focus Log/2022 - 11/2022-11-16.md",
+    "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+    "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md",
+    "3000 Resources/Copywriting/4 Smart Ways to Create Catchy Headlines/2. Ask a Question Your Audience Wants to Know the Answer to.md",
+    "3000 Resources/Copywriting/6 Copywriting Structure/1. Bad Alternative - Product Education - Results.md",
+    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/3. Exclusivity.md",
+    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/2. Goal.md",
+    "3000 Resources/Copywriting/5 Steps to Create a Copywriting Strategy/1. Research.md",
+    "3000 Resources/Copywriting/10 Effective Hooks with Examples/3. Pose a Relevant Question.md",
+    "3000 Resources/Copywriting/10 Effective Hooks with Examples/4. Use Compelling Statistics.md"
   ]
 }
