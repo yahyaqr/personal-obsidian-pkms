@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85425cdc9bec8bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md"
               }
             }
           }
@@ -173,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e208233ad1b65c4",
+  "active": "85425cdc9bec8bfe",
   "lastOpenFiles": [
+    "1000 Projects/2022 Nov - Codecademy/Battle Plan.md",
+    "LinkedIn.md",
     "Niche Marketing.md",
     "5000 Work Focus Log/2022 - 11/2022-11-17.md",
+    "Untitled.md",
     "Gantt Chart.md",
     "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
     "5000 Work Focus Log/2022 - 11/2022-11-16.md",
-    "Untitled.md",
     "Kuota TRI.md",
-    "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
-    "Kanban, Scrum, Agile, Lean.md",
-    "3000 Resources/Copywriting/10 Content Marketing Tips/4. Follow the HHH model with pillars and clusters.md"
+    "1000 Projects/2022 Nov - WS/Copywriting Idea.md"
   ]
 }
