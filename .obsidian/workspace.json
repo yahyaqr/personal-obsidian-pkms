@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
+                "file": "3000 Resources/Resources CERTIFICATE/MINE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f048ebd82b17d239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 Projects/2022 Nov - Codecademy/Project.md"
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md"
               }
             }
           }
@@ -185,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85425cdc9bec8bfe",
+  "active": "f048ebd82b17d239",
   "lastOpenFiles": [
+    "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
+    "3000 Resources/Resources CERTIFICATE/TODO.md",
+    "3000 Resources/Resources CERTIFICATE/MINE.md",
+    "3000 Resources/Resources CERTIFICATE/SKILLS.md",
+    "5000 Work Focus Log/Work Focus Log.md",
+    "5000 Work Focus Log/100DaysOfCode.md",
+    "4000 Archive/Unused in the Future.md",
+    "1000 Projects/2022 Nov - Codecademy/Project.md",
     "1000 Projects/2022 Nov - Codecademy/Battle Plan.md",
-    "LinkedIn.md",
-    "Niche Marketing.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-17.md",
-    "Untitled.md",
-    "Gantt Chart.md",
-    "1000 Projects/2022 Nov - AWS Dicoding/Backend.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-16.md",
-    "Kuota TRI.md",
-    "1000 Projects/2022 Nov - WS/Copywriting Idea.md"
+    "LinkedIn.md"
   ]
 }

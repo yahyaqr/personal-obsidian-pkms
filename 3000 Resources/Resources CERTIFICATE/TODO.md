@@ -4,7 +4,15 @@ updated: Monday, November 14th 2022 - 08.03
 ---
 # Unredeemed
 - [LinkedIn Learning: React - Building Styles with CSS Modules](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678)
+	- React.js
 - [LinkedIn Learning: React -Building an Interface](https://www.linkedin.com/learning/react-js-building-an-interface-8551484)
+	- React.js - Web Interface Design
+- [LinkedIn Learning: Scrum Advanced](https://www.linkedin.com/learning/scrum-advanced)
+	- Scrum
+- [LinkedIn Learning: Agile Project Management](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes)
+	- Jira, Agile Project Management
+- [LinkedIn Learning: Communication Foundations](https://www.linkedin.com/learning/communication-foundations-2/foundations-of-communication?autoplay=true)
+	- Communication
 
 ---
 # Need Progress
