@@ -150,7 +150,7 @@ Hashtags:
 		3. Tentukan ingin menjadi apa setelah kuliah
 		4. Perhatikan peluang kerja
 		5. Konsultasi dengan yang lebih berpengalaman
-		6. Konsultasi dengan mahasiswa atau alumni kampus tersebut
+		6. Bicarakan dengan mahasiswa atau alumni kampus tersebut
 		7. Jangan memilih jurusan karena ikut-ikutan/gengsi
 15. Hygiene: Istilah Penting saat Kuliah!
 	1. Sampurasun!
