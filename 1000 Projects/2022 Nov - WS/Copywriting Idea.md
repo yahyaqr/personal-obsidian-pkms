@@ -188,10 +188,23 @@ Hashtags:
 		8. Universitas Negeri Yogyakarta (42.542)
 		9. Universitas Negeri Jakarta (39.542)
 		10. Universitas Sumatera Utara (33.448)
-18. Countdown H-3: Rihlah Kampus SMAI PB Soedirman
-19. Countdown H-2: Rihlah Kampus SMAI PB Soedirman
-20. Countdown H-1: Rihlah Kampus SMAI PB Soedirman
-21. D-Day: Rihlah Kampus SMAI PB Soedirman
+18. Hero: Melayani Tur Kunjungan Sekolah Untuk Kampus Favorit
+	1. Sampurasun!
+		1. ITB
+		2. UI
+		3. UGM
+		4. Unair
+		5. ITS
+		6. Undip
+		7. UNS
+		8. Undip
+		9. UPI
+		10. UNY
+		11. USU
+20. Countdown H-3: Rihlah Kampus SMAI PB Soedirman
+21. Countdown H-2: Rihlah Kampus SMAI PB Soedirman
+22. Countdown H-1: Rihlah Kampus SMAI PB Soedirman
+23. D-Day: Rihlah Kampus SMAI PB Soedirman
 
 ---
 ```
