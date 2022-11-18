@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HHH",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5085258483887
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b3203f8f8abbc168",
@@ -149,7 +150,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cf3ad27f837f3a3",
+  "active": "1984b2e36e6c0882",
   "lastOpenFiles": [
     "3000 Resources/Resources CERTIFICATE/TODO.md",
     "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
