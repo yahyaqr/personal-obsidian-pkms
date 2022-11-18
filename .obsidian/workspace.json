@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "LinkedIn Learning Tech Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "LinkedIn Learning Tech Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "LinkedIn Learning Tech Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "LinkedIn Learning Tech Resume.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "3cf3ad27f837f3a3",
   "lastOpenFiles": [
+    "LinkedIn Learning Tech Resume.md",
     "LinkedIn.md",
     "5000 Work Focus Log/2022 - 11/2022-11-18.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
@@ -159,7 +160,6 @@
     "Kuota TRI.md",
     "Karakter Kutai Kuno.md",
     "Kanban, Scrum, Agile, Lean.md",
-    "Gantt Chart.md",
-    "2000 Areas of Improvement/English/16 Tenses/2 Past/5 Simple Past Tense.md"
+    "Gantt Chart.md"
   ]
 }
