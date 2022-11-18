@@ -143,14 +143,51 @@ Hashtags:
 		3. Tutup aplikasi yang jarang dipakai
 		4. Download video atau musik, jangan streaming
 		5. Redupkan layar
-14. Hygiene: 10 Fakta tentang Masa SMA
+14. Hygiene: Tips Memilih Kampus dan Jurusan
 	1. Sampurasun!
+		1. Kenali minat bakat dalam diri
+		2. Pelajari jurusan yang hendak dipilih
+		3. Tentukan ingin menjadi apa setelah kuliah
+		4. Perhatikan peluang kerja
+		5. Konsultasi dengan yang lebih berpengalaman
+		6. Konsultasi dengan mahasiswa atau alumni kampus tersebut
+		7. Jangan memilih jurusan karena ikut-ikutan/gengsi
 15. Hygiene: Istilah Penting saat Kuliah!
 	1. Sampurasun!
-16. Hygiene: 7 Kampus PTN Favorit di Indonesia pada SBMPTN 2023
+		1. KTM = Kartu Tanda Mahasiswa
+		2. SKS = Satuan Kredit Semester
+		3. IP/IPK = Indeks Prestasi (Kumulatif)
+		4. SP = Semester Pendek
+		5. UKM = Unit Kegiatan Mahasiswa
+		6. UKT = Uang Kuliah Tunggal
+		7. KKN = Kuliah Kerja Nyata
+		8. BEM = Badan Eksekutif Mahasiswa
+		9. MWA = Majelis Wali Amanat
+		10. TA = Tugas Akhir
+16. Hygiene: 10 Kampus PTN Nilai Rerata tertinggi di Indonesia pada SBMPTN 2023
 	1. Sampurasun!
-17. Hygiene: 7 Kampus PTS Favorit di Indonesia pada SBMPTN 2023
+		1. Universitas Indonesia 665,86
+		2. Universitas Gadjah Mada 656,61
+		3. Institut Teknologi Bandung 645,94
+		4. Universitas Airlangga 633,20
+		5. Institut Teknologi Sepuluh Nopember 631,79
+		6. Universitas Diponegoro 622,01
+		7. Universitas Sebelas Maret 621,02
+		8. Universitas Padjadjaran 619,94
+		9. UPN Veteran Jakarta 618,51
+		10. Institut Pertanian Bogor 610,01
+17. Hygiene: 10 Kampus PTN Paling Diminati di Indonesia pada SBMPTN 2023
 	1. Sampurasun!
+		1. Universitas Gadjah Mada (62.507)
+		2. Universitas Brawijaya (61.743)
+		3. Universitas Padjajaran (54.446)
+		4. Universitas Indonesia (54.897)
+		5. Universitas Sebelas Maret (51.947)
+		6. Universitas Diponegoro (51.418)
+		7. Universitas Pendidikan Indonesia (45.767)
+		8. Universitas Negeri Yogyakarta (42.542)
+		9. Universitas Negeri Jakarta (39.542)
+		10. Universitas Sumatera Utara (33.448)
 18. Countdown H-3: Rihlah Kampus SMAI PB Soedirman
 19. Countdown H-2: Rihlah Kampus SMAI PB Soedirman
 20. Countdown H-1: Rihlah Kampus SMAI PB Soedirman
