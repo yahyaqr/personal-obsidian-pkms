@@ -13,6 +13,8 @@ updated: Monday, November 14th 2022 - 08.03
 	- Jira, Agile Project Management
 - [LinkedIn Learning: Communication Foundations](https://www.linkedin.com/learning/communication-foundations-2/foundations-of-communication?autoplay=true)
 	- Communication
+- [LinkedIn Learning: Writing a Tech Resume](https://www.linkedin.com/learning/writing-a-tech-resume)
+	- Job Search Strategies
 
 ---
 # Need Progress

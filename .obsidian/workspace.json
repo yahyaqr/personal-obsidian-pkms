@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn Learning Tech Resume.md",
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedIn Learning Tech Resume.md",
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedIn Learning Tech Resume.md",
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedIn Learning Tech Resume.md"
+                "file": "3000 Resources/Resources CERTIFICATE/TODO.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "3cf3ad27f837f3a3",
   "lastOpenFiles": [
+    "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
     "LinkedIn Learning Tech Resume.md",
     "LinkedIn.md",
     "5000 Work Focus Log/2022 - 11/2022-11-18.md",
@@ -159,7 +160,6 @@
     "Untitled.md",
     "Kuota TRI.md",
     "Karakter Kutai Kuno.md",
-    "Kanban, Scrum, Agile, Lean.md",
-    "Gantt Chart.md"
+    "Kanban, Scrum, Agile, Lean.md"
   ]
 }
