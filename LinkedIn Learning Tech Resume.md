@@ -5,9 +5,21 @@ updated: Friday, November 18th 2022 - 07.15
 Simple and organize
 The correct format
 
-- Learning Software Engineering: Introduction to Computation (3 SCH), Programming Fundamentals (2 SCH), Algorithm and Data Structure IST (3 SCH), Object Oriented Programming IST (3 SCH), Software Engineering IST (3 SCH), Mobile Platform & Application Development (3 SCH), Human Computer Interaction (3 SCH).
-- Learning Computer Architecture and Systems: Computer Architecture and Systems (3 SCH), Embedded Systems (3 SCH), Computer Network (3 SCH), Integrated System Technology (3 SCH), Information Security (3 SCH).
-- Learning Database Systems: Database Modeling (3 SCH), Database Management (2 SCH).
+## Perbaikan
+### 1. Deskripsi Singkat
+Kasih rangkuman aja tentang skill dan career goal.
+Contoh:
+- "Motivated software engineer aiming to grow Java knowledge by programming with Java in an enterprise-level application"
+- "Experienced Java developer with ten years architecting and building large-scale enterprise applications"
+### 2. Work Experiences
+Rangkum semua freelance jadi Vismaya Studio
+Sisain Pexpress.id
+### 3. Education Level (SUDAH)
+- Learned and implemented the concepts of Software Engineering, a total of 25 SCH: Introduction to Computation, Programming Fundamentals, Algorithm and Data Structure IST, Object-Oriented Programming IST, Software Engineering IST, Mobile Platform & Application Development, Human Computer Interaction, Database Modeling, Database Management.
+### 4. Achievements and Skills
+
+### 5. Nama File
+Ganti jadi: Nama Jabatan - Nama Pelamar - Resume
 
 
 ## College Subjects
