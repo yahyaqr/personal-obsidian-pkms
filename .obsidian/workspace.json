@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dd65870d8cd4c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create a Go-To-Market Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedIn.md",
+                "file": "Create a Go-To-Market Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedIn.md",
+                "file": "Create a Go-To-Market Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedIn.md"
+                "file": "Create a Go-To-Market Plan.md"
               }
             }
           }
@@ -149,13 +161,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cf3ad27f837f3a3",
+  "active": "2dd65870d8cd4c40",
   "lastOpenFiles": [
+    "LinkedIn.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
     "3000 Resources/Resources CERTIFICATE/TODO.md",
     "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
     "LinkedIn Learning Tech Resume.md",
-    "LinkedIn.md",
     "5000 Work Focus Log/2022 - 11/2022-11-18.md",
     "Niche Marketing.md",
     "Untitled.md",
