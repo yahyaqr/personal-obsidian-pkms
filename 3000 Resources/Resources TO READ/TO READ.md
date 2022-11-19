@@ -24,6 +24,7 @@ updated: Monday, October 31st 2022 - 17.20
 - [Technical Interviews Resources](https://ocs.yale.edu/channels/the-technical-interview/)
 - [How to Interview a Developers](https://www.freecodecamp.org/news/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - [How to negotiating a Job Offer](https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+- [CariKerja Deeptech](https://carikerja.deeptech.id/)
 - [Finding your next Junior Job](https://www.juniorjobs.dev/)
 - [Zapier's Guide to Working Remotely](https://zapier.com/learn/remote-work/)
 - [A curated list of awesome remote working resources](https://github.com/lukasz-madon/awesome-remote-job)
