@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create a Go-To-Market Plan.md",
+                "file": "LinkedIn.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create a Go-To-Market Plan.md",
+                "file": "LinkedIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create a Go-To-Market Plan.md",
+                "file": "LinkedIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create a Go-To-Market Plan.md"
+                "file": "LinkedIn.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "2dd65870d8cd4c40",
   "lastOpenFiles": [
-    "LinkedIn.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
+    "LinkedIn.md",
+    "LinkedIn Learning Tech Resume.md",
+    "Niche Marketing.md",
+    "Create a Go-To-Market Plan.md",
     "3000 Resources/Resources CERTIFICATE/TODO.md",
     "3000 Resources/Resources CERTIFICATE/CERTIFICATE.md",
-    "LinkedIn Learning Tech Resume.md",
     "5000 Work Focus Log/2022 - 11/2022-11-18.md",
-    "Niche Marketing.md",
     "Untitled.md",
-    "Kuota TRI.md",
-    "Karakter Kutai Kuno.md"
+    "Kuota TRI.md"
   ]
 }
