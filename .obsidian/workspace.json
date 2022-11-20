@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76727433471a7787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-19.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-19.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-19.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -136,12 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f048ebd82b17d239",
+  "active": "76727433471a7787",
   "lastOpenFiles": [
+    "5000 Work Focus Log/2022 - 11/2022-11-19.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
     "3000 Resources/Resources TO READ/TO READ.md",
     "LinkedIn.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-19.md",
     "LinkedIn Learning Tech Resume.md",
     "Niche Marketing.md",
     "Create a Go-To-Market Plan.md",
