@@ -15,11 +15,17 @@ updated: Monday, November 14th 2022 - 08.03
 	- Communication
 - [LinkedIn Learning: Writing a Tech Resume](https://www.linkedin.com/learning/writing-a-tech-resume)
 	- Job Search Strategies
-
+- [Nano Tips for Negotiating Your Salary](https://www.linkedin.com/learning/nano-tips-for-negotiating-your-salary-with-sho-dewan/how-to-help-recruiters-get-you-a-higher-salary?autoSkip=true&autoplay=true&resume=false)
+	- Salary Negotiation
+- [Nanto Tips for Career Wellness](https://www.linkedin.com/learning/career-wellness-nano-tips-with-shade-zahrai/prioritizing-your-workload?autoplay=true)
+	- Career Management, Self-regulation
+- [Create a Go-To-Market Plan](https://www.linkedin.com/learning/create-a-go-to-market-plan-2/create-your-go-to-market-plan?autoplay=true)
+	- Go-to-Market Strategy
+- [Agile Product Owner Role: Foundations](https://www.linkedin.com/learning/agile-product-owner-role-foundations/the-key-to-creating-better-agile-results?autoplay=true)
+	- Agile Project Management
 ---
 # Need Progress
 ### Free: Lessons (High Priority)
-- [Dicoding: Basic JavaScript]()
 - [Dicoding: Beginner Backend]()
 
 ### Free Trial: Project (Intermediate Priority)
