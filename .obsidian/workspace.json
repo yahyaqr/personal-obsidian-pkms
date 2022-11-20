@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f048ebd82b17d239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76727433471a7787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e63b99e1f89ba10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Menarik.md",
+                "file": "LinkedIn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menarik.md",
+                "file": "LinkedIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Menarik.md",
+                "file": "LinkedIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menarik.md"
+                "file": "LinkedIn.md"
               }
             }
           }
@@ -163,6 +138,8 @@
   },
   "active": "e63b99e1f89ba10f",
   "lastOpenFiles": [
+    "LinkedIn Learning Tech Resume.md",
+    "Menarik.md",
     "5000 Work Focus Log/2022 - 11/2022-11-20.md",
     "3000 Resources/Resources CERTIFICATE/TODO.md",
     "3000 Resources/Resources TO READ/TO READ.md",
@@ -170,8 +147,6 @@
     "Niche.md",
     "Niche Marketing.md",
     "LinkedIn.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-19.md",
-    "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
-    "LinkedIn Learning Tech Resume.md"
+    "5000 Work Focus Log/2022 - 11/2022-11-19.md"
   ]
 }
