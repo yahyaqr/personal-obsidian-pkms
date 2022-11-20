@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
+                "file": "Niche.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
+                "file": "Niche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000 Resources/Resources CERTIFICATE/TODO.md",
+                "file": "Niche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000 Resources/Resources CERTIFICATE/TODO.md"
+                "file": "Niche.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "76727433471a7787",
   "lastOpenFiles": [
+    "5000 Work Focus Log/2022 - 11/2022-11-20.md",
+    "3000 Resources/Resources CERTIFICATE/TODO.md",
     "3000 Resources/Resources TO READ/TO READ.md",
     "Agile Product Owner Foundations.md",
     "Niche.md",
@@ -158,8 +160,6 @@
     "LinkedIn.md",
     "5000 Work Focus Log/2022 - 11/2022-11-19.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
-    "LinkedIn Learning Tech Resume.md",
-    "Create a Go-To-Market Plan.md",
-    "3000 Resources/Resources CERTIFICATE/TODO.md"
+    "LinkedIn Learning Tech Resume.md"
   ]
 }
