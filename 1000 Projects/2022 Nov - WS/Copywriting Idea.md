@@ -95,12 +95,16 @@ Hashtags:
 	5. #WilujengSumpingTour #StudyTour #Kampus #Tips 
 8. Hub: Cara Menjaga Kesehatan sepanjang Kunjungan Edukasi!
 	1. Sampurasun!
+	2. Kepada sadulur yang akan melakukan perjalanan jarak jauh, Wilujeng Sumping ingin mengingatkan untuk senantiasa menjaga kesehatan dan kebugaran tubuh.  
+	3. Kali ini, kami punya beberapa tips menjaga kesehatan sepanjang perjalanan!
 		1. Mengonsumsi makanan bernutrisi
 		2. Minum lebih banyak air putih
 		3. Berolahraga secara rutin
 		4. Mencukupi waktu tidur dan istirahat
 		5. Mengelola stres
 		6. Menerapkan protokol kesehatan
+	4. Gimana tipsnya? Wilujeng Sumping selalu hadir untuk menjadi sahabat perjalanan anda!
+	5. #WilujengSumpingTour #Perjalanan #Kesehatan #Tips 
 9. Hub: 7 Hal yang Sering Dilupakan saat Kunjungan Edukasi!
 	1. Sampurasun!
 		1. Berdoa sepanjang perjalanan!
@@ -201,10 +205,10 @@ Hashtags:
 		9. UPI
 		10. UNY
 		11. USU
-20. Countdown H-3: Rihlah Kampus SMAI PB Soedirman
-21. Countdown H-2: Rihlah Kampus SMAI PB Soedirman
-22. Countdown H-1: Rihlah Kampus SMAI PB Soedirman
-23. D-Day: Rihlah Kampus SMAI PB Soedirman
+19. Countdown H-3: Rihlah Kampus SMAI PB Soedirman
+20. Countdown H-2: Rihlah Kampus SMAI PB Soedirman
+21. Countdown H-1: Rihlah Kampus SMAI PB Soedirman
+22. D-Day: Rihlah Kampus SMAI PB Soedirman
 
 ---
 ```
