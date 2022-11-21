@@ -142,11 +142,14 @@ Hashtags:
 		6. Install antivirus
 13. Hygiene: 7 Cara Menghemat Baterai Smartphone selama Perjalanan!
 	1. Sampurasun!
+	2. Kali ini Wilujeng Sumping mau membagikan tips yang tidak kalah bermanfaat, yaitu tips agar baterai smartphone tetap awet selama perjalanan! Yuk simak tipsnya:
 		1. Aktifkan airplane mode
 		2. Matikan fitur getar (vibrate)
 		3. Tutup aplikasi yang jarang dipakai
 		4. Download video atau musik, jangan streaming
 		5. Redupkan layar
+	3. Dengan melakukan tips-tips tersebut, baterai smartphone sadulur dijamin tetap awet sepanjang perjalanan! Semoga membantu!
+	4. #WilujengSumpingTour #Tips #Menghemat #Baterai #Perjalanan
 14. Hygiene: Tips Memilih Kampus dan Jurusan
 	1. Sampurasun!
 		1. Kenali minat bakat dalam diri
