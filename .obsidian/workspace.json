@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df293ee12c5b681e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedIn View Course for Free.md",
+                "file": "Bio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedIn View Course for Free.md",
+                "file": "Bio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedIn View Course for Free.md"
+                "file": "Bio.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59657c5518ad14dd",
+  "active": "df293ee12c5b681e",
   "lastOpenFiles": [
-    "LinkedIn Learning Tech Resume.md",
-    "LinkedIn.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-21.md",
+    "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
     "LinkedIn View Course for Free.md",
+    "LinkedIn.md",
+    "Bio.md",
+    "LinkedIn Learning Tech Resume.md",
+    "5000 Work Focus Log/2022 - 11/2022-11-21.md",
     "Menarik.md",
     "5000 Work Focus Log/2022 - 11/2022-11-20.md",
     "3000 Resources/Resources CERTIFICATE/TODO.md",
-    "3000 Resources/Resources TO READ/TO READ.md",
-    "Agile Product Owner Foundations.md",
-    "Niche.md"
+    "3000 Resources/Resources TO READ/TO READ.md"
   ]
 }
