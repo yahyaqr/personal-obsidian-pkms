@@ -107,6 +107,7 @@ Hashtags:
 	5. #WilujengSumpingTour #Perjalanan #Kesehatan #Tips 
 9. Hub: 7 Hal yang Sering Dilupakan saat Kunjungan Edukasi!
 	1. Sampurasun!
+	2. Teruntuk sadulur yang berencana melakukan perjalanan jarak jauh, terutama Kunjungan Edukasi dari Wilujeng Sumping, jangan lupa yaa terkait 7 hal berikut ini:
 		1. Berdoa sepanjang perjalanan!
 		2. Patuhi peraturan!
 		3. Pakai sunscreen untuk menjaga kulit!
@@ -114,6 +115,8 @@ Hashtags:
 		5. Usahakan buang air teratur di hotel!
 		6. Perbanyak minum!
 		7. Siapkan Kantong Plastik Cadangan!
+	3. Semoga informasi tersebut bermanfaat yaa!
+	4. #WilujengSumpingTour #Perjalanan #Tips #Tour #Travel
 10. Hub: Ide foto di kampus impian
 	1. Sampurasun!
 		1. Ajak sahabat kamu berfoto bersama!
