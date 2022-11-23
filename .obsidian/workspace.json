@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48a97c4ab609180e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-23.md",
+                "file": "BNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-23.md",
+                "file": "BNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-11-23.md"
+                "file": "BNN.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d47fe467d096f9b",
+  "active": "48a97c4ab609180e",
   "lastOpenFiles": [
-    "LinkedIn Learning Tech Resume.md",
     "5000 Work Focus Log/2022 - 11/2022-11-23.md",
+    "LinkedIn Learning Tech Resume.md",
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
     "LinkedIn.md",
     "LinkedIn View Course for Free.md",
