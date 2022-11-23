@@ -60,7 +60,7 @@ Hashtags:
 		5. Panduan Guide Mahasiswa Kampus Favorit
 		6. Pelayanan saat Penyelenggaraan Perjalanan
 	3. Dengan penawaran harga yang kompetitif, kami akan selalu berupaya memperkaya perjalanan edukasi anda!
-	4. #WilujengSumpingTour #Tur #Edukasi #TravelOrganizer
+		1. #WilujengSumpingTour #Tur #Edukasi #TravelOrganizer
 6. Hub: 12 Barang yang Wajib Dibawa saat Kunjungan Edukasi! ✅
 	1. Sampurasun!
 	2. Kunjungan Edukasi merupakan kegiatan wisata dimana para peserta dapat merasakan liburan sembari belajar. Meskipun bertajuk wisata, tentu ada yang harus disiapkan agar perjalanan tetap aman, nyaman, dan menyenangkan.
