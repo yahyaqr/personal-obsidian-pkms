@@ -2,6 +2,10 @@
 created: Wednesday, November 23rd 2022 - 10.03
 updated: Wednesday, November 23rd 2022 - 10.03
 ---
+Irjen. Pol. Marthinus Hukom, S.I.K., M.Si. (Kepala Detasemen Khusus 88)
+
+“Ancaman Terorisme di Indonesia dan Penanggulangannya"
+
 Intoleransi -> Radikalisme.
 
 Radikal adalah suatu perbuatan kasar yang bertentangan dengan norma dan nilai sosial.
