@@ -38,3 +38,26 @@ Sadulur, bantu kami memahami kebutuhan kamu yuk! Kali ini Wilujeng Sumping ingin
 
 Tulis Kampus/Jurusan yang paling ingin kalian kunjungi di kolom komentar yaa!
 #WilujengSumpingTour #Kunjungan #StudyTour #Tour #Travel
+
+---
+D-3: Izin Orang Tua
+---
+
+asdsad
+asdsa
+
+---
+D-2: Doa Bersama
+---
+
+asdsad
+asdsad
+
+---
+D-1: Jaga Kesehatan
+---
+
+asdad
+asdsad
+
+---
