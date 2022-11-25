@@ -40,21 +40,35 @@ Tulis Kampus/Jurusan yang paling ingin kalian kunjungi di kolom komentar yaa!
 #WilujengSumpingTour #Kunjungan #StudyTour #Tour #Travel
 
 ---
-D-3: Checklist Packing
+D-3: Pahami Perjalanan
+---
+Sampurasun!
+
+Haloo teman-teman Wilujeng Sumping dari SMAI PB Soedirman, karena sudah D-3 dari waktu keberangkatan perjalanan kita, kali ini kami ingin mengingatkan teman-teman semua untuk mempersiapkan perjalanan kalian.
+
+Poin pertama yang penting untuk teman-teman pahami adalah pahami perjalanan! Kita mau ngapain aja sih? Bagaimana urutan perjalanannya? Kira-kira butuh bawa apa aja?
+
+Nih, Wilujeng Sumping kasih contekannya:
+
+Day 1: Perjalanan ke Semarang
+Day 2: Kunjungan UNDIP (Semarang) & Wisata Vredeburg (Yogyakarta)
+Day 3: Kunjungan UGM (Yogyakarta) & Kunjungan UNS (Surakarta)
+Day 4: Kunjungan UNBRAW (Malang) & Wisata Petik Apel (Malang)
+Day 5: Wisata Bromo (Malang) & Perjalanan Pulang
+
+Oiya, jangan lupa untuk membaca Booklet Rihlah yang sudah kami sediakan yaa!
+
+#WilujengSumpingTour #Kunjungan #StudyTour #Tour #Travel
+
+---
+D-2: Siap-Siap Packing
 ---
 
 asdsad
-asdsa
-
----
-D-2: Tips Packing
----
-
-asdsad
 asdsad
 
 ---
-D-1: Restu Orang Tua
+D-1: Izin Restu Orang Tua
 ---
 
 asdad
