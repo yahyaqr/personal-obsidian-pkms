@@ -14,3 +14,5 @@ updated: Friday, November 11th 2022 - 22.03
 - [AppTortoise: Insiprasi untuk Web Vismaya](https://apptortoise.com/)
 - [SnapTortoise: Inspirasi untuk Web Vismaya 2](https://snaptortoise.com/)
 - [Ryan Mulligan: Inspirasi untuk Web Pribadi](https://ryanmulligan.dev/)
+
+https://ladder.io/playbook
