@@ -19,3 +19,7 @@ https://www.freepik.com/author/theupperclouds/5
 https://www.freepik.com/search?author=22113780&authorSlug=theupperclouds&demographic=number1%2Cmasculine&format=author&page=3&people=include&type=photo
 
 https://www.freepik.com/author/khoirulmahmudinphotos/3
+
+https://www.freepik.com/author/adipurnatama
+
+https://www.freepik.com/search?author=2625758&authorSlug=reezky11&demographic=number1%2Cfeminine&format=author&page=3&people=include&query=government&type=photo
