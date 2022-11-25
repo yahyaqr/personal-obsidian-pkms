@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niche.md",
+                "file": "Marketing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Niche.md",
+                "file": "Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Niche.md",
+                "file": "Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Niche.md"
+                "file": "Marketing.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "78c8088bd7e12614",
   "lastOpenFiles": [
+    "Niche.md",
     "5000 Work Focus Log/2022 - 11/2022-11-25.md",
     "3000 Resources/Resources PROJECT/PROJECT.md",
     "Marketing.md",
@@ -146,7 +147,6 @@
     "1000 Projects/2022 Nov - WS/Copywriting Idea.md",
     "5000 Work Focus Log/2022 - 11/2022-11-24.md",
     "BNN.md",
-    "5000 Work Focus Log/2022 - 11/2022-11-23.md",
-    "LinkedIn Learning Tech Resume.md"
+    "5000 Work Focus Log/2022 - 11/2022-11-23.md"
   ]
 }
