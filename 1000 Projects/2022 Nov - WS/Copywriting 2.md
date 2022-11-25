@@ -40,21 +40,21 @@ Tulis Kampus/Jurusan yang paling ingin kalian kunjungi di kolom komentar yaa!
 #WilujengSumpingTour #Kunjungan #StudyTour #Tour #Travel
 
 ---
-D-3: Izin Orang Tua
+D-3: Checklist Packing
 ---
 
 asdsad
 asdsa
 
 ---
-D-2: Doa Bersama
+D-2: Tips Packing
 ---
 
 asdsad
 asdsad
 
 ---
-D-1: Jaga Kesehatan
+D-1: Restu Orang Tua
 ---
 
 asdad
