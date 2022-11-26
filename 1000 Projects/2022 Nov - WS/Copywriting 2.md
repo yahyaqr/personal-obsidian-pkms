@@ -63,15 +63,43 @@ Oiya, jangan lupa untuk membaca Booklet Rihlah yang sudah kami sediakan yaa!
 ---
 D-2: Siap-Siap Packing
 ---
+Sampurasun!
 
-asdsad
-asdsad
+Apa kabar nih teman-teman dari SMAI PB Soedirman? Jangan lupa yaa hari ini D-2 dari perjalanan kita yaitu Rihlah Kampus: 28-03 Desember 2022.  Tidak lelah Wilujeng Sumping ingin mengingatkan kalian untuk segera mempersiapkan diri untuk perjalanan kita nanti.
+
+Poin kedua yang penting untuk teman-teman lakukan adalah Siap-Siap Packing!  Kami sudah menyiapkan daftar barang bawaan wajib untuk teman-teman:
+
+- Uang Saku Secukupnya
+- Pakaian Pribadi
+- Pakaian Seragam Kunjungan (Lihat Booklet)
+- Kaus Kaki
+- Jaket/Pakaian Hangat
+- Payung/Ponco
+- Perlengkapan mandi
+- Perlengkapan Shalat
+- Koran/Alas Sajadah
+- Perlengkapan Tulis
+- Obat-obatan Pribadi
+- Senter Kecil
+- Kantung Kresek
+
+Tentunya, daftar diatas hanya sebagai barang bawaan minimal yang perlu teman-teman siapkan, pastikan teman-teman membawa cukup persiapan tetapi juga jangan berlebihan yaa! Semangat!
+
+#WilujengSumpingTour #Kunjungan #StudyTour #Tour #Travel
 
 ---
 D-1: Izin Restu Orang Tua
 ---
+Sampurasun!
 
-asdad
-asdsad
+Wah, sudah tinggal menghitung jam dari waktu keberangkatan Wilujeng Sumping dan teman-teman dari SMAI PB Soedirman.
+
+Kali ini, Wilujeng Sumping ingin mengingatkan untuk mempersiapkan diri dengan meminta doa, izin, dan restu orang tua, menjaga kesehatan, dan istirahat yang cukup!
+
+Oiya, kami juga sudah menyiapkan doa-doa yang teman-teman bisa panjatkan sepanjang perjalanan, supaya perjalanan kita penuh berkah dan perlindungan.
+
+Sampai jumpa besok yaa!
+
+#WilujengSumpingTour #Kunjungan #StudyTour #Tour #Travel
 
 ---
