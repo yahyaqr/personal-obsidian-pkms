@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6000 Inbox/Twitter Bio.md",
+                "file": "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/01 Ad Hominem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3383ee3a4e97e4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6000 Inbox/Twitter Bio.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6000 Inbox/Twitter Bio.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6000 Inbox/Twitter Bio.md"
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-04.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71166056e6c98e36",
+  "active": "3383ee3a4e97e4a7",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Filosofi/Kebenaran/4 Pengertian - Kata.md",
-    "2000 Areas of Improvement/Filosofi/Kebenaran/2 Logika.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/03 Hasty Generalization.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/02 Straw Man.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/01 Ad Hominem.md",
+    "2000 Areas of Improvement/Filosofi/Logical Fallacy/Syllabus.md",
+    "6000 Inbox/Twitter Bio.md",
+    "2000 Areas of Improvement/Filosofi/Kebenaran/4 Pengertian - Kata.md",
+    "2000 Areas of Improvement/Filosofi/Kebenaran/2 Logika.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/Intro.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/List.md",
-    "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/15 False Analogy.md",
-    "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/14 Division.md",
-    "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/12 Equivocation.md"
+    "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/15 False Analogy.md"
   ]
 }
