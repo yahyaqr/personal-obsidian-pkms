@@ -1,0 +1,1 @@
+False Dilemma: Ini adalah ketika seseorang hanya menyajikan dua pilihan, padahal sebenarnya ada lebih banyak. Misalnya, "Kamu harus mendukung perang atau kamu tidak patriotik."
