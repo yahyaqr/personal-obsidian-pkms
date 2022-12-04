@@ -51,10 +51,8 @@ Aspiring Frontend Engineer with a focus on React. Experienced in Vue.js, Bootstr
 
 ---
 
-As an aspiring and passionate frontend engineer, I am dedicated to building engaging and user-friendly web applications using the latest technologies and best practices.
+As a dedicated and ambitious frontend engineer, I am committed to creating beautiful, responsive, and user-friendly web applications using the latest technologies and best practices.
 
-With a focus on React, I am skilled in Bootstrap, Tailwind, and SASS, and have experience working with Vue.js, CodeIgniter, Node.js, Express.js, Hapi, and FastAPI.
+With a focus on React, I am skilled in Bootstrap, Tailwind, and SASS, and have experience working with Vue.js, CodeIgniter, Node.js, Express.js, Hapi, and FastAPI. I am also proficient in Figma, Photoshop, and Illustrator, and have a strong background in visual design and user experience.
 
-I am also proficient in Figma, Photoshop, and Illustrator, and have a strong background in visual design and user experience.
-
-My goal is to continuously learn, grow, and make a positive impact through my work. I am excited to connect and collaborate with other like-minded professionals in the field.
+I am constantly seeking to learn and improve my skills, and am always looking for new opportunities to grow and make a positive impact through my work. I am excited to connect and collaborate with other passionate and dedicated professionals in the field.
