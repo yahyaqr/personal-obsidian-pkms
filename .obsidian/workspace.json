@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71166056e6c98e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6000 Inbox/Twitter Bio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Filosofi/Kebenaran/4 Pengertian - Kata.md",
+                "file": "6000 Inbox/Twitter Bio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Filosofi/Kebenaran/4 Pengertian - Kata.md",
+                "file": "6000 Inbox/Twitter Bio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Filosofi/Kebenaran/4 Pengertian - Kata.md"
+                "file": "6000 Inbox/Twitter Bio.md"
               }
             }
           }
@@ -136,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1984b2e36e6c0882",
+  "active": "71166056e6c98e36",
   "lastOpenFiles": [
+    "2000 Areas of Improvement/Filosofi/Kebenaran/4 Pengertian - Kata.md",
     "2000 Areas of Improvement/Filosofi/Kebenaran/2 Logika.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/03 Hasty Generalization.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/02 Straw Man.md",
@@ -146,7 +160,6 @@
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/List.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/15 False Analogy.md",
     "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/14 Division.md",
-    "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/12 Equivocation.md",
-    "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/09 Begging the Question.md"
+    "2000 Areas of Improvement/Filosofi/Logical Fallacy/01-15/12 Equivocation.md"
   ]
 }
