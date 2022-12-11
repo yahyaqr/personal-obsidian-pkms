@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "877e77cfe73da75a",
+        "id": "5dd2968626eae8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "b6798363849612b5",
+            "id": "aec658d9366baecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
+                "file": "6000 Inbox/VISMAYA.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5085258483887
+    "width": 200
   },
   "right": {
     "id": "b3203f8f8abbc168",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
+                "file": "6000 Inbox/VISMAYA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
+                "file": "6000 Inbox/VISMAYA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md"
+                "file": "6000 Inbox/VISMAYA.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6798363849612b5",
+  "active": "aec658d9366baecd",
   "lastOpenFiles": [
+    "3000 Resources/Resources PROJECT/TODO.md",
+    "3000 Resources/Resources PROJECT/PROJECT.md",
+    "3000 Resources/Resources TO READ/Karir.md",
+    "3000 Resources/Resources TO READ/TO READ.md",
+    "5000 Work Focus Log/2022 - 11/2022-12-07.md",
+    "5000 Work Focus Log/2022 - 11/2022-12-10.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/207 Variable Attributes in JSX.md",
     "2000 Areas of Improvement/Code/React/2 Advanced JSX/210 JSX Conditionals = If Statements That Do Work.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/209 JSX Conditionals = If Statements That Don't Work.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/208 Event Listeners in JSX.md",
     "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/216 JSX Recap.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/215 React.createElement.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/211 JSX Conditionals = The Ternary Operator.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/214 Keys.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/213 .map in JSX.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/207 Variable Attributes in JSX.md"
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/208 Event Listeners in JSX.md"
   ]
 }

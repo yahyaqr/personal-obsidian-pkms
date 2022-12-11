@@ -23,7 +23,6 @@ Standard operating procedures (SOPs) are sets of step-by-step instructions that 
 9.  A process for managing and tracking project timelines, including setting and managing project deadlines, tracking progress, and coordinating with clients and team members to ensure timely delivery.
     
 10.  A process for managing and tracking project assets, including organizing and storing design files, tracking revisions, and maintaining a clear record of project history.
-    
 
 These are just a few examples of the types of SOPs that a design agency might need. The specific SOPs that are necessary will depend on the size and scope of the agency, as well as the types of clients and projects it typically works on.
 
