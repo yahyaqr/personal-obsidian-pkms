@@ -57,9 +57,9 @@ A standard operating procedure (SOP) for a process for managing and tracking pro
     
 3.  Manage invoicing and payment: Manage the invoicing and payment process for the project, including issuing invoices, tracking payments, and following up on any outstanding balances.
     
-4.  Monitor and control project budget: Monitor and control the project budget, using established project management tools and processes, to ensure that the project stays within budget, and to identify and address any potential cost overruns or issues.
+4. Monitor and control project budget: Monitor and control the project budget, using established project management tools and processes, to ensure that the project stays within budget, and to identify and address any potential cost overruns or issues.
     
-5.  Review and evaluate project budget: Review and evaluate the project budget upon completion, including gathering feedback from the client and the design agency's team members, and making any necessary improvements or adjustments for future projects.
+5. Review and evaluate project budget: Review and evaluate the project budget upon completion, including gathering feedback from the client and the design agency's team members, and making any necessary improvements or adjustments for future projects.
     
 
 Overall, a SOP for a process for managing and tracking project budgets should provide a clear and consistent approach for managing the financial aspects of a project, and should ensure that the design agency is able to effectively control costs and manage cash flow throughout the project.
