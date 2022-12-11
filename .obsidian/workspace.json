@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6000 Inbox/VISMAYA.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6000 Inbox/VISMAYA.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6000 Inbox/VISMAYA.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6000 Inbox/VISMAYA.md"
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-12.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "aec658d9366baecd",
   "lastOpenFiles": [
+    "6000 Inbox/VISMAYA.md",
     "3000 Resources/Resources PROJECT/TODO.md",
     "3000 Resources/Resources PROJECT/PROJECT.md",
     "3000 Resources/Resources TO READ/Karir.md",
@@ -146,7 +147,6 @@
     "5000 Work Focus Log/2022 - 11/2022-12-10.md",
     "2000 Areas of Improvement/Code/React/2 Advanced JSX/207 Variable Attributes in JSX.md",
     "2000 Areas of Improvement/Code/React/2 Advanced JSX/210 JSX Conditionals = If Statements That Do Work.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
-    "2000 Areas of Improvement/Code/React/2 Advanced JSX/208 Event Listeners in JSX.md"
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md"
   ]
 }
