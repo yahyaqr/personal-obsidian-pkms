@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "db6cc505fdb9f4d2",
+        "id": "877e77cfe73da75a",
         "type": "tabs",
         "children": [
           {
-            "id": "70d9fb258a84656a",
+            "id": "b6798363849612b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6000 Inbox/VISMAYA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5745c23ae89040b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6000 Inbox/VISMAYA 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5c0472c336fd9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6000 Inbox/VISMAYA 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dfc94bb5c94e05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87cb95e458668dcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6000 Inbox/VISMAYA 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dba3cee32515f07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6000 Inbox/VISMAYA 4.md",
+                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 454.5085258483887
   },
   "right": {
     "id": "b3203f8f8abbc168",
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6000 Inbox/VISMAYA 4.md",
+                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6000 Inbox/VISMAYA 4.md",
+                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6000 Inbox/VISMAYA 4.md"
+                "file": "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md"
               }
             }
           }
@@ -197,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dba3cee32515f07e",
+  "active": "b6798363849612b5",
   "lastOpenFiles": [
-    "6000 Inbox/VISMAYA 3.md",
-    "6000 Inbox/VISMAYA.md",
-    "6000 Inbox/VISMAYA 2.md",
-    "6000 Inbox/Resume.md",
-    "6000 Inbox/Niche Marketing.md",
-    "6000 Inbox/VISMAYA PROMPT.md",
-    "5000 Work Focus Log/2022 - 11/2022-12-10.md",
-    "3000 Resources/Resources TO READ/Karir.md",
-    "5000 Work Focus Log/2022 - 11/2022-12-07.md",
-    "6000 Inbox/BMC.md"
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/210 JSX Conditionals = If Statements That Do Work.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/209 JSX Conditionals = If Statements That Don't Work.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/208 Event Listeners in JSX.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/212 JSX Conditionals = &&.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/216 JSX Recap.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/215 React.createElement.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/211 JSX Conditionals = The Ternary Operator.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/214 Keys.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/213 .map in JSX.md",
+    "2000 Areas of Improvement/Code/React/2 Advanced JSX/207 Variable Attributes in JSX.md"
   ]
 }
