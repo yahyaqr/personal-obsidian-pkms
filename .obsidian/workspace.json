@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fe41987a493564c",
+            "id": "ced21739aa6615e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/4 Components and Advanced JSX/407 Components Recap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c71661d269049ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/Code/React/5 Components Render Other Components/501 Components Interact.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cff7923c074bcfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/Code/React/5 Components Render Other Components/502 A Component in a Render Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba5bb2c12feaa8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/Code/React/5 Components Render Other Components/503 Apply a Component in a Render Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e46780f469923c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/Code/React/5 Components Render Other Components/504 Require A File.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05c1deb5602e7f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/Code/React/5 Components Render Other Components/505 export.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18e04551ab865913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/Code/React/5 Components Render Other Components/506 Component Rendering In Action.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b7c66f5c0cf82a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6000 Inbox/Tes.md",
+                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6000 Inbox/Tes.md",
+                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6000 Inbox/Tes.md",
+                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6000 Inbox/Tes.md"
+                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md"
               }
             }
           }
@@ -221,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b7c66f5c0cf82a8",
+  "active": "ced21739aa6615e3",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Code/React/5 Components Render Other Components/506 Component Rendering In Action.md",
-    "2000 Areas of Improvement/Code/React/5 Components Render Other Components/505 export.md",
-    "2000 Areas of Improvement/Code/React/5 Components Render Other Components/504 Require A File.md",
-    "2000 Areas of Improvement/Code/React/5 Components Render Other Components/503 Apply a Component in a Render Function.md",
-    "2000 Areas of Improvement/Code/React/5 Components Render Other Components/502 A Component in a Render Function.md",
-    "2000 Areas of Improvement/Code/React/5 Components Render Other Components/501 Components Interact.md",
-    "2000 Areas of Improvement/Code/React/4 Components and Advanced JSX/407 Components Recap.md",
-    "2000 Areas of Improvement/Code/React/4 Components and Advanced JSX/406 Use an Event Listener in a Component.md",
-    "2000 Areas of Improvement/Code/React/4 Components and Advanced JSX/405 Use this in a Component.md",
-    "2000 Areas of Improvement/Code/React/4 Components and Advanced JSX/404 Use a Conditional in a Render Function.md"
+    "2000 Areas of Improvement/Code/React/6 this.props/612 defaultProps.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/611 this.props.children.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/610 handleEvent, onEvent, and this.props.onEvent.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/609 Receive an Event Handler as a prop.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/608 Pass an Event Handler as a prop.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/607 Put an Event Handler in a Component Class.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/606 Render Different UI Based on props.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/605 Pass props From Component To Component.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/604 Render a Component's props.md",
+    "2000 Areas of Improvement/Code/React/6 this.props/603 Pass `props` to a Component.md"
   ]
 }
