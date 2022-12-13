@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ced21739aa6615e3",
+            "id": "8f2e0927014eac45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md",
+                "file": "2000 Areas of Improvement/Code/React/10 The State Hook/1009 Lesson Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md",
+                "file": "2000 Areas of Improvement/Code/React/10 The State Hook/1009 Lesson Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md",
+                "file": "2000 Areas of Improvement/Code/React/10 The State Hook/1009 Lesson Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/React/6 this.props/613 this.props Recap.md"
+                "file": "2000 Areas of Improvement/Code/React/10 The State Hook/1009 Lesson Review.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ced21739aa6615e3",
+  "active": "8f2e0927014eac45",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Code/React/6 this.props/612 defaultProps.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/611 this.props.children.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/610 handleEvent, onEvent, and this.props.onEvent.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/609 Receive an Event Handler as a prop.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/608 Pass an Event Handler as a prop.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/607 Put an Event Handler in a Component Class.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/606 Render Different UI Based on props.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/605 Pass props From Component To Component.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/604 Render a Component's props.md",
-    "2000 Areas of Improvement/Code/React/6 this.props/603 Pass `props` to a Component.md"
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1006 Arrays in State.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1008 Separate Hooks for Separate States.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1009 Lesson Review.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1007 Objects in State.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1005 Set From Previous State.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1004 Use State Setter Outside of JSX.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1003 Initialize State.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1002 Update Function Component State.md",
+    "2000 Areas of Improvement/Code/React/10 The State Hook/1001 Why Use Hooks.md",
+    "2000 Areas of Improvement/Code/React/9 Function Components/903 Review.md"
   ]
 }
