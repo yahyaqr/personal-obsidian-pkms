@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f2e0927014eac45",
+            "id": "33a5c085051cd502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md",
+                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 401.0085258483887
   },
   "right": {
     "id": "b3203f8f8abbc168",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md",
+                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md",
+                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md"
+                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f2e0927014eac45",
+  "active": "33a5c085051cd502",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1009 Lesson Review.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1006 Arrays in State.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1008 Separate Hooks for Separate States.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1007 Objects in State.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1005 Set From Previous State.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1004 Use State Setter Outside of JSX.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1003 Initialize State.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1002 Update Function Component State.md",
-    "2000 Areas of Improvement/Code/React/10 The State Hook/1001 Why Use Hooks.md",
-    "2000 Areas of Improvement/Code/React/9 Function Components/903 Review.md"
+    "2000 Areas of Improvement/Code/SOLID/4/410 Dependency Inversion Principle (DIP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/406 Liskov's Substitution Principle (LSP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/413 Rangkuman.md",
+    "2000 Areas of Improvement/Code/SOLID/4/412 Studi Kasus S.O.L.I.D.md",
+    "2000 Areas of Improvement/Code/SOLID/4/411 Contoh Kasus DIP.md",
+    "2000 Areas of Improvement/Code/SOLID/4/409 Contoh Kasus ISP.md",
+    "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/407 Contoh Kasus LSP.md",
+    "2000 Areas of Improvement/Code/SOLID/4/405 Contoh Kasus OCP.md",
+    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md"
   ]
 }
