@@ -11,9 +11,9 @@ Setelah Liskov Substitution, prinsip selanjutnya yang akan kita pelajari adalah�
 
 > "_Clients should not be forced to depend upon interfaces that they do not use._"  
 
-(Robert Cecil Martin)  
+(Robert Cecil Martin)
 
-Prinsip ini sendiri bertujuan untuk mengurangi jumlah ketergantungan sebuah class terhadap interface class yang tidak dibutuhkan. Faktanya, class memiliki ketergantungan terhadap class lainnya. Jumlah ketergantungan dari fungsi pada sebuah interface class yang dapat diakses oleh class tersebut harus dioptimalkan atau dikurangi. Mengapa penting? Terkadang ketika kita membuat sebuah class dengan jumlah fungsi dan properti yang banyak, class lain yang bergantung pada class tersebut hanya membutuhkan satu atau dua fungsi dari class tersebut. Ketergantungan antar class akan semakin bertambah seiring bertambahnya jumlah fungsi dan properti dari class yang dibutuhkan. Lalu bagaimana cara mengatasinya? 
+Prinsip ini sendiri bertujuan untuk mengurangi jumlah ketergantungan sebuah class terhadap interface class yang tidak dibutuhkan. Faktanya, class memiliki ketergantungan terhadap class lainnya. Jumlah ketergantungan dari fungsi pada sebuah interface class yang dapat diakses oleh class tersebut harus dioptimalkan atau dikurangi. Mengapa penting? Terkadang ketika kita membuat sebuah class dengan jumlah fungsi dan properti yang banyak, class lain yang bergantung pada class tersebut hanya membutuhkan satu atau dua fungsi dari class tersebut. Ketergantungan antar class akan semakin bertambah seiring bertambahnya jumlah fungsi dan properti dari class yang dibutuhkan. Lalu bagaimana cara mengatasinya?
 
 Pada saat kita membuat sebuah sistem, pasti kita pernah membuat sebuah class yang memiliki atau mengimplementasikan beberapa _public interface_ dan beberapa _interface_ tersebut juga digunakan dan diimplementasi oleh class lainnya dalam sistem kita. class-class yang kita buat ini terkadang hanya membutuhkan beberapa fungsi yang ada pada interface tersebut sehingga menurut aturan prinsip interface segregation hal ini kurang baik. Tapi tenang, ketika prinsip interface segregation diterapkan, setiap class-class akan mengimplementasi beberapa interface class yang lebih kecil sesuai dengan fungsi-fungsi yang dibutuhkan class-class tersebut. 
 

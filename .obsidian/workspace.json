@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
+                "file": "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "390ec709873d4569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md"
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a5c085051cd502",
+  "active": "390ec709873d4569",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Code/SOLID/4/410 Dependency Inversion Principle (DIP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
     "2000 Areas of Improvement/Code/SOLID/4/406 Liskov's Substitution Principle (LSP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/410 Dependency Inversion Principle (DIP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
     "2000 Areas of Improvement/Code/SOLID/4/413 Rangkuman.md",
     "2000 Areas of Improvement/Code/SOLID/4/412 Studi Kasus S.O.L.I.D.md",
     "2000 Areas of Improvement/Code/SOLID/4/411 Contoh Kasus DIP.md",
     "2000 Areas of Improvement/Code/SOLID/4/409 Contoh Kasus ISP.md",
-    "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
     "2000 Areas of Improvement/Code/SOLID/4/407 Contoh Kasus LSP.md",
-    "2000 Areas of Improvement/Code/SOLID/4/405 Contoh Kasus OCP.md",
-    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md"
+    "2000 Areas of Improvement/Code/SOLID/4/405 Contoh Kasus OCP.md"
   ]
 }
