@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md",
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Many client-specific interfaces",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md",
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md",
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-15.md"
+                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md"
               }
             }
           }
@@ -149,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "390ec709873d4569",
+  "active": "9e1a67eb1936fe1f",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
     "2000 Areas of Improvement/Code/SOLID/4/406 Liskov's Substitution Principle (LSP).md",
+    "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
+    "2000 Areas of Improvement/Code/SOLID/4/403 Contoh Kasus SRP.md",
+    "2000 Areas of Improvement/Code/SOLID/4/401 Pengenalan S.O.L.I.D..md",
+    "2000 Areas of Improvement/Code/SOLID/4/402 Single Responsibility Principle (SRP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/412 Studi Kasus S.O.L.I.D.md",
     "2000 Areas of Improvement/Code/SOLID/4/410 Dependency Inversion Principle (DIP).md",
     "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
-    "2000 Areas of Improvement/Code/SOLID/4/413 Rangkuman.md",
-    "2000 Areas of Improvement/Code/SOLID/4/412 Studi Kasus S.O.L.I.D.md",
-    "2000 Areas of Improvement/Code/SOLID/4/411 Contoh Kasus DIP.md",
-    "2000 Areas of Improvement/Code/SOLID/4/409 Contoh Kasus ISP.md",
-    "2000 Areas of Improvement/Code/SOLID/4/407 Contoh Kasus LSP.md",
-    "2000 Areas of Improvement/Code/SOLID/4/405 Contoh Kasus OCP.md"
+    "5000 Work Focus Log/2022 - 11/2022-12-15.md"
   ]
 }

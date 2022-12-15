@@ -8,9 +8,7 @@ Setelah selesai dengan 2 (dua) aturan sebelumnya, apakah kini Anda sudah punya g
 
 ### Liskov Substitution Principle (LSP)
 
-Oke, kita lanjut ke aturan berikutnya yaitu **Liskov Substitution Principle**. Aturan ini disampaikan pada pembukaan sebuah acara oleh Barbara Liskov. Beliau menyampaikan pernyataan sebagai berikut:
-
-  
+Oke, kita lanjut ke aturan berikutnya yaitu **Liskov Substitution Principle**. Aturan ini disampaikan pada pembukaan sebuah acara oleh Barbara Liskov. Beliau menyampaikan pernyataan sebagai berikut:  
 
 > “_If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behaviour of P is unchanged when o1 is substituted for o2 then S is a subtype of T._” [2](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/)
 
