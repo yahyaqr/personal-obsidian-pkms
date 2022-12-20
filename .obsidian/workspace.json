@@ -18,8 +18,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80b4019e16d53424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/000 Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98f8b31f622d33c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/001 SDLC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "173d967d78f015cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/002 AWS Well-Architected Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30b01172d9b96647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/003 1st Pillar - Operational Excellence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdc6852adf1af6e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/004 2nd Pillar - Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5717785054847926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/005 3rd Pillar - Reliability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-20.md",
+                "file": "2000 Areas of Improvement/Code/AWS/005 3rd Pillar - Reliability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-20.md",
+                "file": "2000 Areas of Improvement/Code/AWS/005 3rd Pillar - Reliability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-20.md"
+                "file": "2000 Areas of Improvement/Code/AWS/005 3rd Pillar - Reliability.md"
               }
             }
           }
@@ -136,17 +209,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4243712873e41827",
+  "active": "5717785054847926",
   "lastOpenFiles": [
+    "2000 Areas of Improvement/Code/AWS/004 2nd Pillar - Security.md",
+    "2000 Areas of Improvement/Code/AWS/000 Intro.md",
+    "2000 Areas of Improvement/Code/AWS/003 1st Pillar - Operational Excellence.md",
+    "2000 Areas of Improvement/Code/AWS/002 AWS Well-Architected Framework.md",
+    "2000 Areas of Improvement/Code/AWS/001 SDLC.md",
+    "5000 Work Focus Log/2022 - 11/2022-12-20.md",
     "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
     "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
     "2000 Areas of Improvement/Code/SOLID/4/406 Liskov's Substitution Principle (LSP).md",
-    "2000 Areas of Improvement/Code/SOLID/4/403 Contoh Kasus SRP.md",
-    "2000 Areas of Improvement/Code/SOLID/4/401 Pengenalan S.O.L.I.D..md",
-    "2000 Areas of Improvement/Code/SOLID/4/402 Single Responsibility Principle (SRP).md",
-    "2000 Areas of Improvement/Code/SOLID/4/412 Studi Kasus S.O.L.I.D.md",
-    "2000 Areas of Improvement/Code/SOLID/4/410 Dependency Inversion Principle (DIP).md",
-    "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
-    "5000 Work Focus Log/2022 - 11/2022-12-15.md"
+    "2000 Areas of Improvement/Code/SOLID/4/403 Contoh Kasus SRP.md"
   ]
 }
