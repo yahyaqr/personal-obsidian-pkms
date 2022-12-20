@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd2968626eae8a3",
+        "id": "a07fcb2f8fd45bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "33a5c085051cd502",
+            "id": "4243712873e41827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "390ec709873d4569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Many client-specific interfaces",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/SOLID/Rangkuman.md"
+                "file": "5000 Work Focus Log/2022 - 11/2022-12-20.md"
               }
             }
           }
@@ -150,14 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e1a67eb1936fe1f",
+  "active": "4243712873e41827",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Code/SOLID/4/406 Liskov's Substitution Principle (LSP).md",
+    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
     "2000 Areas of Improvement/Code/SOLID/Rangkuman.md",
+    "2000 Areas of Improvement/Code/SOLID/4/406 Liskov's Substitution Principle (LSP).md",
     "2000 Areas of Improvement/Code/SOLID/4/403 Contoh Kasus SRP.md",
     "2000 Areas of Improvement/Code/SOLID/4/401 Pengenalan S.O.L.I.D..md",
     "2000 Areas of Improvement/Code/SOLID/4/402 Single Responsibility Principle (SRP).md",
-    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md",
     "2000 Areas of Improvement/Code/SOLID/4/412 Studi Kasus S.O.L.I.D.md",
     "2000 Areas of Improvement/Code/SOLID/4/410 Dependency Inversion Principle (DIP).md",
     "2000 Areas of Improvement/Code/SOLID/4/408 Interface Segregation Principle (ISP).md",
