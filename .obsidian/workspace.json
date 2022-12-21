@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b45d792a6ffd9362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/006 4th Pillar - Performance Efficiency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff9f13857674c045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS/101 Amazon S3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS/007 5th Pillar - Cost Optimization.md",
+                "file": "2000 Areas of Improvement/Code/AWS/101 Amazon S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS/007 5th Pillar - Cost Optimization.md",
+                "file": "2000 Areas of Improvement/Code/AWS/101 Amazon S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS/007 5th Pillar - Cost Optimization.md"
+                "file": "2000 Areas of Improvement/Code/AWS/101 Amazon S3.md"
               }
             }
           }
@@ -159,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21ab8d2e033b3a9c",
+  "active": "ff9f13857674c045",
   "lastOpenFiles": [
     "2000 Areas of Improvement/Code/AWS/006 4th Pillar - Performance Efficiency.md",
     "2000 Areas of Improvement/Code/AWS/005 3rd Pillar - Reliability.md",
-    "5000 Work Focus Log/2022 - 11/2022-12-21.md",
-    "2000 Areas of Improvement/Code/AWS/004 2nd Pillar - Security.md",
+    "2000 Areas of Improvement/Code/AWS/008 Ikhtisar 1.md",
+    "2000 Areas of Improvement/Code/AWS/007 5th Pillar - Cost Optimization.md",
     "2000 Areas of Improvement/Code/AWS/003 1st Pillar - Operational Excellence.md",
+    "2000 Areas of Improvement/Code/AWS/004 2nd Pillar - Security.md",
+    "1000 Projects/2022 Nov - AWS Dicoding/2022-11-12.md",
+    "5000 Work Focus Log/2022 - 11/2022-12-21.md",
     "2000 Areas of Improvement/Code/AWS/000 Intro.md",
-    "2000 Areas of Improvement/Code/AWS/002 AWS Well-Architected Framework.md",
-    "2000 Areas of Improvement/Code/AWS/001 SDLC.md",
-    "5000 Work Focus Log/2022 - 11/2022-12-20.md",
-    "2000 Areas of Improvement/Code/SOLID/4/404 Open-Close Principle (OCP).md"
+    "2000 Areas of Improvement/Code/AWS/002 AWS Well-Architected Framework.md"
   ]
 }

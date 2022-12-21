@@ -19,7 +19,6 @@ Ada 5 prinsip desain untuk mencapai reliability/keandalan di cloud:
       
     Bahkan dengan automasi yang lebih canggih, Anda dapat mengantisipasi dan memulihkan kegagalan sebelum terjadi.  
       
-    
 -   **Uji prosedur pemulihan**  
     Di lingkungan on-premise, pengujian sering dilakukan untuk membuktikan beban kerja berfungsi dalam skenario tertentu. Dan biasanya, pengujian tidak digunakan untuk memvalidasi strategi pemulihan.  
       
@@ -27,20 +26,15 @@ Ada 5 prinsip desain untuk mencapai reliability/keandalan di cloud:
       
     Pendekatan ini memperlihatkan alur kegagalan yang dapat Anda uji dan perbaiki sebelum skenario kegagalan sesungguhnya terjadi sehingga dapat mengurangi risiko.  
       
-    
 -   **Lakukan horizontal scaling untuk meningkatkan ketersediaan beban kerja**  
     Gantilah satu sumber daya besar dengan beberapa sumber daya kecil guna mengurangi dampak kegagalan tunggal pada keseluruhan beban kerja. Distribusikan permintaan di beberapa sumber daya yang lebih kecil untuk memastikan permintaan tersebut tidak memiliki titik kegagalan yang sama.  
       
-    
 -   **Berhenti memperkirakan kebutuhan kapasitas**  
     Penyebab umum terjadinya kegagalan dalam beban kerja di on-premise adalah resource saturation (kejenuhan sumber daya), yakni saat permintaan yang ditempatkan pada beban kerja melebihi kapasitas beban kerja tersebut (ini sering kali menjadi tujuan serangan denial of service alias DoS).  
       
     Di cloud, Anda dapat memantau permintaan dan pemanfaatan beban kerja, serta mengotomatiskan penambahan atau penghapusan resource. Dengan begitu, Anda dapat mempertahankan tingkat optimal guna memenuhi permintaan tanpa kelebihan atau kekurangan penyediaan. Meski masih ada batasan, tetapi beberapa kuota dapat dikontrol dan dikelola.  
       
-    
 -   **Kelola perubahan menggunakan automasi**  
     Perubahan pada infrastruktur Anda harus dilakukan menggunakan automasi. Perubahan yang perlu dikelola termasuk perubahan otomatisasi yang nantinya dapat dilacak dan ditinjau.
     
-
-  
 Untuk petunjuk implementasi secara lebih mendetail, Anda bisa menemukannya di whitepaper untuk pilar Reliability di tautan berikut ini [Reliability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html).
