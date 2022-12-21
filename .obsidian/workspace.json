@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS/0106 Memindahkan Data ke Amazon S3.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40e704b4facb1396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - Codecademy/Articles/Intermediate JavaScript/Implementing Modules in Node.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c81302484641fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS/0106 Memindahkan Data ke Amazon S3.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS/0106 Memindahkan Data ke Amazon S3.md",
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS/0106 Memindahkan Data ke Amazon S3.md"
+                "file": "1000 Projects/2022 Nov - Codecademy/Project.md"
               }
             }
           }
@@ -159,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cf2208701c66f1b",
+  "active": "f1c81302484641fb",
   "lastOpenFiles": [
-    "2000 Areas of Improvement/Code/AWS/0105 Amazon S3 Versioning.md",
-    "2000 Areas of Improvement/Code/AWS/0104 Use Case Amazon S3 - 4 Simpan Data Backup.md",
-    "2000 Areas of Improvement/Code/AWS/0104 Use Case Amazon S3 - 3 Simpan Data Komputasi.md",
-    "2000 Areas of Improvement/Code/AWS/0104 Use Case Amazon S3 - 1 Simpan dan Distribusi Konten Statis.md",
-    "2000 Areas of Improvement/Code/AWS/0103 Use Case Amazon S3 - 2 Hosting Web Statis.md",
-    "2000 Areas of Improvement/Code/AWS/0101 Amazon S3.md",
-    "2000 Areas of Improvement/Code/AWS/0008 Ikhtisar 1.md",
-    "2000 Areas of Improvement/Code/AWS/0007 5th Pillar - Cost Optimization.md",
-    "2000 Areas of Improvement/Code/AWS/0006 4th Pillar - Performance Efficiency.md",
-    "2000 Areas of Improvement/Code/AWS/0005 3rd Pillar - Reliability.md"
+    "1000 Projects/2022 Nov - Codecademy/Articles/Intermediate JavaScript/Implementing Modules in Node.md",
+    "1000 Projects/2022 Nov - Codecademy/Articles/Intermediate JavaScript/Introduction to JavaScript Runtime Environments.md",
+    "1000 Projects/2022 Nov - Codecademy/Project.md",
+    "1000 Projects/2022 Nov - Codecademy/Battle Plan.md",
+    "1000 Projects/2022 Nov - Codecademy/Project/Redux/Toggle.md",
+    "1000 Projects/2022 Nov - Codecademy/Project/Redux/Counter React.md",
+    "1000 Projects/2022 Nov - Codecademy/Project/Redux/Counter Vanilla.md",
+    "1000 Projects/2022 Nov - Codecademy/Project/Learn Javascript/Objective Race Day.md",
+    "1000 Projects/2022 Nov - Codecademy/Project/Learn Javascript/Objective Magic Eight Ball.md",
+    "2000 Areas of Improvement/Code/AWS/0000 Intro.md"
   ]
 }
