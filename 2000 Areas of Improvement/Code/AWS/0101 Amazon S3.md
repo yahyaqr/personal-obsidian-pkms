@@ -29,5 +29,3 @@ Salah satu contohnya adalah memindahkan suatu objek ke storage class yang jarang
 Setelah pola _infrequent access_ (akses yang jarang) didapatkan, Anda dapat dengan mudah membuat _lifecycle age policy_ yang baru berdasarkan hasil analisisnya. Storage class analysis juga menyajikan visualisasi harian dari penggunaan penyimpanan Anda di AWS Management Console. Bahkan, Anda dapat mengekspornya ke S3 bucket untuk kemudian dianalisis menggunakan alat _business intelligence_ (kecerdasan bisnis) pilihan Anda, seperti Amazon QuickSight.
 
 Seperti yang sudah kita bahas sebelumnya, hosting website statis hanyalah salah satu contoh penggunaan dari Amazon S3. Ada beberapa kasus penggunaan S3 yang layak Anda lihat. Mari kita bahas satu per satu dalam bentuk pembahasan kasus.
-
-![[Pasted image 20221221080234.png]]
