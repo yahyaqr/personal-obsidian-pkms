@@ -18,7 +18,6 @@ updated: Friday, December 23rd 2022 - 15.26
 
 (Bagus banget) A wide shot of NursyifaZahraFix in a orchid garden. Pexels contest winner, smiling young woman, loosely cropped, beautiful girl, acting headshot.
 
-
 ---
 
 A professional profile picture of NursyifaZahraFix with happy face, sitting on a chair, full body, symmetrical, light background, double exposure, blurred background of a green landscape.
