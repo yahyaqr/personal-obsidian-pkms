@@ -16,6 +16,7 @@ updated: Friday, December 23rd 2022 - 15.26
 
 (So so ) The upper torso portrait of a successful casual NursyifaZahraFix. Highly detailed. Canon 5d mark iii photo, professional studio lighting, aesthetic, very inspirational, motivational.
 
+(Bagus banget) A wide shot of NursyifaZahraFix in a orchid garden. Pexels contest winner, smiling young woman, loosely cropped, beautiful girl, acting headshot.
 
 
 ---
