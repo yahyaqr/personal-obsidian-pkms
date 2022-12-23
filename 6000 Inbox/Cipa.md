@@ -2,11 +2,15 @@
 created: Friday, December 23rd 2022 - 15.26
 updated: Friday, December 23rd 2022 - 15.26
 ---
-A professional profile picture of NursyifaZahraFix, sitting on a chair, full body, symmetrical, white blur background.
+(Jelek) A professional profile picture of NursyifaZahraFix, sitting on a chair, full body, symmetrical, white blur background.
 
 (Bagus Banget) A professional profile picture of NursyifaZahraFix, pexels contest winner, smiling young woman, loosely cropped, beautifuf girl, acting headshot
 
-a portrait of a NursyifaZahraFix standing on top of a boat. profile picture 1024px documentary, stormy seas, oscar winning
+(Jelek) a portrait of a NursyifaZahraFix standing on top of a boat. profile picture 1024px documentary, stormy seas, oscar winning
+
+(So so) A professional profile picture of NursyifaZahraFix, friendly open look pexels contest winner, smiling young woman, loosely cropped, beautifuf girl, acting headshot, working for a healthcare consultancy company
+
+(Bagus) A professional profile picture of NursyifaZahraFix working for a healthcare company, pexels contest winner, smiling young woman, loosely cropped, beautifuf girl, acting headshot
 
 ---
 
