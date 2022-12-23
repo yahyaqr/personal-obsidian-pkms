@@ -12,6 +12,12 @@ updated: Friday, December 23rd 2022 - 15.26
 
 (Bagus) A professional profile picture of NursyifaZahraFix working for a healthcare company, pexels contest winner, smiling young woman, loosely cropped, beautifuf girl, acting headshot
 
+(Dapet dikit) A friendly portrait of NursyifaZahraFix, seated on wooden chair, pexels contest winner, smiling young woman, loosely cropped, beautifuf girl
+
+(So so ) The upper torso portrait of a successful casual NursyifaZahraFix. Highly detailed. Canon 5d mark iii photo, professional studio lighting, aesthetic, very inspirational, motivational.
+
+
+
 ---
 
 A professional profile picture of NursyifaZahraFix with happy face, sitting on a chair, full body, symmetrical, light background, double exposure, blurred background of a green landscape.
@@ -45,3 +51,17 @@ A bald round - faced male hacker with glasses without a beard at the computer. f
 A highly realistic national portrait winner, hasselblad medium format portrait of zuckerberg, musk and bezos, crying. by bruce gilden
 
 A japanese woman, wide shot, ultrarealistic uhd faces, Kodak Uttramax 800, pexefs, 85mm, casual pose, 35mm film rol photo, hard fight. detailed skin texture, masterpiece, sharp fccus, pretty, lovely, adorable, attractive, hasselblad. candid street portrait
+
+portrait of a blonde woman in a white
+dress posing for a picture, tumblr,
+digital art, glowing with colored light,
+ethereal lighting, forest ray light,
+taken in 2022, handsome girl, brooke
+ash/ingr diffused natural skin glow : 6
+I gingerbread candy village, on a
+plate in a busy diner, ice - t, drinking
+beer and laughing, cartoon, 1990s
+cartc»nr black show room, breaking
+bad scene. animal - shaped bread,
+broken down grey wall, cheese and
+pepperoni, black hair, duplicate -2
