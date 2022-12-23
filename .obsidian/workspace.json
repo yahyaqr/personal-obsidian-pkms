@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc19bc7692ab5d4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6000 Inbox/Cipa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-23.md",
+                "file": "6000 Inbox/Cipa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-23.md",
+                "file": "6000 Inbox/Cipa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-23.md"
+                "file": "6000 Inbox/Cipa.md"
               }
             }
           }
@@ -183,8 +195,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1c81302484641fb",
+  "active": "fc19bc7692ab5d4c",
   "lastOpenFiles": [
+    "5000 Work Focus Log/2022 - 11/2022-12-23.md",
     "1000 Projects/2022 Nov - Codecademy/Project.md",
     "5000 Work Focus Log/2022 - 11/2022-12-22.md",
     "1000 Projects/2022 Nov - Codecademy/Articles/Intermediate JavaScript/Implementing Modules in Node.md",
@@ -193,7 +206,6 @@
     "1000 Projects/2022 Nov - Codecademy/Project/Redux/Toggle.md",
     "1000 Projects/2022 Nov - Codecademy/Project/Redux/Counter React.md",
     "1000 Projects/2022 Nov - Codecademy/Project/Redux/Counter Vanilla.md",
-    "1000 Projects/2022 Nov - Codecademy/Project/Learn Javascript/Objective Race Day.md",
-    "1000 Projects/2022 Nov - Codecademy/Project/Learn Javascript/Objective Magic Eight Ball.md"
+    "1000 Projects/2022 Nov - Codecademy/Project/Learn Javascript/Objective Race Day.md"
   ]
 }
