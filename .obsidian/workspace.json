@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-30.md",
+                "file": "5000 Work Focus Log/2022 - 11/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-30.md",
+                "file": "5000 Work Focus Log/2022 - 11/2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-30.md",
+                "file": "5000 Work Focus Log/2022 - 11/2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5000 Work Focus Log/2022 - 11/2022-12-30.md"
+                "file": "5000 Work Focus Log/2022 - 11/2023-01-04.md"
               }
             }
           }
@@ -209,15 +209,15 @@
   },
   "active": "89bf3a68107026b4",
   "lastOpenFiles": [
+    "6000 Inbox/StableDiffusion Prompt.md",
+    "6000 Inbox/Untitled.md",
+    "6000 Inbox/VISMAYA PROMPT.md",
+    "5000 Work Focus Log/2022 - 11/2022-12-30.md",
     "1000 Projects/2022 Nov - Codecademy/Battle Plan.md",
-    "6000 Inbox/Cipa.md",
     "5000 Work Focus Log/2022 - 11/2022-12-23.md",
     "1000 Projects/2022 Nov - Codecademy/Project.md",
     "5000 Work Focus Log/2022 - 11/2022-12-22.md",
     "1000 Projects/2022 Nov - Codecademy/Articles/Intermediate JavaScript/Implementing Modules in Node.md",
-    "1000 Projects/2022 Nov - Codecademy/Articles/Intermediate JavaScript/Introduction to JavaScript Runtime Environments.md",
-    "1000 Projects/2022 Nov - Codecademy/Project/Redux/Toggle.md",
-    "1000 Projects/2022 Nov - Codecademy/Project/Redux/Counter React.md",
-    "1000 Projects/2022 Nov - Codecademy/Project/Redux/Counter Vanilla.md"
+    "1000 Projects/2022 Nov - Codecademy/Articles/Intermediate JavaScript/Introduction to JavaScript Runtime Environments.md"
   ]
 }
