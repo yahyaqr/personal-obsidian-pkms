@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/Jenis-Jenis Amazon VPC.md",
+                "file": "2000 Areas of Improvement/Code/AWS 2/01 Jenis-Jenis Amazon VPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b2e95c63556d603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS 2/02 Subnets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60ce4b34fb9f9e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS 2/03 Gateways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9a61e4de82b1530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f81d3d79c7c26763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/Jenis-Jenis Amazon VPC.md",
+                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/Jenis-Jenis Amazon VPC.md",
+                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/Jenis-Jenis Amazon VPC.md"
+                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md"
               }
             }
           }
@@ -146,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7524c4ce31465ecb",
+  "active": "f81d3d79c7c26763",
   "lastOpenFiles": [
+    "2000 Areas of Improvement/Code/AWS 2/03 Gateways.md",
+    "2000 Areas of Improvement/Code/AWS 2/05 Ikhtisar.md",
+    "2000 Areas of Improvement/Code/AWS 2/01 Jenis-Jenis Amazon VPC.md",
+    "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
+    "2000 Areas of Improvement/Code/AWS 2/02 Subnets.md",
     "2000 Areas of Improvement/Code/SOLID/Untitled.md",
     "5000 Work Focus Log/2022 - 11/2023-01-04.md",
     "6000 Inbox/StableDiffusion Prompt.md",
     "6000 Inbox/Untitled.md",
-    "6000 Inbox/VISMAYA PROMPT.md",
-    "5000 Work Focus Log/2022 - 11/2022-12-30.md",
-    "1000 Projects/2022 Nov - Codecademy/Battle Plan.md",
-    "5000 Work Focus Log/2022 - 11/2022-12-23.md",
-    "1000 Projects/2022 Nov - Codecademy/Project.md",
-    "5000 Work Focus Log/2022 - 11/2022-12-22.md"
+    "6000 Inbox/VISMAYA PROMPT.md"
   ]
 }
