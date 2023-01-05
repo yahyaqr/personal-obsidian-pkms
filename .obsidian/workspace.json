@@ -8,60 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7524c4ce31465ecb",
+            "id": "3dc0247619f45524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/01 Jenis-Jenis Amazon VPC.md",
+                "file": "2000 Areas of Improvement/Code/AWS 3/01 Virtual Private Gateway.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b2e95c63556d603",
+            "id": "259bf883d7d98bf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/02 Subnets.md",
+                "file": "2000 Areas of Improvement/Code/AWS 3/02 AWS Direct Connect (DX).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60ce4b34fb9f9e7c",
+            "id": "a5be6bdbda2f005a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/03 Gateways.md",
+                "file": "2000 Areas of Improvement/Code/AWS 3/03 Menghubungkan VPC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9a61e4de82b1530",
+            "id": "36bea00f8c6879c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
+                "file": "2000 Areas of Improvement/Code/AWS 3/04 AWS Transit Gateway.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f81d3d79c7c26763",
+            "id": "c2e4a604cf571d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
+                "file": "2000 Areas of Improvement/Code/AWS 3/05 VPC Endpoints.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
+                "file": "2000 Areas of Improvement/Code/AWS 3/05 VPC Endpoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
+                "file": "2000 Areas of Improvement/Code/AWS 3/05 VPC Endpoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md"
+                "file": "2000 Areas of Improvement/Code/AWS 3/05 VPC Endpoints.md"
               }
             }
           }
@@ -195,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f81d3d79c7c26763",
+  "active": "c2e4a604cf571d21",
   "lastOpenFiles": [
+    "2000 Areas of Improvement/Code/AWS 3/04 AWS Transit Gateway.md",
+    "2000 Areas of Improvement/Code/AWS 3/03 Menghubungkan VPC.md",
+    "2000 Areas of Improvement/Code/AWS 3/02 AWS Direct Connect (DX).md",
+    "2000 Areas of Improvement/Code/AWS 3/01 Virtual Private Gateway.md",
+    "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
     "2000 Areas of Improvement/Code/AWS 2/03 Gateways.md",
     "2000 Areas of Improvement/Code/AWS 2/05 Ikhtisar.md",
     "2000 Areas of Improvement/Code/AWS 2/01 Jenis-Jenis Amazon VPC.md",
-    "2000 Areas of Improvement/Code/AWS 2/04 Keamanan Jaringan.md",
     "2000 Areas of Improvement/Code/AWS 2/02 Subnets.md",
-    "2000 Areas of Improvement/Code/SOLID/Untitled.md",
-    "5000 Work Focus Log/2022 - 11/2023-01-04.md",
-    "6000 Inbox/StableDiffusion Prompt.md",
-    "6000 Inbox/Untitled.md",
-    "6000 Inbox/VISMAYA PROMPT.md"
+    "2000 Areas of Improvement/Code/SOLID/Untitled.md"
   ]
 }
